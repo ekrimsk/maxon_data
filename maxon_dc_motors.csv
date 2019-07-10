@@ -1,631 +1,642 @@
 Description,V,Watt,Resistance,Shaft,kt_mNm,Max_speed,No_load_RPM,No_load_current,Stall_torque,Inertia,Max_efficiency,Inductance,Price
+"EC 90 flat Ø90 mm, brushless, 600 W, with Hall sensors",30,600,0.28,90,1560,5000,2080,493,14600,5100,87,0.369,300.88
+"EC-i 52 Ø52 mm, brushless, 200 W, with Hall sensors",24,200,0.119,52,640,5000,3340,657,13800,264,89,0.149,513.13
+"EC 90 flat Ø90 mm, brushless, 400 W, with Hall sensors",30,400,0.28,90,1260,5000,2080,475,14600,4760,87,0.369,292.5
+"EC 90 flat Ø90 mm, brushless, 220 W, with Hall sensors",24,220,0.216,90,729,5000,3170,658,7910,2870,85,0.232,242.13
+"EC 90 flat Ø90 mm, brushless, 360 W, with Hall sensors EC 90 flat Ø90 mm, brushless, 360 W, with Hall sensors",24,360,0.216,90,953,5000,3210,696,7800,3210,84,0.232,248.88
+"EC 60 flat Ø60 mm, brushless, 200 W, with Hall sensors",24,200,0.293,60,536,6000,4300,497,4300,832,85,0.279,157.25
+"EC 60 flat Ø60 mm, brushless, 100 W, with Hall sensors",24,100,0.293,60,269,6000,4300,493,4300,835,85,0.279,141.13
+"EC 60 flat Ø60 mm, brushless, 150 W, with Hall sensors",24,150,0.293,60,401,6000,4300,497,4300,810,85,0.279,148.25
+"EC-i 52 Ø52 mm, brushless, 200 W, with Hall sensors",48,200,0.24,52,622,5000,3970,419,22900,264,91,0.424,513.13
+"EC 60 flat Ø60 mm, brushless, 200 W, with Hall sensors and cables",24,200,0.293,60,536,6000,4300,497,4300,832,85,0.279,162.25
+"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",3,2,0.766,6,0.413,100000,74400,149,1.45,0.00703,66,0.005,284.75
+"ECX SPEED 6 M Ø6 mm, brushless, sensorless",3,2,0.686,6,0.412,100000,74700,149,1.62,0.00703,67,0.005,244.88
+"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",6,2,3.49,6,0.412,100000,62700,58.8,1.52,0.00703,67,0.03,284.75
+"ECX SPEED 6 M Ø6 mm, brushless, sensorless",6,2,3.41,6,0.411,100000,62700,58.9,1.55,0.00703,68,0.03,244.88
+"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",12,2,12.4,6,0.425,100000,63400,29.8,1.7,0.00703,69,0.118,284.75
+"ECX SPEED 6 M Ø6 mm, brushless, sensorless",12,2,12.3,6,0.425,100000,63400,29.8,1.71,0.00703,69,0.118,244.88
+"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",6,1.5,8.72,6,0.334,100000,44200,46.5,0.832,0.00703,56,0.065,245.25
+"ECX SPEED 6 M Ø6 mm, brushless, sensorless",6,1.5,8.64,6,0.334,100000,44200,46.5,0.839,0.00703,56,0.065,206.5
+"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",12,1.5,63.8,6,0.322,100000,33300,16.2,0.59,0.00703,51,0.436,245.25
+"ECX SPEED 6 M Ø6 mm, brushless, sensorless",12,1.5,63.8,6,0.32,100000,33500,16.3,0.588,0.00703,51,0.436,206.5
+"A-max 16 Ø16 mm, Precious Metal Brushes CLL, 2 Watt, with terminals",12,2,23.1,16,2.17,19000,12300,9.54,4.77,0.849,76,0.83,53.88
+"A-max 16 Ø16 mm, Precious Metal Brushes CLL, 2 Watt, with terminals",24,2,76.2,16,2.11,19000,13800,5.83,5.12,0.816,76,2.61,53.88
+"A-max 16 Ø16 mm, Precious Metal Brushes CLL, 1.2 Watt, with terminals",12,1.2,31.1,16,2.11,11000,10300,15.4,4.13,0.859,65,1.13,54.38
+"A-max 16 Ø16 mm, Graphite Brushes, 2 Watt, with terminals",21,2,76.1,16,2.28,11900,11300,23,4.49,0.816,50,2.61,58.38
+"A-max 19 Ø19 mm, Precious Metal Brushes CLL, 2.5 Watt, with terminals",24,2.5,79.7,19,3.39,16000,8870,5.73,7.63,1.99,75,3.87,58.13
+"A-max 19 Ø19 mm, Precious Metal Brushes CLL, 1.5 Watt, with terminals",7.2,1.5,13.8,19,3.51,10000,6130,14,5.68,2.09,70,0.719,59.25
+"A-max 22 Ø22 mm, Precious Metal Brushes CLL, 5 Watt, with terminals",12,5,5.39,22,6.24,16000,10400,16.8,24.3,4.36,84,0.362,61.88
+"A-max 22 Ø22 mm, Precious Metal Brushes CLL, 5 Watt, with terminals",24,5,21.2,22,6.08,16000,10700,8.81,24,4.2,84,1.37,61.88
+"A-max 22 Ø22 mm, Precious Metal Brushes CLL, 5 Watt, with terminals",48,5,122,22,5.89,16000,9280,3.47,19.3,3.97,82,7.29,61.88
+"A-max 22 Ø22 mm, Graphite Brushes, 6 Watt, with terminals",12,6,5.53,22,6.96,9800,10200,45.8,23.7,4.29,72,0.363,64.88
+"A-max 22 Ø22 mm, Graphite Brushes, 6 Watt, with terminals",24,6,21.5,22,6.9,9800,10500,23.7,23.7,4.13,73,1.37,64.88
+"A-max 22 Ø22 mm, Graphite Brushes, 6 Watt, with terminals",24,6,21.5,22,6.9,9800,10500,23.7,23.7,4.2,73,1.37,66.13
+"A-max 26 Ø26 mm, Precious Metal Brushes CLL, 4.5 Watt, with terminals",24,4.5,30.1,26,15.4,6700,4510,8.45,40.1,12.5,81,2.99,132.63
+"A-max 26 Ø26 mm, Graphite Brushes, 11 Watt, with terminals",24,11,7.36,26,18.4,10400,8890,31.7,83.3,13.1,82,0.77,157
+"EC 32 Ø32 mm, brushless, 80 Watt, with Hall sensors",24,80,1.39,32,47.2,25000,11000,199,355,20,80,0.226,402.63
+"EC 32 Ø32 mm, brushless, 80 Watt, with Hall sensors",48,80,5.43,32,45.9,25000,11300,104,353,20,80,0.856,402.63
+"RE 40 Ø40 mm, Graphite Brushes, 150 Watt",24,150,0.299,40,177,12000,7580,137,2420,142,91,0.082,478.13
+"RE 40 Ø40 mm, Graphite Brushes, 150 Watt",48,150,1.13,40,187,12000,7590,68.6,2560,137,92,0.33,478.13
+"EC 45 flat Ø42.9 mm, brushless, 30 Watt, with Hall sensors",12,30,1.24,45,54.9,10000,4360,163,247,92.5,76,0.56,100.38
+"A-max 32 Ø32 mm, Graphite Brushes, 20 Watt, with terminals",24,20,3.99,32,45.5,6000,6460,42.8,212,45.3,84,0.556,218.13
+"A-max 32 Ø32 mm, Graphite Brushes, 20 Watt, with terminals",30,20,7.02,32,45.1,6000,6160,32.3,197,44.2,83,0.954,219.88
+"EC 14 flat Ø13.6 mm, brushless, 1.5 Watt, sensorless",18,1.5,38,14,1.74,22000,19900,51.7,3.6,1.1,48,0.962,102.13
+"A-max 19 Ø19 mm, Graphite Brushes, 2.5 Watt, with terminals",12,2.5,13.8,19,3.89,12000,9930,44.6,9.47,2.12,60,0.719,64.75
+"EC 45 flat Ø42.8 mm, brushless, 50 Watt, with Hall sensors",24,50,1.03,45,83.4,10000,6710,185,780,135,83,0.572,147.13
+"A-max 12 Ø12 mm, Precious Metal Brushes CLL, 0.75 Watt, with cable",9,0.75,40.9,12,0.941,19000,12100,5.87,1.52,0.238,70,1.01,64
+"A-max 12 Ø12 mm, Precious Metal Brushes CLL, 0.75 Watt, with cable",15,0.75,116,12,0.804,19000,13800,4.2,1.29,0.183,68,2.13,64
+"A-max 12 Ø12 mm, Precious Metal Brushes CLL, 0.5 Watt, with cable",12,0.5,71.6,12,0.908,14000,12100,7.38,1.52,0.235,63,1.74,64.75
+"EC 32 flat Ø32 mm, brushless, 15 Watt, with Hall sensors",24,15,13.8,32,25.5,10000,4530,36.9,85.3,35,73,7.72,98.13
+"EC-max 30 Ø30 mm, brushless, 60 Watt, with Hall sensors",24,60,1.27,30,60.7,15000,9340,231,458,21.9,81,0.143,324.5
+"EC-max 30 Ø30 mm, brushless, 60 Watt, with Hall sensors",48,60,4.49,30,64.1,15000,9350,95.4,519,21.9,82,0.573,324.5
+"EC-max 30 Ø30 mm, brushless, 40 Watt, with Hall sensors",24,40,3.65,30,33.8,15000,9250,151,160,11,75,0.31,249.5
+"EC-max 30 Ø30 mm, brushless, 40 Watt, with Hall sensors",48,40,14.8,30,33.4,15000,9250,61.3,157,11,75,1.24,249.5
+"EC-max 16 Ø16 mm, brushless, 5 Watt, with Hall sensors",12,5,15.7,16,3.23,20000,13500,60.2,5.95,0.428,54,0.254,209.5
+"EC-max 16 Ø16 mm, brushless, 8 Watt, with Hall sensors",12,8,5.3,16,8.02,20000,11900,64.2,21.1,0.85,70,0.14,247.63
+"EC-max 16 Ø16 mm, brushless, 8 Watt, with Hall sensors",24,8,20.5,16,8.19,20000,11900,31.9,22,0.85,71,0.566,247.63
+"EC-max 22 Ø22 mm, brushless, 12 Watt, with Hall sensors",12,12,3.46,22,10.2,18000,12100,155,31.3,2.25,64,0.121,210
+"EC-max 22 Ø22 mm, brushless, 12 Watt, with Hall sensors",24,12,12.4,22,10.8,18000,12100,77.3,35.1,2.25,65,0.488,210
+"EC-max 22 Ø22 mm, brushless, 25 Watt, with Hall sensors",24,25,3.44,22,22.7,18000,12900,121,121,4.45,76,0.182,259.13
+"EC-max 22 Ø22 mm, brushless, 25 Watt, with Hall sensors",48,25,13.1,22,23.2,18000,12900,60.4,127,4.45,77,0.729,259.13
+"EC-max 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",24,70,1.35,40,89.6,12000,8040,337,497,51.2,76,0.186,342.13
+"EC-max 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",48,70,3.78,40,94.2,12000,9030,173,636,51.2,78,0.592,342.13
+"EC-max 40 Ø40 mm, brushless, 120 Watt, with Hall sensors",48,120,7.19,40,211,12000,3610,72.7,838,101,80,1.6,512.75
+"EC-4pole 30 Ø30 mm, brushless, 200 Watt",24,200,0.102,30,95.6,25000,16700,723,3240,33.3,90,0.016,887
+"EC-4pole 30 Ø30 mm, brushless, 200 Watt",48,200,0.386,30,92.9,25000,16500,356,3430,33.3,90,0.065,887
+"EC-4pole 30 Ø30 mm, brushless, 100 Watt",24,100,0.248,30,68.8,25000,17500,379,1270,18.3,88,0.03,771.75
+"EC-4pole 30 Ø30 mm, brushless, 100 Watt",48,100,0.836,30,73.4,25000,17500,189,1500,18.3,89,0.118,771.75
+"EC-4pole 22 Ø22 mm, brushless, 120 Watt",24,120,0.341,22,54.5,25000,16900,223,954,8.91,89,0.031,723
+"EC-4pole 22 Ø22 mm, brushless, 120 Watt",48,120,1.27,22,54.4,25000,16900,112,1020,8.91,90,0.123,723
+"EC 10 Ø10 mm, brushless, 8 Watt, with Hall sensors",18,8,3.42,10,1.61,65000,57100,67.3,15.6,0.0691,79,0.067,311.88
+"MCD EPOS P, 60W Intelligent compact drive",0,0,0,0,0,0,0,0,0,0,0,0,0
+"EC-4pole 22 Ø22 mm, brushless, 90 Watt",24,90,0.527,22,45.1,25000,16300,166,639,5.54,88,0.05,645.5
+"EC-4pole 22 Ø22 mm, brushless, 90 Watt",36,90,1.24,22,43.7,25000,16300,110,612,5.54,88,0.113,645.5
+"EC-4pole 22 Ø22 mm, brushless, 90 Watt",48,90,2.3,22,42.6,25000,16300,82.8,586,5.54,88,0.201,645.5
+"EC 45 flat Ø42.9 mm, brushless, 30 Watt, with Hall sensors",24,30,4.87,45,54.7,10000,4360,81.4,251,92.5,76,2.24,100.38
+"EC 45 flat Ø42.8 mm, brushless, 50 Watt, with Hall sensors",36,50,7.48,45,90.5,10000,3360,42.3,484,135,82,5.15,147.13
+"EC 45 flat Ø45 mm, brushless, 30 Watt, with integrated electronics",24,30,0.201,45,80.3,6480,6000,209,111,135,79,0.322,249.75
+"EC 20 flat Ø20 mm, brushless, 5 Watt, with Hall sensors",24,5,28.6,20,7.74,15000,9300,25.1,19.9,5.1,69,3.09,114.5
+"RE 65 Ø65 mm, Graphite Brushes, 250 Watt",24,250,0.0821,65,501,5500,4090,697,15700,1290,83,0.031,993.63
+"RE 65 Ø65 mm, Graphite Brushes, 250 Watt",48,250,0.365,65,800,5500,3670,289,16100,1340,88,0.161,993.63
+"EC 20 flat Ø20 mm, brushless, 5 Watt, with integrated electronics, with cover",24,5,7.48,20,7.31,6480,6000,32.2,13.2,5.1,62,2.62,199.75
+"EC 32 flat Ø32 mm, brushless, 15 Watt, with integrated electronics, with cover",24,15,1.34,32,18.6,6480,6000,83.7,35.8,35,72,1.61,229.5
+"EC 45 flat Ø45 mm, brushless, 50 Watt, with integrated electronics, with cover",24,50,0.264,45,116,10000,4500,191,157,181,80,0.413,258.88
+"EC 40 Ø40 mm, brushless, 170 Watt, with Hall sensors",24,170,0.209,40,165,18000,9840,385,2660,53.8,89,0.084,690.13
+"EC 40 Ø40 mm, brushless, 170 Watt, with Hall sensors",48,170,0.806,40,165,18000,9840,193,2760,53.8,89,0.337,690.13
+"EC 45 flat Ø42.8 mm, brushless, 70 Watt, with Hall sensors",24,70,0.608,45,128,10000,6110,234,1460,181,85,0.463,160.5
+"EC 45 flat Ø42.8 mm, brushless, 70 Watt, with Hall sensors",48,70,6.89,45,134,10000,3440,48.1,915,181,84,5.85,160.5
+"EC-i 40 Ø40 mm, brushless, 50 Watt, with Hall sensors",24,50,0.501,40,52.8,15000,13200,285,810,10.5,85,0.39,254
+"EC-i 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",36,70,0.778,40,83.4,15000,10700,192,1460,24.2,87,0.644,269.75
+"EC-i 40 Ø40 mm, brushless, 50 Watt, with Hall sensors",18,50,0.455,40,64.6,10000,7790,289,858,12.8,84,0.255,288.75
+"EC-i 40 Ø40 mm, brushless, 50 Watt, with Hall sensors",36,50,1.44,40,78.2,10000,7350,131,1150,12.8,86,1.15,288.75
+"EC-i 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",18,70,0.199,40,105,10000,7840,448,1960,23,86,0.113,315.25
+"EC-i 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",36,70,0.591,40,129,10000,7390,205,2800,23,89,0.512,315.25
+"EC-i 40 Ø40 mm, brushless, 100 Watt, with Hall sensors",18,100,0.236,40,207,8000,4540,352,2860,44,87,0.169,335.5
+"EC-i 40 Ø40 mm, brushless, 100 Watt, with Hall sensors",36,100,0.853,40,207,8000,4550,176,3160,44,87,0.675,335.5
 "EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
 "EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
 "EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
 "EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
 "EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
 "EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
+"EC-i 30 Ø30 mm, brushless, 75 W, with Hall sensors",24,75,0.38,30,107,10000,7950,223,1800,15.5,88,0.39,296.88
+"EC-i 52 Ø52 mm, brushless, 180 W, with Hall sensors",24,180,0.0948,52,434,6000,4720,716,12200,170,90,0.123,396.38
+"RE 50 Ø50 mm, Graphite Brushes, 200 Watt",24,200,0.103,50,405,9500,5950,236,8920,536,94,0.072,588.5
+"RE 50 Ø50 mm, Graphite Brushes, 200 Watt",48,200,0.608,50,420,9500,4900,88.4,7370,542,94,0.423,588.5
+"EC-i 52 Ø52 mm, brushless, 180 W, with Hall sensors",48,180,0.288,52,419,6000,4950,384,15300,170,90,0.45,396.38
 "EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
+"EC 9.2 flat Ø10 mm, brushless, 0.5 Watt, with Hall sensors",6,0.5,18.1,9,0.684,25000,15600,31.1,1.1,0.237,51,0.4,146.25
+"DC-max 16 S Ø16 mm, CLL precious metal brushes, sintered bearings",6,2,4.1,16,4.06,11000,7890,14.7,10.5,1.12,81,0.14,82.13
+"DC-max 16 S Ø16 mm, CLL precious metal brushes, sintered bearings",12,2,19.1,16,3.92,11000,7560,6.9,9.44,1.05,80,0.61,82.13
+"DC-max 16 S Ø16 mm, CLL precious metal brushes, sintered bearings",24,2,83.2,16,3.8,11000,7470,3.4,8.75,0.994,80,2.49,82.13
+"DC-max 16 S Ø16 mm, graphite brushes, sintered bearings",6,3,2.79,16,3.71,11000,9870,67.3,12.1,1,68,0.086,84.75
+"DC-max 16 S Ø16 mm, graphite brushes, sintered bearings",12,3,11.4,16,4.31,11000,9860,33.6,11.9,0.993,68,0.343,84.75
+"DC-max 16 S Ø16 mm, graphite brushes, sintered bearings",24,3,37.5,16,4.76,11000,9920,16.8,14.4,1.16,71,1.37,84.75
+"DC-max 22 S Ø22 mm, CLL precious metal brushes, ball bearings",6,5,1.6,22,8.55,9000,5490,18.9,39,5.7,86,0.119,93.75
+"DC-max 22 S Ø22 mm, CLL precious metal brushes, ball bearings",12,5,6.28,22,10.3,9000,5890,10.5,36.9,4.98,86,0.413,93.75
+"DC-max 22 S Ø22 mm, CLL precious metal brushes, ball bearings",24,5,33.3,22,10.4,9000,5090,4.22,32.3,5.05,86,2.21,93.75
+"DC-max 22 S Ø22 mm, CLL precious metal brushes, sintered bearings",6,5,1.6,22,8.54,9000,5480,20.8,39,5.7,86,0.119,87
+"DC-max 22 S Ø22 mm, CLL precious metal brushes, sintered bearings",12,5,6.28,22,10.3,9000,5890,11.7,36.9,4.98,85,0.413,87
+"DC-max 22 S Ø22 mm, CLL precious metal brushes, sintered bearings",24,5,33.3,22,10.4,9000,5090,4.62,32.3,5.05,85,2.21,87
+"DC-max 22 S Ø22 mm, graphite brushes, ball bearings",6,8,1.11,22,11.3,9000,7040,56.4,42.4,5.07,77,0.069,96.38
+"DC-max 22 S Ø22 mm, graphite brushes, ball bearings",12,8,3.83,22,12.5,9000,7140,28.3,49.4,5.57,81,0.274,96.38
+"DC-max 22 S Ø22 mm, graphite brushes, ball bearings",24,8,16.6,22,11.8,9000,7340,14.5,44.6,4.69,80,1.05,96.38
+"DC-max 22 S Ø22 mm, graphite brushes, sintered bearings",6,8,1.11,22,11.3,9000,7030,58.8,42.4,5.07,77,0.069,89.63
+"DC-max 22 S Ø22 mm, graphite brushes, sintered bearings",12,8,3.83,22,12.5,9000,7140,29.5,49.4,5.57,80,0.274,89.63
+"DC-max 22 S Ø22 mm, graphite brushes, sintered bearings",24,8,16.6,22,11.8,9000,7330,15.1,44.6,4.69,80,1.05,89.63
+"DC-max 26 S Ø26 mm, CLL precious metal brushes, ball bearings",12,9,2.19,26,21,6700,4460,22.2,140,14.9,88,0.278,148.38
+"DC-max 26 S Ø26 mm, CLL precious metal brushes, ball bearings",24,9,9.08,26,28.9,6700,4370,10.8,138,15.2,88,1.16,148.38
+"DC-max 26 S Ø26 mm, CLL precious metal brushes, sintered bearings",12,9,2.19,26,20.8,6700,4460,27.1,140,14.9,87,0.278,141.63
+"DC-max 26 S Ø26 mm, CLL precious metal brushes, sintered bearings",24,9,9.08,26,28.8,6700,4370,13.2,138,15.2,87,1.16,141.63
+"DC-max 26 S Ø26 mm, graphite brushes, ball bearings",24,22,2.14,26,26.6,11000,8930,39.8,287,14.9,89,0.278,151
+"DC-max 26 S Ø26 mm, graphite brushes, ball bearings",48,22,9.04,26,29.4,11000,8740,19.3,278,15.2,88,1.16,151
+"DC-max 26 S Ø26 mm, graphite brushes, sintered bearings",24,22,2.14,26,26.3,11000,8920,53,287,14.9,87,0.278,144.25
+"DC-max 26 S Ø26 mm, graphite brushes, sintered bearings",48,22,9.04,26,28.3,11000,8730,25.7,278,15.2,87,1.16,144.25
+"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",1.5,0.3,2.58,6,0.309,17300,17200,36.2,0.453,0.0166,58,0.008,110.88
+"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",3,0.3,8.92,6,0.332,17300,17400,18.2,0.524,0.0183,60,0.032,110.88
+"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",4.5,0.3,20.8,6,0.326,17300,17400,12.1,0.507,0.0179,59,0.071,110.88
+"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",6,0.3,37.2,6,0.325,17300,17400,9.07,0.503,0.0178,59,0.126,110.88
+"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",1.5,0.3,2.58,6,0.311,17300,17500,28.9,0.453,0.0166,61,0.008,85.38
+"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",3,0.3,8.92,6,0.335,17300,17600,14.5,0.524,0.0183,63,0.032,85.38
+"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",4.5,0.3,20.8,6,0.329,17300,17600,9.63,0.507,0.0179,63,0.071,85.38
+"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",6,0.3,37.2,6,0.327,17300,17600,7.22,0.503,0.0178,63,0.126,85.38
+"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",2.4,0.5,4.13,8,0.649,17300,11500,13.6,1.13,0.0384,72,0.014,116.88
+"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",4.2,0.5,12.3,8,0.641,17300,11600,10.1,1.14,0.0379,69,0.041,116.88
+"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",6,0.5,29,8,0.637,17300,11000,5.15,1.05,0.0372,71,0.094,116.88
+"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",7.2,0.5,38.5,8,0.616,17300,11800,4.7,1.06,0.0354,71,0.117,116.88
+"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",9,0.5,54.3,8,0.647,17300,11900,3.77,1.17,0.0383,72,0.183,116.88
+"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",12,0.5,92.2,8,0.609,17300,12800,3.12,1.13,0.0351,72,0.276,116.88
+"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",2.4,0.5,4.13,8,0.653,17300,11500,11.9,1.13,0.0384,74,0.014,91.38
+"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",4.2,0.5,12.3,8,0.649,17300,11700,6.93,1.14,0.0379,74,0.041,91.38
+"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",6,0.5,29,8,0.641,17300,11000,4.51,1.05,0.0372,73,0.094,91.38
+"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",7.2,0.5,38.5,8,0.62,17300,11900,4.12,1.06,0.0354,73,0.117,91.38
+"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",9,0.5,54.3,8,0.652,17300,11900,3.3,1.17,0.0383,74,0.183,91.38
+"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",12,0.5,92.2,8,0.614,17300,12900,2.74,1.13,0.0351,74,0.276,91.38
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",1.5,1.5,0.355,10,1.02,14300,11500,97.6,5.13,0.153,73,0.005,131.63
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",3,1.5,1.44,10,2.02,14300,12100,52.8,4.81,0.132,72,0.02,131.63
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",4.5,1.5,2.9,10,2.18,14300,11900,34.3,5.45,0.151,73,0.045,131.63
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",6,1.5,6.4,10,1.91,14300,12100,26.3,4.32,0.119,70,0.078,131.63
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",9,1.5,13.2,10,2.04,14300,11900,17.1,4.8,0.134,72,0.181,131.63
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",12,1.5,27.3,10,2.01,14300,11200,11.7,4.36,0.13,71,0.362,131.63
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",1.5,1.5,0.355,10,1.03,14300,11600,83.6,5.13,0.153,74,0.005,106.13
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",3,1.5,1.44,10,2.03,14300,12200,44.7,4.81,0.132,73,0.02,106.13
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",4.5,1.5,2.9,10,2.19,14300,12000,29.1,5.45,0.151,75,0.045,106.13
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sleeve bearings",6,1.5,6.4,10,1.92,14300,12100,22.3,4.32,0.119,72,0.078,106.13
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sleeve bearings",9,1.5,13.2,10,2.05,14300,12000,14.6,4.8,0.134,73,0.181,106.13
+"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sleeve bearings",12,1.5,27.3,10,2.01,14300,11300,10.1,4.36,0.13,72,0.362,106.13
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",1.5,1,1.08,10,0.917,14300,12600,88.1,1.49,0.0766,58,0.014,128.25
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",3,1,4.04,10,0.946,14300,13000,45.9,1.54,0.0766,58,0.051,128.25
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",4.5,1,9.72,10,0.942,14300,12600,29.4,1.48,0.076,58,0.122,128.25
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",6,1,19.5,10,0.992,14300,11300,19,1.46,0.081,58,0.268,128.25
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",9,1,41.8,10,0.907,14300,12500,14.7,1.38,0.0712,56,0.488,128.25
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",12,1,74.9,10,0.904,14300,12500,11,1.37,0.0706,56,0.868,128.25
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",1.5,1,1.08,10,0.918,14300,12600,84.1,1.49,0.0766,58,0.014,102.75
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",3,1,4.04,10,0.948,14300,13000,43.8,1.54,0.0766,59,0.051,102.75
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",4.5,1,9.72,10,0.944,14300,12600,28,1.48,0.076,58,0.122,102.75
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",6,1,19.5,10,0.993,14300,11400,18.2,1.46,0.081,59,0.268,102.75
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",9,1,41.8,10,0.909,14300,12600,14,1.38,0.0712,57,0.488,102.75
+"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",12,1,74.9,10,0.905,14300,12500,10.5,1.37,0.0706,57,0.868,102.75
+"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",3,2.5,0.975,12,2.88,12000,8800,34.5,9.91,0.484,80,0.031,145.63
+"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",4.5,2.5,1.94,12,4.01,12000,8810,23,11.2,0.533,82,0.071,145.63
+"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",6,2.5,3.68,12,3.87,12000,8800,17.2,10.5,0.496,81,0.125,145.63
+"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",9,2.5,7.29,12,4.12,12000,8810,11.5,11.9,0.559,82,0.282,145.63
+"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",12,2.5,14.6,12,3.88,12000,8800,8.62,10.6,0.498,81,0.502,145.63
+"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",18,2.5,33.1,12,3.86,12000,8800,5.75,10.5,0.495,81,1.13,145.63
+"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",3,2.5,0.975,12,2.88,12000,8810,31.3,9.91,0.484,81,0.031,120.13
+"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",4.5,2.5,1.94,12,4.02,12000,8820,20.9,11.2,0.533,82,0.071,120.13
+"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",6,2.5,3.68,12,3.88,12000,8810,15.7,10.5,0.496,82,0.125,120.13
+"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",9,2.5,7.29,12,4.13,12000,8820,10.4,11.9,0.559,83,0.282,120.13
+"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",12,2.5,14.6,12,3.89,12000,8810,7.83,10.6,0.498,82,0.502,120.13
+"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",18,2.5,33.1,12,3.87,12000,8810,5.22,10.5,0.495,82,1.13,120.13
+"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",3,1.6,2.74,12,1.93,13000,9100,30,3.35,0.286,70,0.072,136.38
+"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",4.5,1.6,6.42,12,1.9,13000,9020,19.8,3.25,0.278,70,0.166,136.38
+"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",6,1.6,10.6,12,1.96,13000,9110,15,3.46,0.293,71,0.29,136.38
+"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",9,1.6,25,12,1.93,13000,9020,9.89,3.33,0.286,70,0.664,136.38
+"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",12,1.6,46,12,1.89,13000,9030,7.43,3.21,0.275,70,1.17,136.38
+"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",3,1.6,2.74,12,1.92,13000,9090,31.8,3.35,0.286,69,0.072,110.88
+"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",4.5,1.6,6.42,12,1.9,13000,9000,20.9,3.25,0.278,69,0.166,110.88
+"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",6,1.6,10.6,12,1.95,13000,9100,15.9,3.46,0.293,70,0.29,110.88
+"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",9,1.6,25,12,1.92,13000,9010,10.5,3.33,0.286,69,0.664,110.88
+"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",12,1.6,46,12,1.88,13000,9020,7.88,3.21,0.275,69,1.17,110.88
+"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",3,3,0.664,14,4.11,8680,7720,76.3,16.5,0.831,76,0.025,155.38
+"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",4.5,3,1.29,14,6.25,8680,7730,50.9,19.1,0.942,78,0.057,155.38
+"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",6,3,2.33,14,6.19,8680,7730,38.2,18.8,0.926,77,0.101,155.38
+"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",9,3,5.02,14,6.33,8680,7740,25.5,19.6,0.966,78,0.227,155.38
+"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",12,3,8.9,14,6.34,8680,7740,19.1,19.7,0.97,78,0.403,155.38
+"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",18,3,22.5,14,5.96,8680,7720,12.7,17.5,0.872,77,0.908,155.38
+"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",24,3,37.1,14,6.2,8680,7730,9.55,18.9,0.939,77,1.61,155.38
+"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",3,3,0.664,14,4.12,8680,7720,73.6,16.5,0.831,76,0.025,139.25
+"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",4.5,3,1.29,14,6.29,8680,7740,49.1,19.1,0.942,78,0.057,139.25
+"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",6,3,2.33,14,6.23,8680,7740,36.8,18.8,0.926,78,0.101,139.25
+"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",9,3,5.02,14,6.37,8680,7740,24.5,19.6,0.966,78,0.227,139.25
+"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",12,3,8.9,14,6.38,8680,7740,18.4,19.7,0.97,78,0.403,139.25
+"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",18,3,22.5,14,6,8680,7730,12.3,17.5,0.872,77,0.908,139.25
+"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",24,3,37.1,14,6.24,8680,7740,9.2,18.9,0.939,78,1.61,139.25
+"DCX 14 L Ø14 mm, graphite brushes, ball bearings",4.5,6,0.698,14,6.34,17000,11600,74.8,23.5,0.831,80,0.025,152.13
+"DCX 14 L Ø14 mm, graphite brushes, ball bearings",6,6,1.33,14,6.92,17000,10400,48,24.8,0.942,81,0.057,152.13
+"DCX 14 L Ø14 mm, graphite brushes, ball bearings",9,6,2.37,14,6.85,17000,11700,37.4,27.8,0.926,81,0.101,152.13
+"DCX 14 L Ø14 mm, graphite brushes, ball bearings",12,6,5.31,14,6.87,17000,10300,24,24.7,0.966,80,0.227,152.13
+"DCX 14 L Ø14 mm, graphite brushes, ball bearings",18,6,9.21,14,6.91,17000,11600,18.7,28.5,0.97,81,0.403,152.13
+"DCX 14 L Ø14 mm, graphite brushes, ball bearings",24,6,22.9,14,6.62,17000,10300,12,22.9,0.872,80,0.908,152.13
+"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",4.5,6,0.698,14,6.36,15000,11600,73.9,23.5,0.831,80,0.025,136
+"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",6,6,1.33,14,6.96,15000,10400,46.4,24.8,0.942,81,0.057,136
+"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",9,6,2.37,14,6.88,15000,11700,37,27.8,0.926,82,0.101,136
+"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",12,6,5.31,14,6.91,15000,10300,23.2,24.7,0.966,81,0.227,136
+"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",18,6,9.21,14,6.94,15000,11600,18.5,28.5,0.97,82,0.403,136
+"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",24,6,22.9,14,6.66,15000,10300,11.6,22.9,0.872,80,0.908,136
+"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",3,4.5,0.388,16,5.05,8680,6390,66.8,34.4,2.18,82,0.026,174.88
+"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",6,4.5,1.31,16,10,8680,6620,34.9,39.3,2.36,84,0.096,174.88
+"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",9,4.5,2.87,16,11.5,8680,6400,22.3,41.8,2.59,84,0.231,174.88
+"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",12,4.5,5.82,16,10.8,8680,6400,16.7,36.6,2.28,83,0.411,174.88
+"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",18,4.5,12.9,16,10.9,8680,6400,11.1,37.3,2.33,83,0.925,174.88
+"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",24,4.5,22.7,16,10.6,8680,6560,8.62,36.6,2.23,83,1.56,174.88
+"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",3,4.5,0.388,16,4.99,8680,6380,79.2,34.4,2.18,81,0.026,158.75
+"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",6,4.5,1.31,16,9.98,8680,6610,41.4,39.3,2.36,82,0.096,158.75
+"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",9,4.5,2.87,16,11.5,8680,6390,26.4,41.8,2.59,83,0.231,158.75
+"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",12,4.5,5.82,16,10.8,8680,6390,19.8,36.6,2.28,82,0.411,158.75
+"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",18,4.5,12.9,16,10.9,8680,6390,13.2,37.3,2.33,82,0.925,158.75
+"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",24,4.5,22.7,16,10.6,8680,6550,10.2,36.6,2.23,82,1.56,158.75
+"DCX 16 L Ø16 mm, graphite brushes, ball bearings",6,10,0.43,16,8.47,17000,12800,102,61.9,2.18,84,0.026,171.63
+"DCX 16 L Ø16 mm, graphite brushes, ball bearings",9,10,0.79,16,11.6,17000,13100,70.8,74.3,2.4,85,0.055,171.63
+"DCX 16 L Ø16 mm, graphite brushes, ball bearings",12,10,1.63,16,10.6,17000,13100,53.8,63.3,2.36,82,0.096,171.63
+"DCX 16 L Ø16 mm, graphite brushes, ball bearings",18,10,3.22,16,11.7,17000,12800,34,74.5,2.59,84,0.231,171.63
+"DCX 16 L Ø16 mm, graphite brushes, ball bearings",24,10,6.22,16,11.2,17000,12800,25.5,68.5,2.28,84,0.411,171.63
+"DCX 16 L Ø16 mm, graphite brushes, ball bearings",36,10,13.3,16,11.5,17000,12800,17,72.1,2.33,85,0.925,171.63
+"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",6,10,0.431,16,8.48,15000,12800,101,61.8,2.18,84,0.026,155.5
+"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",9,10,0.791,16,11.6,15000,13100,69.8,74.2,2.4,85,0.055,155.5
+"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",12,10,1.63,16,10.6,15000,13100,53.1,63.3,2.36,82,0.096,155.5
+"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",18,10,3.22,16,11.7,15000,12800,33.6,74.5,2.59,84,0.231,155.5
+"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",24,10,6.23,16,11.2,15000,12800,25.2,68.5,2.28,84,0.411,155.5
+"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",36,10,13.3,16,11.5,15000,12800,16.8,72,2.33,85,0.925,155.5
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",3,2.5,1.2,16,5.1,8680,6290,56,11.1,1,73,0.036,164.13
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",4.5,2.5,2.8,16,5.01,8680,6290,37.3,10.7,0.97,72,0.08,164.13
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",6,2.5,4.06,16,5.3,8680,6580,29.6,12.6,1.08,74,0.131,164.13
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",9,2.5,11.4,16,4.96,8680,6290,18.7,10.6,0.959,72,0.32,164.13
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",12,2.5,19.2,16,5.15,8680,6230,13.8,11.2,1.03,73,0.581,164.13
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",18,2.5,38.6,16,5.4,8680,6310,9.34,12.5,1.12,74,1.28,164.13
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",24,2.5,83.1,16,4.95,8680,6220,6.91,10.4,0.96,72,2.32,164.13
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",3,2.5,1.2,16,5.15,8680,6320,44.6,11.1,1,75,0.036,148
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",4.5,2.5,2.8,16,5.05,8680,6320,29.7,10.7,0.97,75,0.08,148
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",6,2.5,4.06,16,5.36,8680,6610,23.4,12.6,1.08,77,0.131,148
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",9,2.5,11.4,16,5,8680,6320,14.9,10.6,0.959,75,0.32,148
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",12,2.5,19.2,16,5.19,8680,6260,11,11.2,1.03,75,0.581,148
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",18,2.5,38.6,16,5.45,8680,6340,7.43,12.5,1.12,76,1.28,148
+"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",24,2.5,83.1,16,4.99,8680,6250,5.51,10.4,0.96,74,2.32,148
+"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",6,4.5,1.25,16,5.41,17000,12700,67.1,21.3,1,78,0.036,160.88
+"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",9,4.5,2.85,16,5.37,17000,12700,44.8,21,0.97,78,0.08,160.88
+"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",12,4.5,4.53,16,5.36,17000,13200,35.4,22.6,1.08,77,0.131,160.88
+"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",18,4.5,12,16,5.21,17000,12700,22.4,20.1,0.959,77,0.32,160.88
+"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",24,4.5,19.7,16,5.43,17000,12700,16.8,21.7,1.02,78,0.569,160.88
+"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",48,4.5,83.9,16,5.32,17000,12600,8.28,20.6,0.96,78,2.32,160.88
+"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",6,4.5,1.25,16,5.45,17000,12700,63.9,21.3,1,78,0.036,144.75
+"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",9,4.5,2.85,16,5.4,17000,12700,42.6,21,0.97,78,0.08,144.75
+"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",12,4.5,4.53,16,5.4,17000,13200,33.9,22.6,1.08,78,0.131,144.75
+"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",18,4.5,12,16,5.25,17000,12700,21.3,20.1,0.959,78,0.32,144.75
+"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",24,4.5,19.7,16,5.47,17000,12700,16,21.7,1.02,78,0.569,144.75
+"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",48,4.5,83.9,16,5.36,17000,12600,7.87,20.6,0.96,78,2.32,144.75
+"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",4.5,5,0.831,19,7.46,7500,6440,72,35.7,2.67,79,0.045,161
+"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",6,5,1.47,19,10.3,7500,6350,52.9,36.3,2.68,79,0.082,161
+"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",9,5,3.4,19,10.8,7500,6260,34.6,35.9,2.65,79,0.191,161
+"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",12,5,5.63,19,11,7500,6350,26.5,38,2.75,79,0.329,172.75
+"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",18,5,12.7,19,11,7500,6350,17.6,37.8,2.74,79,0.74,172.75
+"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",24,5,22.8,19,11,7500,6350,13.2,37.5,2.72,79,1.32,172.75
+"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",4.5,5,0.831,19,7.38,7500,6430,81.9,35.7,2.67,77,0.045,144.88
+"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",6,5,1.47,19,10.2,7500,6340,60.4,36.3,2.68,77,0.082,144.88
+"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",9,5,3.4,19,10.8,7500,6250,39.6,35.9,2.65,77,0.191,144.88
+"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",12,5,5.63,19,11,7500,6340,30.2,38,2.75,78,0.329,156.63
+"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",18,5,12.7,19,10.9,7500,6340,20.1,37.8,2.74,78,0.74,156.63
+"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",24,5,22.8,19,10.9,7500,6340,15.1,37.5,2.72,78,1.32,156.63
+"DCX 19 S Ø19 mm, graphite brushes, ball bearings",9,11,0.812,19,11.3,16000,12900,102,73,2.67,82,0.045,169.5
+"DCX 19 S Ø19 mm, graphite brushes, ball bearings",12,11,1.45,19,11.4,16000,12700,75,73.5,2.68,82,0.082,169.5
+"DCX 19 S Ø19 mm, graphite brushes, ball bearings",18,11,3.38,19,11.4,16000,12600,48.9,72.1,2.65,82,0.191,169.5
+"DCX 19 S Ø19 mm, graphite brushes, ball bearings",24,11,5.73,19,11.4,16000,12700,37.5,74.6,2.75,82,0.329,169.5
+"DCX 19 S Ø19 mm, graphite brushes, ball bearings",36,11,12.9,19,11.5,16000,12700,25,74.9,2.74,82,0.74,169.5
+"DCX 19 S Ø19 mm, graphite brushes, ball bearings",48,11,23,19,11.4,16000,12700,18.7,74.5,2.72,82,1.32,169.5
+"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",9,11,0.812,19,11.1,13500,12900,112,73,2.67,81,0.045,153.38
+"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",12,11,1.45,19,11.3,13500,12700,82.1,73.5,2.68,81,0.082,153.38
+"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",18,11,3.38,19,11.2,13500,12600,53.6,72.1,2.65,81,0.191,153.38
+"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",24,11,5.73,19,11.3,13500,12700,41,74.6,2.75,81,0.329,153.38
+"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",36,11,12.9,19,11.3,13500,12700,27.4,74.9,2.74,81,0.74,153.38
+"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",48,11,23,19,11.3,13500,12700,20.5,74.5,2.72,82,1.32,153.38
+"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",6,10,0.343,22,14.1,7160,5870,51,170,9.06,90,0.035,228.88
+"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",9,10,0.687,22,21.4,7160,5870,34,191,9.82,90,0.078,228.88
+"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",12,10,1.84,22,29.5,7160,4980,20,150,9,89,0.192,228.88
+"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",18,10,3.01,22,29.8,7160,5740,16.4,178,9.26,90,0.326,228.88
+"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",24,10,7.25,22,29.2,7160,5060,10.2,150,8.85,89,0.746,228.88
+"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",36,10,11.4,22,29.2,7160,6020,8.82,180,8.94,90,1.19,240.63
+"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",48,10,29.9,22,27.8,7160,5220,5.36,140,8.12,89,2.8,240.63
+"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",6,10,0.343,22,14.1,7160,5870,48.7,170,9.06,90,0.035,212.75
+"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",9,10,0.687,22,21.4,7160,5870,32.5,191,9.82,90,0.078,212.75
+"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",12,10,1.84,22,29.6,7160,4980,19.4,150,9,90,0.192,212.75
+"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",18,10,3.01,22,30,7160,5740,15.7,178,9.26,90,0.326,212.75
+"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",24,10,7.25,22,29.3,7160,5060,9.89,150,8.85,90,0.746,212.75
+"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",36,10,11.4,22,29.3,7160,6020,8.4,180,8.94,90,1.19,224.5
+"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",48,10,29.9,22,27.9,7160,5220,5.16,140,8.12,89,2.8,224.5
+"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",9,20,0.168,22,27,18000,12300,118,371,9.37,91,0.018,237.38
+"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",12,20,0.335,22,30.4,18000,11700,81.8,348,9.06,91,0.035,237.38
+"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",18,20,0.68,22,32.2,18000,11800,54.6,386,9.82,91,0.078,237.38
+"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",36,20,3.11,22,30,18000,11400,26.3,346,9.26,90,0.326,237.38
+"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",48,20,7.39,22,30.3,18000,10100,16.2,294,8.85,90,0.746,237.38
+"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",9,20,0.168,22,26.5,18000,12300,196,371,9.37,88,0.018,221.25
+"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",12,20,0.335,22,28.5,18000,11700,136,348,9.06,88,0.035,221.25
+"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",18,20,0.68,22,30.1,18000,11700,90.5,386,9.82,89,0.078,221.25
+"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",36,20,3.11,22,28.1,18000,11400,43.5,346,9.26,88,0.326,221.25
+"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",48,20,7.39,22,28.9,18000,10100,26.7,294,8.85,87,0.746,221.25
+"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",6,5.5,1.02,22,10.7,7160,6200,39.2,53.7,5.05,85,0.058,166.13
+"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",12,5.5,3.69,22,14.7,7160,6200,19.6,59.7,5.55,85,0.231,166.13
+"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",18,5.5,8.75,22,14.5,7160,6110,12.8,57.5,5.44,85,0.535,166.13
+"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",24,5.5,16.3,22,13.6,7160,6340,10.1,52.7,4.67,84,0.881,177.88
+"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",36,5.5,33.3,22,13.8,7160,6550,7.09,56.5,5.03,85,1.86,177.88
+"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",48,5.5,76.2,22,13.6,7160,5890,4.55,48.6,4.84,84,4.08,177.88
+"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",6,5.5,1.02,22,10.6,7160,6190,44.8,53.7,5.05,84,0.058,150
+"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",12,5.5,3.69,22,14.7,7160,6200,22.4,59.7,5.55,84,0.231,150
+"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",18,5.5,8.75,22,14.5,7160,6100,14.6,57.5,5.44,84,0.535,150
+"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",24,5.5,16.3,22,13.6,7160,6340,11.6,52.7,4.67,83,0.881,161.75
+"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",36,5.5,33.3,22,13.8,7160,6540,8.05,56.5,5.03,84,1.86,161.75
+"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",48,5.5,76.2,22,13.5,7160,5890,5.22,48.6,4.84,83,4.08,161.75
+"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",6,14,0.297,22,14.4,18000,11400,126,101,5.27,85,0.017,174.63
+"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",12,14,1.02,22,14.6,18000,12400,71.7,108,5.05,85,0.058,174.63
+"DCX 22 Ø22 mm, Graphite Brushes, ball bearings",18,14,2.21,22,14.9,18000,12400,47.8,112,5.22,86,0.13,174.63
+"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",24,14,3.69,22,15.3,18000,12400,35.9,120,5.55,86,0.231,174.63
+"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",36,14,8.94,22,14.8,18000,12200,23.4,113,5.44,85,0.535,174.63
+"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",48,14,16.6,22,14,18000,12700,18.5,104,4.67,85,0.881,174.63
+"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",6,14,0.297,22,14.3,18000,11300,159,101,5.27,83,0.017,158.5
+"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",12,14,1.02,22,14.1,18000,12400,90.8,108,5.05,83,0.058,158.5
+"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",18,14,2.21,22,14.4,18000,12400,60.5,112,5.22,84,0.13,158.5
+"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",24,14,3.69,22,14.9,18000,12400,45.4,120,5.55,84,0.231,158.5
+"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",36,14,8.94,22,14.4,18000,12200,29.5,113,5.44,83,0.535,158.5
+"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",48,14,16.6,22,13.5,18000,12600,23.5,104,4.67,83,0.881,158.5
+"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",9,22,0.363,26,32.9,5900,5530,80.5,384,21.3,89,0.067,278.13
+"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",12,22,0.671,26,46.1,5900,5330,56.8,384,21.4,89,0.129,278.13
+"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",18,22,1.54,26,49.8,5900,5530,40.2,362,19.4,89,0.268,278.13
+"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",24,22,2.68,26,52.3,5900,5330,28.4,384,21.2,89,0.514,278.13
+"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",36,22,6.15,26,50.8,5900,5430,19.5,370,20.1,89,1.11,278.13
+"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",48,22,11.6,26,50.3,5900,5320,14.2,355,19.7,89,2.06,278.13
+"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",9,22,0.363,26,32.6,5900,5530,96.1,384,21.3,88,0.067,262
+"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",12,22,0.671,26,45.8,5900,5320,68.3,384,21.4,88,0.129,262
+"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",18,22,1.54,26,49.6,5900,5530,48,362,19.4,88,0.268,262
+"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",24,22,2.68,26,52.1,5900,5320,34.2,384,21.2,88,0.514,262
+"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",36,22,6.15,26,50.6,5900,5420,23.4,370,20.1,88,1.11,262
+"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",48,22,11.6,26,50,5900,5320,17.1,355,19.7,88,2.06,262
+"DCX 26 L Ø 26mm, graphite brushes, ball bearings",12,40,0.242,26,46.9,14400,10600,131,532,21.4,88,0.032,274.88
+"DCX 26 L Ø 26mm, graphite brushes, ball bearings",18,40,0.427,26,54.3,14400,11100,93,653,21.3,90,0.067,274.88
+"DCX 26 L Ø 26mm, graphite brushes, ball bearings",24,40,0.74,26,57.8,14400,10700,65.7,695,21.4,91,0.129,274.88
+"DCX 26 L Ø 26mm, graphite brushes, ball bearings",36,40,1.75,26,54,14400,11100,46.5,639,19.4,90,0.268,274.88
+"DCX 26 L Ø 26mm, graphite brushes, ball bearings",48,40,2.95,26,59.1,14400,10700,32.9,697,21.2,91,0.514,274.88
+"DCX 26 L Ø 26mm, graphite brushes, ball bearings",60,40,4.19,26,59.8,14400,10900,27.3,750,20.7,91,0.768,274.88
+"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",12,40,0.242,26,41,8600,10600,194,532,21.4,86,0.032,258.75
+"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",18,40,0.427,26,44.8,8600,11000,138,653,21.3,88,0.067,258.75
+"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",24,40,0.74,26,48.4,8600,10600,97.1,695,21.4,89,0.129,258.75
+"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",36,40,1.8,26,45.4,8600,11100,69,618,19.4,88,0.268,258.75
+"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",48,40,2.95,26,49.7,8600,10700,48.6,697,21.2,89,0.514,258.75
+"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",60,40,4.38,26,49.5,8600,10900,40.4,718,20.7,90,0.768,258.75
+"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",12,70,0.108,32,89.4,11300,7120,274,1730,77.6,86,0.034,325.88
+"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",18,70,0.165,32,101,11300,8630,234,2120,75.9,88,0.052,325.88
+"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",24,70,0.331,32,108,11300,8270,164,1980,72.8,89,0.103,325.88
+"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",36,70,0.764,32,119,11300,7940,103,2020,76.8,90,0.254,325.88
+"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",48,70,1.4,32,123,11300,7780,75.2,2000,75.9,90,0.473,325.88
+"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",60,70,4.12,32,128,11300,5840,41.6,1420,71.7,89,1.31,325.88
+"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",12,80,0.0788,35,77.7,12300,8130,320,2080,99.5,86,0.026,359.25
+"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",18,80,0.212,35,120,12300,7200,177,1980,102,88,0.077,359.25
+"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",24,80,0.346,35,121,12300,7720,146,2030,96.6,89,0.121,359.25
+"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",36,80,0.716,35,128,12300,7940,101,2160,98.7,90,0.26,359.25
+"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",48,80,1.76,35,138,12300,6670,58.6,1860,99.5,90,0.658,359.25
+"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",60,80,2.16,35,132,12300,7690,57.5,2050,95.2,90,0.776,359.25
+"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",6,3,1.8,8,1.23,50000,35500,128,5.18,0.0249,66,0.026,360.88
+"ECX SPEED 8 M Ø8 mm, brushless, sensorless",6,3,1.8,8,1.23,50000,35500,128,5.18,0.0249,66,0.026,312.75
+"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",9,3,5.3,8,1.26,50000,29100,63.4,4.83,0.0249,66,0.089,360.88
+"ECX SPEED 8 M Ø8 mm, brushless, sensorless",9,3,5.3,8,1.26,50000,29100,63.4,4.83,0.0249,66,0.089,312.75
+"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",12,3,8.38,8,1.26,50000,30500,50.9,5.18,0.0249,67,0.144,360.88
+"ECX SPEED 8 M Ø8 mm, brushless, sensorless",12,3,8.38,8,1.26,50000,30500,50.9,5.18,0.0249,67,0.144,312.75
+"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",6,2,3.02,8,0.917,50000,35400,105,3.04,0.0249,60,0.039,302.13
+"ECX SPEED 8 M Ø8 mm, brushless, sensorless",6,2,3.02,8,0.917,50000,35400,105,3.04,0.0249,60,0.039,257.25
+"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",12,2,7.8,8,0.874,50000,43300,69,3.88,0.0249,63,0.106,302.13
+"ECX SPEED 8 M Ø8 mm, brushless, sensorless",12,2,7.8,8,0.874,50000,43300,69,3.88,0.0249,63,0.106,257.25
+"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",24,2,31.8,8,0.877,50000,42200,33.2,3.92,0.0249,64,0.447,302.13
+"ECX SPEED 8 M Ø8 mm, brushless, sensorless",24,2,31.8,8,0.877,50000,42200,33.2,3.92,0.0249,64,0.447,257.25
 "ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
 "ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
 "ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,260,0.844,90,964,5000,1960,278,13100,5060,86,1.07,278.88
-"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,260,0.0983,90,1010,5000,2110,830,14800,5060,87,0.133,278.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,160,0.216,90,457,5000,3170,658,7910,3170,85,0.232,229.88
-"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,30,1.64,30,37.3,15000,9190,103,360,7.3,84,1.12,219.88
-"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,50,0.713,30,55.5,15000,9960,169,768,13.8,86,0.475,252.5
-"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,45,0.787,30,63.8,10000,8520,143,811,8.1,87,0.749,251.88
-"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,160,2.03,90,460,5000,2600,197,6410,3170,84,2.15,229.88
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,329.75
-"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.304,13,6.89,70000,67900,223,149,0.349,88,0.012,286
-"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,329.75
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",24,50,0.512,13,7.15,70000,66400,161,161,0.349,89,0.022,286
+"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",36,50,1.13,13,6.88,70000,67900,112,161,0.349,89,0.048,329.75
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",36,50,1.13,13,6.88,70000,67900,112,161,0.349,89,0.048,286
+"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",48,50,2.34,13,7.12,70000,62300,72.1,151,0.349,89,0.101,329.75
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",48,50,2.34,13,7.12,70000,62300,72.1,151,0.349,89,0.101,286
+"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,25,1.42,13,4.84,50000,42300,165,50.9,0.374,79,0.044,299.25
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,25,1.42,13,4.84,50000,42300,165,50.9,0.374,79,0.044,250.25
+"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,25,2.16,13,5.1,50000,43100,128,58.5,0.374,80,0.076,299.25
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",24,25,2.16,13,5.1,50000,43100,128,58.5,0.374,80,0.076,250.25
+"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",36,25,4.82,13,5.23,50000,42300,82.5,59.9,0.374,81,0.178,299.25
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",36,25,4.82,13,5.23,50000,42300,82.5,59.9,0.374,81,0.178,250.25
+"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",48,25,8.64,13,5.13,50000,42700,62.8,58.9,0.374,80,0.31,299.25
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",48,25,8.64,13,5.13,50000,42700,62.8,58.9,0.374,80,0.31,250.25
+"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",18,50,0.344,13,7.65,120000,72200,203,124,0.315,88,0.007,579.63
+"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",18,50,0.344,13,7.65,120000,72200,203,124,0.315,88,0.007,526.63
+"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",24,50,0.552,13,7.91,120000,70700,147,140,0.315,89,0.014,579.63
+"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",24,50,0.552,13,7.91,120000,70700,147,140,0.315,89,0.014,526.63
+"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",36,50,1.17,13,7.64,120000,72300,101,146,0.315,89,0.03,579.63
+"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",36,50,1.17,13,7.64,120000,72300,101,146,0.315,89,0.03,526.63
+"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",48,50,2.38,13,7.78,120000,66200,66,139,0.315,89,0.063,579.63
+"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",48,50,2.38,13,7.78,120000,66200,66,139,0.315,89,0.063,526.63
+"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50,0.344,13,7.55,90000,72200,234,124,0.315,87,0.007,565.88
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50,0.344,13,7.55,90000,72200,234,124,0.315,87,0.007,510.63
+"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,50,0.552,13,7.8,90000,70600,170,140,0.315,88,0.014,565.88
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",24,50,0.552,13,7.8,90000,70600,170,140,0.315,88,0.014,510.63
+"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",36,50,1.17,13,7.53,90000,72200,117,146,0.315,88,0.03,565.88
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",36,50,1.17,13,7.53,90000,72200,117,146,0.315,88,0.03,510.63
+"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",48,50,2.38,13,7.69,90000,66200,76.5,139,0.315,88,0.063,565.88
+"ECX SPEED 13L Ø13 mm, brushless, sensorless",48,50,2.38,13,7.69,90000,66200,76.5,139,0.315,88,0.063,510.63
+"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",18,12,2.4,13,2.73,50000,44700,206,28,0.244,71,0.065,284
+"ECX SPEED 13M Ø13 mm, brushless, sensorless",18,12,2.4,13,2.73,50000,44700,206,28,0.244,71,0.065,236.75
+"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",24,12,4.22,13,2.74,50000,44500,154,28.4,0.244,71,0.117,284
+"ECX SPEED 13M Ø13 mm, brushless, sensorless",24,12,4.22,13,2.74,50000,44500,154,28.4,0.244,71,0.117,236.75
+"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",36,12,10.9,13,2.63,50000,43300,98.1,25.5,0.244,70,0.276,284
+"ECX SPEED 13M Ø13 mm, brushless, sensorless",36,12,10.9,13,2.63,50000,43300,98.1,25.5,0.244,70,0.276,236.75
+"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",48,12,19.3,13,2.58,50000,43700,74.7,25.2,0.244,70,0.483,284
+"ECX SPEED 13M Ø13 mm, brushless, sensorless",48,12,19.3,13,2.58,50000,43700,74.7,25.2,0.244,70,0.483,236.75
+"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",18,25,0.576,13,4.33,70000,66700,273,79.8,0.244,83,0.018,310.63
+"ECX SPEED 13 M Ø13 mm, brushless, sensorless",18,25,0.576,13,4.33,70000,66700,273,79.8,0.244,83,0.018,265.75
+"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",24,25,0.973,13,4.3,70000,66700,205,83.9,0.244,83,0.032,310.63
+"ECX SPEED 13 M Ø13 mm, brushless, sensorless",24,25,0.973,13,4.3,70000,66700,205,83.9,0.244,83,0.032,265.75
+"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",36,25,2.33,13,4.04,70000,66700,137,79,0.244,83,0.071,310.63
+"ECX SPEED 13 M Ø13 mm, brushless, sensorless",36,25,2.33,13,4.04,70000,66700,137,79,0.244,83,0.071,265.75
+"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",48,25,4.24,13,4.22,70000,64000,95.6,80.3,0.244,83,0.137,310.63
+"ECX SPEED 13 M Ø13 mm, brushless, sensorless",48,25,4.24,13,4.22,70000,64000,95.6,80.3,0.244,83,0.137,265.75
+"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",18,25,0.576,13,3.02,120000,77600,186,68.8,0.13,85,0.014,562.63
+"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",18,25,0.576,13,3.02,120000,77600,186,68.8,0.13,85,0.014,509.75
+"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",24,25,0.973,13,2.99,120000,77600,140,72.3,0.13,86,0.024,562.63
+"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",24,25,0.973,13,2.99,120000,77600,140,72.3,0.13,86,0.024,509.75
+"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",36,25,2.33,13,2.8,120000,77600,93.3,68.1,0.13,85,0.054,562.63
+"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",36,25,2.33,13,2.8,120000,77600,93.3,68.1,0.13,85,0.054,509.75
+"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",48,25,4.24,13,3.03,120000,74500,65.7,69.2,0.13,86,0.104,562.63
+"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",48,25,4.24,13,3.03,120000,74500,65.7,69.2,0.13,86,0.104,509.75
+"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",18,25,0.576,13,2.67,90000,77600,208,68.8,0.13,85,0.014,538.75
+"ECX SPEED 13M Ø13 mm, brushless, sensorless",18,25,0.576,13,2.67,90000,77600,208,68.8,0.13,85,0.014,484.38
+"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",24,25,0.973,13,2.64,90000,77600,156,72.3,0.13,85,0.024,538.75
+"ECX SPEED 13M Ø13 mm, brushless, sensorless",24,25,0.973,13,2.64,90000,77600,156,72.3,0.13,85,0.024,484.38
+"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",36,25,2.33,13,2.48,90000,77600,104,68.1,0.13,85,0.054,538.75
+"ECX SPEED 13M Ø13 mm, brushless, sensorless",36,25,2.33,13,2.48,90000,77600,104,68.1,0.13,85,0.054,484.38
+"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",48,25,4.24,13,2.73,90000,74500,72.9,69.2,0.13,85,0.104,538.75
+"ECX SPEED 13M Ø13 mm, brushless, sensorless",48,25,4.24,13,2.73,90000,74500,72.9,69.2,0.13,85,0.104,484.38
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",18,80,0.138,16,15.4,70000,64600,459,346,1.2,89,0.008,285.5
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",18,80,0.138,16,15.4,70000,64600,459,346,1.2,89,0.008,260.25
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",24,80,0.208,16,16,70000,64600,344,407,1.2,90,0.014,285.5
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",24,80,0.208,16,16,70000,64600,344,407,1.2,90,0.014,260.25
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",36,80,0.461,16,15.4,70000,64600,230,414,1.2,90,0.032,285.5
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",36,80,0.461,16,15.4,70000,64600,230,414,1.2,90,0.032,260.25
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",48,80,0.858,16,14.7,70000,64600,172,396,1.2,89,0.056,285.5
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",48,80,0.858,16,14.7,70000,64600,172,396,1.2,89,0.056,260.25
+"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",18,80,0.138,16,15.2,120000,65700,383,341,0.952,90,0.01,529.38
+"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",18,80,0.138,16,15.2,120000,65700,383,341,0.952,90,0.01,501.63
+"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",24,80,0.208,16,15.7,120000,65700,287,401,0.952,90,0.018,529.38
+"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",24,80,0.208,16,15.7,120000,65700,287,401,0.952,90,0.018,501.63
+"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",36,80,0.461,16,15.1,120000,65700,192,407,0.952,90,0.04,529.38
+"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",36,80,0.461,16,15.1,120000,65700,192,407,0.952,90,0.04,501.63
+"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",48,80,0.858,16,14.5,120000,65700,144,389,0.952,90,0.071,529.38
+"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",48,80,0.858,16,14.5,120000,65700,144,389,0.952,90,0.071,501.63
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",18,80,0.138,16,15.7,70000,65700,333,341,0.952,90,0.01,507.13
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",18,80,0.138,16,15.7,70000,65700,333,341,0.952,90,0.01,479.13
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",24,80,0.208,16,16.3,70000,65800,250,401,0.952,91,0.018,507.13
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",24,80,0.208,16,16.3,70000,65800,250,401,0.952,91,0.018,479.13
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",36,80,0.461,16,15.7,70000,65800,167,407,0.952,91,0.04,507.13
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",36,80,0.461,16,15.7,70000,65800,167,407,0.952,91,0.04,479.13
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",48,80,0.858,16,15,70000,65800,125,389,0.952,91,0.071,507.13
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",48,80,0.858,16,15,70000,65800,125,389,0.952,91,0.071,479.13
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",18,40,0.453,16,9.73,50000,47500,342,142,0.997,83,0.022,252.88
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",18,40,0.453,16,9.73,50000,47500,342,142,0.997,83,0.022,224
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",24,40,0.765,16,9.84,50000,47500,256,150,0.997,83,0.039,252.88
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",24,40,0.765,16,9.84,50000,47500,256,150,0.997,83,0.039,224
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",36,40,1.49,16,10.3,50000,48400,176,170,0.997,84,0.085,252.88
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",36,40,1.49,16,10.3,50000,48400,176,170,0.997,84,0.085,224
+"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",48,40,2.45,16,10.6,50000,48800,134,182,0.997,84,0.149,252.88
+"ECX SPEED 16 L Ø16 mm, brushless, sensorless",48,40,2.45,16,10.6,50000,48800,134,182,0.997,84,0.149,224
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",18,40,0.512,16,7.53,70000,55100,276,109,0.812,84,0.03,264
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",18,40,0.512,16,7.53,70000,55100,276,109,0.812,84,0.03,237.5
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",24,40,0.841,16,7.21,70000,58300,227,111,0.812,83,0.047,264
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",24,40,0.841,16,7.21,70000,58300,227,111,0.812,83,0.047,237.5
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",36,40,1.92,16,7.4,70000,56400,143,113,0.812,84,0.113,264
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",36,40,1.92,16,7.4,70000,56400,143,113,0.812,84,0.113,237.5
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",48,40,3.35,16,7.44,70000,56400,107,115,0.812,84,0.201,264
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",48,40,3.35,16,7.44,70000,56400,107,115,0.812,84,0.201,237.5
+"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",18,40,0.512,16,6.63,120000,61400,328,97.3,0.589,82,0.034,504
+"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",18,40,0.512,16,6.63,120000,61400,328,97.3,0.589,82,0.034,475.25
+"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",24,40,0.841,16,6.34,120000,64900,271,99.6,0.589,82,0.054,504
+"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",24,40,0.841,16,6.34,120000,64900,271,99.6,0.589,82,0.054,475.25
+"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",36,40,2.43,16,6.38,120000,57600,147,87.2,0.589,82,0.155,504
+"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",36,40,2.43,16,6.38,120000,57600,147,87.2,0.589,82,0.155,475.25
+"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",48,40,4.06,16,6.41,120000,58800,114,91,0.589,82,0.264,504
+"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",48,40,4.06,16,6.41,120000,58800,114,91,0.589,82,0.264,475.25
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",18,40,0.512,16,6.84,70000,61500,275,97.3,0.589,84,0.034,481.38
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",18,40,0.512,16,6.84,70000,61500,275,97.3,0.589,84,0.034,452.5
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",24,40,0.841,16,6.56,70000,65000,227,99.6,0.589,83,0.054,481.38
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",24,40,0.841,16,6.56,70000,65000,227,99.6,0.589,83,0.054,452.5
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",36,40,2.43,16,6.56,70000,57700,124,87.2,0.589,83,0.155,481.38
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",36,40,2.43,16,6.56,70000,57700,124,87.2,0.589,83,0.155,452.5
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",48,40,4.06,16,6.6,70000,58900,96.2,91,0.589,83,0.264,481.38
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",48,40,4.06,16,6.6,70000,58900,96.2,91,0.589,83,0.264,452.5
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",18,20,1.07,16,4.69,55000,49600,236,57.3,0.806,78,0.05,243.88
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",18,20,1.07,16,4.69,55000,49600,236,57.3,0.806,78,0.05,214.75
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",24,20,1.73,16,4.93,55000,49600,177,63.2,0.806,79,0.089,243.88
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",24,20,1.73,16,4.93,55000,49600,177,63.2,0.806,79,0.089,214.75
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",36,20,3.62,16,5.1,55000,49700,118,67.8,0.806,80,0.201,243.88
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",36,20,3.62,16,5.1,45000,49700,118,67.8,0.806,80,0.201,214.75
+"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",48,20,7.29,16,4.75,55000,49600,88.7,59.9,0.806,79,0.357,243.88
+"ECX SPEED 16 M Ø16 mm, brushless, sensorless",48,20,7.29,16,4.75,55000,49600,88.7,59.9,0.806,79,0.357,214.75
+"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",18,120,0.101,19,23.9,100000,60800,376,503,1.79,91,0.01,549.13
+"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",18,120,0.101,19,23.9,100000,60800,376,503,1.79,91,0.01,522
+"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",24,120,0.161,19,23.6,100000,60800,282,561,1.79,92,0.017,549.13
+"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",24,120,0.161,19,23.6,100000,60800,282,561,1.79,92,0.017,522
+"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",36,120,0.35,19,24.1,100000,57600,172,613,1.79,92,0.043,549.13
+"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",36,120,0.35,19,24.1,100000,57600,172,613,1.79,92,0.043,522
+"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",48,120,0.528,19,23.2,100000,63400,152,655,1.79,92,0.063,549.13
+"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",48,120,0.528,19,23.2,100000,63400,152,655,1.79,92,0.063,522
+"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",18,120,0.101,19,23.6,70000,60800,426,503,1.79,91,0.01,526.63
+"ECX SPEED 19 L Ø19 mm, brushless, sensorless",18,120,0.101,19,23.6,70000,60800,426,503,1.79,91,0.01,499.75
+"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",24,120,0.161,19,23.3,70000,60800,319,561,1.79,91,0.017,526.63
+"ECX SPEED 19 L Ø19 mm, brushless, sensorless",24,120,0.161,19,23.3,70000,60800,319,561,1.79,91,0.017,499.75
+"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",36,120,0.35,19,23.9,70000,57600,194,613,1.79,92,0.043,526.63
+"ECX SPEED 19 L Ø19 mm, brushless, sensorless",36,120,0.35,19,23.9,70000,57600,194,613,1.79,92,0.043,499.75
+"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",48,120,0.528,19,23,70000,63400,172,655,1.79,92,0.063,526.63
+"ECX SPEED 19 L Ø19 mm, brushless, sensorless",48,120,0.528,19,23,70000,63400,172,655,1.79,92,0.063,499.75
+"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",18,120,0.0908,19,22.9,65000,60900,351,558,1.64,92,0.008,317.38
+"ECX SPEED 19L Ø19 mm, brushless, sensorless",18,120,0.0908,19,22.9,65000,60900,351,558,1.64,92,0.008,294.5
+"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",24,120,0.151,19,22.6,65000,60900,263,598,1.64,92,0.015,317.38
+"ECX SPEED 19L Ø19 mm, brushless, sensorless",24,120,0.151,19,22.6,65000,60900,263,598,1.64,92,0.015,294.5
+"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",36,120,0.34,19,23.2,65000,57700,160,630,1.64,92,0.037,317.38
+"ECX SPEED 19L Ø19 mm, brushless, sensorless",36,120,0.34,19,23.2,65000,57700,160,630,1.64,92,0.037,294.5
+"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",48,120,0.518,19,22.2,65000,63500,142,667,1.64,92,0.055,317.38
+"ECX SPEED 19L Ø19 mm, brushless, sensorless",48,120,0.518,19,22.2,65000,63500,142,667,1.64,92,0.055,294.5
+"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",18,60,0.302,19,15.1,50000,47600,233,214,1.67,88,0.022,264.25
+"ECX SPEED 19L Ø19 mm, brushless, sensorless",18,60,0.302,19,15.1,50000,47600,233,214,1.67,88,0.022,236.63
+"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",24,60,0.45,19,16,50000,48500,180,251,1.67,89,0.037,264.25
+"ECX SPEED 19L Ø19 mm, brushless, sensorless",24,60,0.45,19,16,50000,48500,180,251,1.67,89,0.037,236.63
+"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",36,60,0.924,19,16.1,50000,49300,124,270,1.67,89,0.081,264.25
+"ECX SPEED 19L Ø19 mm, brushless, sensorless",36,60,0.924,19,16.1,50000,49300,124,270,1.67,89,0.081,236.63
+"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",18,120,0.266,19,10.9,100000,64700,247,179,1.15,88,0.023,524.5
+"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",18,120,0.266,19,10.9,100000,64700,247,179,1.15,88,0.023,497.75
+"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",24,120,0.566,19,9.65,100000,64600,185,150,1.15,87,0.044,524.5
+"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",24,120,0.566,19,9.65,100000,64600,185,150,1.15,87,0.044,497.75
+"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",36,120,1.16,19,9.98,100000,64600,123,164,1.15,88,0.099,524.5
+"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",36,120,1.16,19,9.98,100000,64600,123,164,1.15,88,0.099,497.75
+"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",48,120,2.04,19,10.2,100000,63400,90.1,169,1.15,88,0.182,524.5
+"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",48,120,2.04,19,10.2,100000,63400,90.1,169,1.15,88,0.182,497.75
+"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",18,120,0.266,19,11.1,70000,64800,207,179,1.15,89,0.023,502.13
+"ECX SPEED 19 M Ø19 mm, brushless, sensorless",18,120,0.266,19,11.1,70000,64800,207,179,1.15,89,0.023,474.5
+"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",24,120,0.566,19,9.77,70000,64600,155,150,1.15,88,0.044,502.13
+"ECX SPEED 19 M Ø19 mm, brushless, sensorless",24,120,0.566,19,9.77,70000,64600,155,150,1.15,88,0.044,474.5
+"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",36,120,1.16,19,10.1,70000,64600,103,164,1.15,89,0.099,502.13
+"ECX SPEED 19 M Ø19 mm, brushless, sensorless",36,120,1.16,19,10.1,70000,64600,103,164,1.15,89,0.099,474.5
+"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",48,120,2.04,19,10.3,70000,63400,75.3,169,1.15,89,0.182,502.13
+"ECX SPEED 19 M Ø19 mm, brushless, sensorless",48,120,2.04,19,10.3,70000,63400,75.3,169,1.15,89,0.182,474.5
+"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",18,60,0.266,19,11.2,65000,61300,408,189,1.31,85,0.021,287.5
+"ECX SPEED 19 M Ø19 mm, brushless, sensorless",18,60,0.266,19,11.2,65000,61300,408,189,1.31,85,0.021,263.5
+"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",24,60,0.566,19,10.2,65000,59600,293,162,1.31,84,0.04,287.5
+"ECX SPEED 19 M Ø19 mm, brushless, sensorless",24,60,0.566,19,10.2,65000,59600,293,162,1.31,84,0.04,263.5
+"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",36,60,1.16,19,10.5,65000,59700,195,177,1.31,85,0.09,287.5
+"ECX SPEED 19 M Ø19 mm, brushless, sensorless",36,60,1.16,19,10.5,65000,59700,195,177,1.31,85,0.09,263.5
+"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",48,60,2.04,19,10.8,65000,58600,142,183,1.31,85,0.166,287.5
+"ECX SPEED 19 M Ø19 mm, brushless, sensorless",48,60,2.04,19,10.8,65000,58600,142,183,1.31,85,0.166,263.5
+"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",18,30,0.715,19,7.61,50000,45200,250,94.8,1.15,82,0.055,250.75
+"ECX SPEED 19M Ø19 mm, brushless, sensorless",18,30,0.715,19,7.61,50000,45200,250,94.8,1.15,82,0.055,222.88
+"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",24,30,1.13,19,7.47,50000,47700,205,101,1.15,82,0.087,250.75
+"ECX SPEED 19M Ø19 mm, brushless, sensorless",24,30,1.13,19,7.47,50000,47700,205,101,1.15,82,0.087,222.88
+"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",36,30,2.8,19,7.57,50000,45200,125,96.7,1.15,82,0.219,250.75
+"ECX SPEED 19M Ø19 mm, brushless, sensorless",36,30,2.8,19,7.57,50000,45200,125,96.7,1.15,82,0.219,222.88
+"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",48,30,5.03,19,7.08,50000,47100,100,91.8,1.15,81,0.358,250.75
+"ECX SPEED 19M Ø19 mm, brushless, sensorless",48,30,5.03,19,7.08,50000,47100,100,91.8,1.15,81,0.358,222.88
+"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, with Hall sensors",24,120,0.105,22,26.7,85000,54100,477,965,2.36,91,0.011,612.38
+"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, sensorless",24,120,0.105,22,26.7,85000,54100,477,965,2.36,91,0.011,582.63
+"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, with Hall sensors",36,120,0.189,22,27.1,85000,56200,339,1160,2.36,92,0.024,612.38
+"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, sensorless",36,120,0.189,22,27.1,85000,56200,339,1160,2.36,92,0.024,582.63
+"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, with Hall sensors",48,120,0.343,22,25.5,85000,57300,263,1120,2.36,92,0.041,612.38
+"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, sensorless",48,120,0.343,22,25.5,85000,57300,263,1120,2.36,92,0.041,582.63
+"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",24,120,0.105,22,27.7,60000,54100,425,965,2.36,92,0.011,589.63
+"ECX SPEED 22 L Ø22 mm, brushless, sensorless",24,120,0.105,22,27.7,60000,54100,425,965,2.36,92,0.011,559.63
+"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",36,120,0.189,22,28.3,60000,56200,303,1160,2.36,92,0.024,589.63
+"ECX SPEED 22 L Ø22 mm, brushless, sensorless",36,120,0.189,22,28.3,60000,56200,303,1160,2.36,92,0.024,559.63
+"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",48,120,0.343,22,26.6,60000,57300,235,1120,2.36,92,0.041,589.63
+"ECX SPEED 22 L Ø22 mm, brushless, sensorless",48,120,0.343,22,26.6,60000,57300,235,1120,2.36,92,0.041,559.63
+"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",24,150,0.103,22,29.1,60000,49400,432,1080,3.94,92,0.009,357.63
+"ECX SPEED 22 L Ø22 mm, brushless, sensorless",24,150,0.103,22,29.1,60000,49400,432,1080,3.94,92,0.009,327.88
+"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",36,150,0.187,22,29.3,60000,51400,307,1290,3.94,92,0.019,357.63
+"ECX SPEED 22 L Ø22 mm, brushless, sensorless",36,150,0.187,22,29.3,60000,51400,307,1290,3.94,92,0.019,327.88
+"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",48,150,0.341,22,27.4,60000,52400,238,1230,3.94,92,0.032,357.63
+"ECX SPEED 22 L Ø22 mm, brushless, sensorless",48,150,0.341,22,27.4,60000,52400,238,1230,3.94,92,0.032,327.88
+"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",24,80,0.375,22,18.2,45000,38000,337,383,3.89,86,0.023,291.75
+"ECX SPEED 22 L Ø22 mm, brushless, sensorless",24,80,0.375,22,18.2,45000,38000,337,383,3.89,86,0.023,256.75
+"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",36,80,0.823,22,19.3,45000,36800,214,407,3.89,87,0.056,291.75
+"ECX SPEED 22 L Ø22 mm, brushless, sensorless",36,80,0.823,22,19.3,45000,36800,214,407,3.89,87,0.056,256.75
+"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",48,80,1.27,22,20.2,45000,37400,164,461,3.89,87,0.097,291.75
+"ECX SPEED 22 L Ø22 mm, brushless, sensorless",48,80,1.27,22,20.2,45000,37400,164,461,3.89,87,0.097,256.75
+"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",18,80,0.172,22,16.9,85000,52800,391,340,1.91,88,0.009,573.38
+"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",18,80,0.172,22,16.9,85000,52800,391,340,1.91,88,0.009,543
+"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",24,80,0.274,22,16.9,85000,54700,311,365,1.91,89,0.015,573.38
+"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",24,80,0.274,22,16.9,85000,54700,311,365,1.91,89,0.015,543
+"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",36,80,0.599,22,16.1,85000,56800,221,362,1.91,88,0.032,573.38
+"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",36,80,0.599,22,16.1,85000,56800,221,362,1.91,88,0.032,543
+"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",48,80,1.11,22,16.5,85000,54700,156,361,1.91,89,0.062,573.38
+"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",48,80,1.11,22,16.5,85000,54700,156,361,1.91,89,0.062,543
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",18,80,0.172,22,17.6,60000,52800,280,340,1.91,90,0.009,550
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",18,80,0.172,22,17.6,60000,52800,280,340,1.91,90,0.009,519.5
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",24,80,0.274,22,17.6,60000,54800,222,365,1.91,90,0.015,550
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",24,80,0.274,22,17.6,60000,54800,222,365,1.91,90,0.015,519.5
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",36,80,0.599,22,16.9,60000,56900,157,362,1.91,90,0.032,550
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",36,80,0.599,22,16.9,60000,56900,157,362,1.91,90,0.032,519.5
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",48,80,1.11,22,17.1,60000,54800,111,361,1.91,90,0.062,550
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",48,80,1.11,22,17.1,60000,54800,111,361,1.91,90,0.062,519.5
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",18,80,0.133,22,20.3,60000,50900,324,454,2.15,91,0.01,324
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",18,80,0.133,22,20.3,60000,50900,324,454,2.15,91,0.01,292.63
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",24,80,0.172,22,20.1,60000,58100,302,549,2.15,91,0.013,324
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",24,80,0.172,22,20.1,60000,58100,302,549,2.15,91,0.013,292.63
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",36,80,0.414,22,20,60000,55500,186,537,2.15,91,0.033,324
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",36,80,0.414,22,20,60000,55500,186,537,2.15,91,0.033,292.63
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",48,80,0.983,22,18.2,60000,52500,128,425,2.15,90,0.065,324
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",48,80,0.983,22,18.2,60000,52500,128,425,2.15,90,0.065,292.63
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",18,40,0.493,22,10.7,45000,40400,378,154,2.13,81,0.027,277.13
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",18,40,0.493,22,10.7,45000,40400,378,154,2.13,81,0.027,241.5
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",24,40,0.779,22,11.5,45000,40000,279,175,2.13,82,0.05,277.13
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",24,40,0.779,22,11.5,45000,40000,279,175,2.13,82,0.05,241.5
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",36,40,1.54,22,12.1,45000,40500,189,196,2.13,83,0.109,277.13
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",36,40,1.54,22,12.1,45000,40500,189,196,2.13,83,0.109,241.5
+"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",48,40,2.86,22,11.9,45000,40400,141,189,2.13,83,0.194,277.13
+"ECX SPEED 22 M Ø22 mm, brushless, sensorless",48,40,2.86,22,11.9,45000,40400,141,189,2.13,83,0.194,241.5
