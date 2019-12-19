@@ -23,8 +23,13 @@ Resistance = nan(num_motors, 1);
 Inductance = nan(num_motors, 1); 
 Shaft_size = zeros(num_motors, 1); 
 Rotor_inertia = zeros(num_motors, 1);
-Torque_Constant = zeros(num_motors, 1);
+Weight = zeros(num_motors, 1);
+Torque_constant = zeros(num_motors, 1);
+Nominal_current = zeros(num_motors, 1);
+No_load_speed = zeros(num_motors, 1);
+No_load_current = zeros(num_motors, 1);
 Price = zeros(num_motors, 1);
+
 
 
 for i = 1:num_motors % num_motors
@@ -83,12 +88,18 @@ for i = 1:num_motors % num_motors
         if (numel(gg) > 0)
             txt = gg(2).extractHTMLText; 
             val = gg(3).extractHTMLText; 
-                     %fprintf('%s: %s\n', txt, val); 
+
+            %fprintf('%s: %s\n', txt, val); 
+
             switch txt
                 case 'Nominal voltage'
                     Voltage(i) = get_num(val);
                 case 'No load speed'
+                    No_load_speed(i) = get_num(val);
+                case 'No load current'
+                    No_load_current(i) = get_num(val); 
                 case 'Nominal speed'
+                    Nominal_speed(i) = get_num(val); 
                 case 'Terminal resistance'
                     Resistance(i) = get_num(val); 
                 case 'Rotor inertia'
@@ -96,12 +107,15 @@ for i = 1:num_motors % num_motors
                 case 'Terminal inductance'
                     Inductance(i) = get_num(val);
                 case 'Weight'
-                case 'Torque constant' 
-                    Torque_Constant(i) = get_num(val); 
-                case 'Nominal torque'
+                    Weight(i) = get_num(val); 
+                case 'Torque constant'
+                    Torque_constant(i) = get_num(val); 
+                case 'Nominal current (max. continuous current)'
+                    Nominal_current(i) = get_num(val);
                 case 'Stall torque'
                     Stall_torque(i) = get_num(val); 
-
+                %case 'Nominal torque (max. continuous torque)'
+                %case 'Radial play'
             end 
 
         end 
@@ -114,7 +128,8 @@ for i = 1:num_motors % num_motors
 end 
 
 
-T = table(Product_Number, Description, Voltage, Stall_torque, Resistance, Inductance, Rotor_inertia, Torque_Constant, Price); 
+T = table(Product_Number, Description, Voltage, Stall_torque, Resistance, Inductance, Rotor_inertia,...
+                                         Torque_constant, Nominal_current, No_load_speed, No_load_current, Weight, Price); 
 writetable(T,'motors.csv','WriteRowNames',true);  
 
 

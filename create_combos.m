@@ -12,7 +12,11 @@ motor_table = readtable('motors.csv');
 motor_table.Stall_torque = motor_table.Stall_torque/1000; % Now Nm 
 motor_table.Inductance = motor_table.Inductance/1000;       % now Henrys 
 motor_table.Rotor_inertia = motor_table.Rotor_inertia  * 1e-7;    %  kg m^2 
-motor_table.Torque_Constant = motor_table.Torque_Constant/1000;     % Nm/A
+motor_table.Torque_constant = motor_table.Torque_constant/1000;     % Nm/A
+motor_table.Weight = motor_table.Weight/1000;   % kg 
+motor_table.No_load_current = motor_table.No_load_current/1000;     % convert mA to A 
+
+
 
 [num_motors, ~] = size(motor_table); 
 motors = table2struct(motor_table);
