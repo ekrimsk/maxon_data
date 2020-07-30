@@ -18,19 +18,20 @@ num_unknown = 1;     % just check these after other code finishes running
 Product_Number = strings(num_gears, 1);
 Description = strings(num_gears, 1);
 Gearhead_type = strings(num_gears, 1); 
-Reduction = strings(num_gears, 1); 
+alpha = nan(num_gears, 1);     % Gear Ratio
+eta = nan(num_gears, 1); 
+mass = nan(num_gears, 1); 
+inertia = nan(num_gears, 1); 
+
 Stages = nan(num_gears, 1); 
 Max_cont_torque = nan(num_gears, 1); 
 Max_int_torque = nan(num_gears, 1); 
-Max_eff = nan(num_gears, 1); 
-Inertia = nan(num_gears, 1); 
 Direction = strings(num_gears, 1);
-Weight = nan(num_gears, 1); 
 Price = nan(num_gears, 1);
 Recommended = zeros(num_gears, 1);  % 1 = rec, 0 = no rec 
 
 for i = 1:num_gears
-    fprintf('Gearbox %d..........................................................\n', i); 
+    fprintf('Gearbox %d of %d.....\n', i, num_gears); 
 
     gear_text = fileread(fullfile(gears(i).folder, gears(i).name)); 
 
@@ -92,8 +93,11 @@ for i = 1:num_gears
             switch txt
                 case 'Gearhead type'
                     Gearhead_type(i) = val; 
-                case 'Reduction'    % may want "absolute reduction" instead 
-                    Reduction(i) = val; 
+                %case 'Reduction'    % may want "absolute reduction" instead 
+                %    Reduction(i) = val; 
+                case 'Absolute reduction'
+                     tmp = get_num(val); % 2x1 - [numerator, denominator]
+                     alpha(i) = tmp(1)/tmp(2);
                 case 'Number of stages'
                     Stages(i) = get_num(val); 
                 case 'Max. continuous torque'
@@ -101,29 +105,26 @@ for i = 1:num_gears
                 case 'Max. intermittent torque'
                     Max_int_torque(i) = get_num(val); 
                 case 'Max. efficiency'
-                    Max_eff(i) = get_num(val); 
+                    eta(i) = get_num(val); 
                 case 'Mass inertia'
-                    Inertia(i) = get_num(val);
+                    inertia(i) = get_num(val) * 1e-7;  % kg m^2 
                 case 'Direction of rotation, drive to output'
                     Direction(i) = val; 
                 case 'Weight'
-                    Weight(i) = get_num(val); 
-
+                    mass(i) = get_num(val) * 1e-3;  % convert to kg  
             end 
 
         end 
     end 
-
     Product_Number(i) = part_number; 
     Description(i) = description;
     Price(i) = price_num; 
-
 end 
 
 
-T = table(Product_Number, Description, Gearhead_type, Reduction, Stages,...
-                     Max_cont_torque, Max_int_torque, Max_eff, Inertia,...
-                     Direction, Weight, Recommended, Price); 
+T = table(Product_Number, Description, Gearhead_type, alpha, eta,...
+                     inertia, Stages, Max_cont_torque, Max_int_torque,...
+                     Direction, mass, Recommended, Price); 
 writetable(T,'gears.csv','WriteRowNames',true);  
 
 

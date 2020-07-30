@@ -13,38 +13,48 @@ num_unknown = 1;     % just check these after other code finishes running
 
 %T = table(Product_Number, Description, Voltage, Stall_torque, Resistance, Inductance, Shaft_size, Torque_Constant, Price); 
  
+% NEED TO SKIP COMPACT DRIVES 
 
 % Things we want 
 Product_Number = strings(num_motors, 1);
 Description = strings(num_motors, 1);
-Voltage = zeros(num_motors, 1); 
+V = nan(num_motors, 1); 
 Stall_torque = nan(num_motors, 1); 
-Resistance = nan(num_motors, 1); 
-Inductance = nan(num_motors, 1); 
-Shaft_size = zeros(num_motors, 1); 
-Rotor_inertia = zeros(num_motors, 1);
-Weight = zeros(num_motors, 1);
-Torque_constant = zeros(num_motors, 1);
-Nominal_current = zeros(num_motors, 1);
-No_load_speed = zeros(num_motors, 1);
-No_load_current = zeros(num_motors, 1);
+R = nan(num_motors, 1); 
+L = nan(num_motors, 1); 
+inertia = zeros(num_motors, 1);
+mass = zeros(num_motors, 1);
+k_t = zeros(num_motors, 1);
+I_nom = zeros(num_motors, 1);
+omega_nl = zeros(num_motors, 1);
+I_nl = zeros(num_motors, 1);
 Price = zeros(num_motors, 1);
 
+omega_max = zeros(num_motors, 1); 
+R_wh = zeros(num_motors, 1);
+R_ha = zeros(num_motors, 1);
+Temp_max = zeros(num_motors, 1); % Temperature, NOT torque 
+%Shaft_size = zeros(num_motors, 1); 
 
 
+rpm2rads = 2*pi/60; % to convert RPM to rad/s
+
+
+skip_list = {}; % things to skip  
+
+fprintf('\nMotor: ');
+disp_txt = []; 
 for i = 1:num_motors % num_motors
-    fprintf('Motor %d...\n', i); 
-
+    fprintf(repmat('\b', 1, length(disp_txt))); 
+    disp_txt = sprintf('%d of %d...... \n', i, num_motors); 
+    fprintf(disp_txt); 
+    
     motor_text = fileread(fullfile(motors(i).folder, motors(i).name)); 
 
     header_start = strfind(motor_text, '<h1><strong>') + 12;
     header_end = strfind(motor_text, '</strong> </h1>') - 1;
 
     description = motor_text(header_start:header_end);
-
-    
-
-
 
     % get part number oif have 
     %pen rotor</span>Part number 625858</p>
@@ -93,27 +103,35 @@ for i = 1:num_motors % num_motors
 
             switch txt
                 case 'Nominal voltage'
-                    Voltage(i) = get_num(val);
+                    V(i) = get_num(val);
                 case 'No load speed'
-                    No_load_speed(i) = get_num(val);
+                    omega_nl(i) = rpm2rads * get_num(val);
                 case 'No load current'
-                    No_load_current(i) = get_num(val); 
+                    I_nl(i) = get_num(val) * 1e-3; % A (NOT mA) 
                 case 'Nominal speed'
-                    Nominal_speed(i) = get_num(val); 
+                    Nominal_speed(i) = rpm2rads * get_num(val); 
                 case 'Terminal resistance'
-                    Resistance(i) = get_num(val); 
+                    R(i) = get_num(val); 
                 case 'Rotor inertia'
-                    Rotor_inertia(i) = get_num(val); 
+                    inertia(i) = get_num(val) * 1e-7;  % kg m^2 
                 case 'Terminal inductance'
-                    Inductance(i) = get_num(val);
+                    L(i) = get_num(val) * 1e-3; % Henrys 
                 case 'Weight'
-                    Weight(i) = get_num(val); 
+                    mass(i) = get_num(val) * 1e-3; % kg  
                 case 'Torque constant'
-                    Torque_constant(i) = get_num(val); 
+                    k_t(i) = get_num(val) * 1e-3; 
                 case 'Nominal current (max. continuous current)'
-                    Nominal_current(i) = get_num(val);
+                    I_nom(i) = get_num(val);
                 case 'Stall torque'
-                    Stall_torque(i) = get_num(val); 
+                    Stall_torque(i) = get_num(val) * 1e-3; 
+                case 'Max. speed'
+                    omega_max(i) = get_num(val) * rpm2rads; 
+                case 'Thermal resistance housing-ambient'
+                    R_ha(i) = get_num(val); 
+                case 'Thermal resistance winding-housing'
+                    R_wh(i) = get_num(val);
+                case 'Max. winding temperature'
+                    Temp_max(i) = get_num(val);
                 %case 'Nominal torque (max. continuous torque)'
                 %case 'Radial play'
             end 
@@ -125,12 +143,22 @@ for i = 1:num_motors % num_motors
     Description(i) = description;
     Price(i) = price_num; 
 
+    if isnan(R(i))
+        skip_list{end + 1, 1} = i; 
+    end 
+
 end 
 
+skip_list = cell2mat(skip_list); 
+k_e = k_t; % Redundancy to make code more readable 
 
-T = table(Product_Number, Description, Voltage, Stall_torque, Resistance, Inductance, Rotor_inertia,...
-                                         Torque_constant, Nominal_current, No_load_speed, No_load_current, Weight, Price); 
-writetable(T,'motors.csv','WriteRowNames',true);  
+T = table(Product_Number, Description, V,  R, L, inertia, mass, ...
+                        k_t, k_e, I_nom, omega_nl, I_nl, R_wh, R_ha,...
+                        omega_max, Stall_torque, Price); 
+
+T(skip_list, :) = []; % remove rows with nan values (corresponding to compact drive)
+
+writetable(T,'motors.csv','WriteRowNames', true);  
 
 
 function num = get_num(str)
