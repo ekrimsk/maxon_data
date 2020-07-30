@@ -11,10 +11,10 @@ The files get_maxon_motor.m and get_maxon_gear.m get the actual data for the cor
 
 After we have all the data on motors and gearboxes, we need to determine which motors are compatible with which gearboxes. I could not find a way to do this with simple curl requests so a python script `get_combos/motor_gb_combos.py` automates a chrome browser (using selenium) to click through the list of all website "recommended" motors and generate a list of compatible gearboxes for each motor. The product numbers (or descriptions when no product number is given) are written to the files `get_combos/combos/combopage_*.txt`.  Running `combine_gb_pages.m` simply concatenates all these text files into one file `motor_gb_combos.txt`.  Running `fix_combos.m` accounts for the gearboxes without listed product numbers and writes out the combinations to `combos.txt`. 
 
-Finally, `create_combos.m` reads in the data from `motors.csv`, `gears.csv` and `combos.csv` and writes out a matfile to `motor_gb_data.mat`. 
+Finally, `link_motors_gearboxes.m` reads in the data from `motors.csv`, `gears.csv` and `combos.csv` and writes out a matfile to `maxon_motor_gb_data.mat`. 
 
 ## Using the matfile
-Loading `motor_gb_data.mat` will add the struct arrays 'motors' and 'gears' to the workspace. The field 'gb_list' for the motors gives the indices in the 'gears' struct of compatible gearboxes. If if 'gb_list' is empty, there are no compatible motors (this is the case for motors 597974 and 607930 for example). 
+Loading `maxon_motor_gb_data.mat` will add the struct arrays 'motors' and 'gears' to the workspace. The field 'gb_list' for the motors gives the indices in the 'gears' struct of compatible gearboxes. If if 'gb_list' is empty, there are no compatible motors (this is the case for motors 597974 and 607930 for example). 
 
 ## Matlab Requirements 
 - Matlab R2019a or later (a handful of html parsing tools were introduced in 2019a)
