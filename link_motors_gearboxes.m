@@ -19,8 +19,14 @@ combo_lines = strsplit(combos, '\n');
 
 
 gb_list = cell(num_motors, 1); 
+
+
+fprintf('\nMotor: ');
+disp_txt = []; 
 for i = 1:num_motors
-    fprintf('Motor %d of %d...............\n', i, num_motors); 
+    fprintf(repmat('\b', 1, length(disp_txt))); 
+    disp_txt = sprintf('%d of %d', i, num_motors); 
+    fprintf(disp_txt); 
 
     % get the gear lists 
     tmp = strsplit(combo_lines{i}, ';');    % first is  
@@ -41,6 +47,6 @@ for i = 1:num_motors
     motors(i).gb_list = gb_list{i};  
     motor_table.('gearboxes')(i) = gb_list(i);   % add to table 
 end 
-
+fprintf('\n'); 
 save('maxon_motor_gb_data.mat');
 

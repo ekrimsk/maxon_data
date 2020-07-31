@@ -1,642 +1,641 @@
-Product_Number,Description,Voltage,Stall_torque,Resistance,Inductance,Rotor_inertia,Torque_constant,Nominal_current,No_load_speed,No_load_current,Weight,Price
-597974,"EC 90 flat Ø90 mm, brushless, 600 W, with Hall sensors",30,14600,0.28,0.369,5100,136,10.5,2080,493,980,218.82
-606793,"EC-i 52 Ø52 mm, brushless, 200 W, with Hall sensors",24,13800,0.119,0.149,264,68,9.36,3340,657,1100,373.18
-607930,"EC 90 flat Ø90 mm, brushless, 400 W, with Hall sensors",30,14600,0.28,0.369,4760,136,8.73,2080,475,960,212.73
-607942,"EC 90 flat Ø90 mm, brushless, 220 W, with Hall sensors",24,7910,0.216,0.232,2870,71.2,9.44,3170,658,620,176.09
-607950,"EC 90 flat Ø90 mm, brushless, 360 W, with Hall sensors EC 90 flat Ø90 mm, brushless, 360 W, with Hall sensors",24,7800,0.216,0.232,3210,70.1,12,3210,696,630,181
-614949,"EC 60 flat Ø60 mm, brushless, 200 W, with Hall sensors",24,4300,0.293,0.279,832,52.5,9.28,4300,497,360,114.36
-625855,"EC 60 flat Ø60 mm, brushless, 100 W, with Hall sensors",24,4300,0.293,0.279,835,52.5,5.14,4300,493,350,102.64
-625858,"EC 60 flat Ø60 mm, brushless, 150 W, with Hall sensors",24,4300,0.293,0.279,810,52.5,7.25,4300,497,350,107.82
-634043,"EC-i 52 Ø52 mm, brushless, 200 W, with Hall sensors",48,22900,0.24,0.424,264,115,5.44,3970,419,1100,373.18
-642221,"EC 60 flat Ø60 mm, brushless, 200 W, with Hall sensors and cables",24,4300,0.293,0.279,832,52.5,9.28,4300,497,370,118
-unknown_1,"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",3,1.45,0.766,0.005,0.00703,0.37,1.24,74400,149,3,207.09
-unknown_2,"ECX SPEED 6 M Ø6 mm, brushless, sensorless",3,1.62,0.686,0.005,0.00703,0.37,1.24,74700,149,3,178.09
-unknown_3,"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",6,1.52,3.49,0.03,0.00703,0.882,0.517,62700,58.8,3,207.09
-unknown_4,"ECX SPEED 6 M Ø6 mm, brushless, sensorless",6,1.55,3.41,0.03,0.00703,0.882,0.517,62700,58.9,3,178.09
-unknown_5,"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",12,1.7,12.4,0.118,0.00703,1.75,0.268,63400,29.8,3,207.09
-unknown_6,"ECX SPEED 6 M Ø6 mm, brushless, sensorless",12,1.71,12.3,0.118,0.00703,1.75,0.268,63400,29.8,3,178.09
-unknown_7,"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",6,0.832,8.72,0.065,0.00703,1.21,0.314,44200,46.5,3,178.36
-unknown_8,"ECX SPEED 6 M Ø6 mm, brushless, sensorless",6,0.839,8.64,0.065,0.00703,1.21,0.314,44200,46.5,3,150.18
-unknown_9,"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",12,0.59,63.8,0.436,0.00703,3.14,0.116,33300,16.2,3,178.36
-unknown_10,"ECX SPEED 6 M Ø6 mm, brushless, sensorless",12,0.588,63.8,0.436,0.00703,3.12,0.116,33500,16.3,3,150.18
-110045,"A-max 16 Ø16 mm, Precious Metal Brushes CLL, 2 Watt, with terminals",12,4.77,23.1,0.83,0.849,9.17,0.243,12300,9.54,21,39.18
-110049,"A-max 16 Ø16 mm, Precious Metal Brushes CLL, 2 Watt, with terminals",24,5.12,76.2,2.61,0.816,16.3,0.134,13800,5.83,21,39.18
-110056,"A-max 16 Ø16 mm, Precious Metal Brushes CLL, 1.2 Watt, with terminals",12,4.13,31.1,1.13,0.859,10.7,0.209,10300,15.4,22,39.55
-110069,"A-max 16 Ø16 mm, Graphite Brushes, 2 Watt, with terminals",21,4.49,76.1,2.61,0.816,16.3,0.162,11300,23,21,42.45
-110089,"A-max 19 Ø19 mm, Precious Metal Brushes CLL, 2.5 Watt, with terminals",24,7.63,79.7,3.87,1.99,25.4,0.138,8870,5.73,33,42.27
-110095,"A-max 19 Ø19 mm, Precious Metal Brushes CLL, 1.5 Watt, with terminals",7.2,5.68,13.8,0.719,2.09,10.9,0.332,6130,14,34,43.09
-110121,"A-max 22 Ø22 mm, Precious Metal Brushes CLL, 5 Watt, with terminals",12,24.3,5.39,0.362,4.36,10.9,0.586,10400,16.8,54,45
-110125,"A-max 22 Ø22 mm, Precious Metal Brushes CLL, 5 Watt, with terminals",24,24,21.2,1.37,4.2,21.2,0.294,10700,8.81,54,45
-110128,"A-max 22 Ø22 mm, Precious Metal Brushes CLL, 5 Watt, with terminals",48,19.3,122,7.29,3.97,48.9,0.123,9280,3.47,54,45
-110147,"A-max 22 Ø22 mm, Graphite Brushes, 6 Watt, with terminals",12,23.7,5.53,0.363,4.29,10.9,0.681,10200,45.8,54,47.18
-110151,"A-max 22 Ø22 mm, Graphite Brushes, 6 Watt, with terminals",24,23.7,21.5,1.37,4.13,21.2,0.347,10500,23.7,54,47.18
-110164,"A-max 22 Ø22 mm, Graphite Brushes, 6 Watt, with terminals",24,23.7,21.5,1.37,4.2,21.2,0.347,10500,23.7,54,48.09
-110212,"A-max 26 Ø26 mm, Precious Metal Brushes CLL, 4.5 Watt, with terminals",24,40.1,30.1,2.99,12.5,50.3,0.312,4510,8.45,110,96.45
-110940,"A-max 26 Ø26 mm, Graphite Brushes, 11 Watt, with terminals",24,83.3,7.36,0.77,13.1,25.5,0.749,8890,31.7,110,114.18
-118889,"EC 32 Ø32 mm, brushless, 80 Watt, with Hall sensors",24,355,1.39,0.226,20,20.5,2.46,11000,199,270,292.82
-118890,"EC 32 Ø32 mm, brushless, 80 Watt, with Hall sensors",48,353,5.43,0.856,20,40,1.23,11300,104,270,292.82
-148867,"RE 40 Ø40 mm, Graphite Brushes, 150 Watt",24,2420,0.299,0.082,142,30.2,6,7580,137,480,347.73
-148877,"RE 40 Ø40 mm, Graphite Brushes, 150 Watt",48,2560,1.13,0.33,137,60.3,3.17,7590,68.6,480,347.73
-200142,"EC 45 flat Ø42.9 mm, brushless, 30 Watt, with Hall sensors",12,247,1.24,0.56,92.5,25.5,2.02,4360,163,75,73
-236662,"A-max 32 Ø32 mm, Graphite Brushes, 20 Watt, with terminals",24,212,3.99,0.556,45.3,35.2,1.33,6460,42.8,240,158.64
-236670,"A-max 32 Ø32 mm, Graphite Brushes, 20 Watt, with terminals",30,197,7.02,0.954,44.2,46.1,1.01,6160,32.3,240,159.91
-236679,"EC 14 flat Ø13.6 mm, brushless, 1.5 Watt, sensorless",18,3.6,38,0.962,1.1,7.6,0.256,19900,51.7,8,74.27
-249987,"A-max 19 Ø19 mm, Graphite Brushes, 2.5 Watt, with terminals",12,9.47,13.8,0.719,2.12,10.9,0.397,9930,44.6,33,47.09
-251601,"EC 45 flat Ø42.8 mm, brushless, 50 Watt, with Hall sensors",24,780,1.03,0.572,135,33.5,2.33,6710,185,110,107
-265376,"A-max 12 Ø12 mm, Precious Metal Brushes CLL, 0.75 Watt, with cable",9,1.52,40.9,1.01,0.238,6.92,0.141,12100,5.87,11,46.55
-265378,"A-max 12 Ø12 mm, Precious Metal Brushes CLL, 0.75 Watt, with cable",15,1.29,116,2.13,0.183,10,0.0836,13800,4.2,11,46.55
-265392,"A-max 12 Ø12 mm, Precious Metal Brushes CLL, 0.5 Watt, with cable",12,1.52,71.6,1.74,0.235,9.06,0.106,12100,7.38,12,47.09
-267121,"EC 32 flat Ø32 mm, brushless, 15 Watt, with Hall sensors",24,85.3,13.8,7.72,35,49,0.5,4530,36.9,57,71.36
-272763,"EC-max 30 Ø30 mm, brushless, 60 Watt, with Hall sensors",24,458,1.27,0.143,21.9,24.3,2.66,9340,231,300,236
-272765,"EC-max 30 Ø30 mm, brushless, 60 Watt, with Hall sensors",48,519,4.49,0.573,21.9,48.6,1.4,9350,95.4,300,236
-272768,"EC-max 30 Ø30 mm, brushless, 40 Watt, with Hall sensors",24,160,3.65,0.31,11,24.3,1.49,9250,151,190,181.45
-272770,"EC-max 30 Ø30 mm, brushless, 40 Watt, with Hall sensors",48,157,14.8,1.24,11,48.6,0.738,9250,61.3,190,181.45
-283828,"EC-max 16 Ø16 mm, brushless, 5 Watt, with Hall sensors",12,5.95,15.7,0.254,0.428,7.8,0.456,13500,60.2,36,152.36
-283833,"EC-max 16 Ø16 mm, brushless, 8 Watt, with Hall sensors",12,21.1,5.3,0.14,0.85,9.32,0.909,11900,64.2,52,180.09
-283835,"EC-max 16 Ø16 mm, brushless, 8 Watt, with Hall sensors",24,22,20.5,0.566,0.85,18.7,0.461,11900,31.9,52,180.09
-283838,"EC-max 22 Ø22 mm, brushless, 12 Watt, with Hall sensors",12,31.3,3.46,0.121,2.25,9.02,1.25,12100,155,83,152.73
-283840,"EC-max 22 Ø22 mm, brushless, 12 Watt, with Hall sensors",24,35.1,12.4,0.488,2.25,18.1,0.657,12100,77.3,83,152.73
-283858,"EC-max 22 Ø22 mm, brushless, 25 Watt, with Hall sensors",24,121,3.44,0.182,4.45,17.4,1.4,12900,121,120,188.45
-283860,"EC-max 22 Ø22 mm, brushless, 25 Watt, with Hall sensors",48,127,13.1,0.729,4.45,34.8,0.716,12900,60.4,110,188.45
-283867,"EC-max 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",24,497,1.35,0.186,51.2,28,3.44,8040,337,460,248.82
-283869,"EC-max 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",48,636,3.78,0.592,51.2,50,2.02,9030,173,460,248.82
-283873,"EC-max 40 Ø40 mm, brushless, 120 Watt, with Hall sensors",48,838,7.19,1.6,101,126,1.74,3610,72.7,720,372.91
-305013,"EC-4pole 30 Ø30 mm, brushless, 200 Watt",24,3240,0.102,0.016,33.3,13.7,7.61,16700,723,300,645.09
-305015,"EC-4pole 30 Ø30 mm, brushless, 200 Watt",48,3430,0.386,0.065,33.3,27.6,3.68,16500,356,300,645.09
-309756,"EC-4pole 30 Ø30 mm, brushless, 100 Watt",24,1270,0.248,0.03,18.3,13.1,5.56,17500,379,210,561.27
-309758,"EC-4pole 30 Ø30 mm, brushless, 100 Watt",48,1500,0.836,0.118,18.3,26.1,2.95,17500,189,210,561.27
-311536,"EC-4pole 22 Ø22 mm, brushless, 120 Watt",24,954,0.341,0.031,8.91,13.5,4.2,16900,223,170,525.82
-311538,"EC-4pole 22 Ø22 mm, brushless, 120 Watt",48,1020,1.27,0.123,8.91,27.1,2.1,16900,112,170,525.82
-315173,"EC 10 Ø10 mm, brushless, 8 Watt, with Hall sensors",18,15.6,3.42,0.067,0.0691,2.97,0.6,57100,67.3,13,226.82
-315665,"MCD EPOS P, 60W Intelligent compact drive",0,218,NaN,NaN,21.9,24.3,2.6,0,0,520,869.82
-323218,"EC-4pole 22 Ø22 mm, brushless, 90 Watt",24,639,0.527,0.05,5.54,14,3.34,16300,166,120,469.45
-323219,"EC-4pole 22 Ø22 mm, brushless, 90 Watt",36,612,1.24,0.113,5.54,21.1,2.16,16300,110,120,469.45
-323220,"EC-4pole 22 Ø22 mm, brushless, 90 Watt",48,586,2.3,0.201,5.54,28.1,1.58,16300,82.8,120,469.45
-339281,"EC 45 flat Ø42.9 mm, brushless, 30 Watt, with Hall sensors",24,251,4.87,2.24,92.5,51,1.01,4360,81.4,75,73
-339287,"EC 45 flat Ø42.8 mm, brushless, 50 Watt, with Hall sensors",36,484,7.48,5.15,135,101,0.828,3360,42.3,110,107
-350909,"EC 45 flat Ø45 mm, brushless, 30 Watt, with integrated electronics",24,111,0.201,0.322,135,25.1,2.65,6000,209,220,181.64
-351008,"EC 20 flat Ø20 mm, brushless, 5 Watt, with Hall sensors",24,19.9,28.6,3.09,5.1,23.8,0.329,9300,25.1,22,83.27
-353295,"RE 65 Ø65 mm, Graphite Brushes, 250 Watt",24,15700,0.0821,0.031,1290,53.7,10,4090,697,2100,722.64
-353297,"RE 65 Ø65 mm, Graphite Brushes, 250 Watt",48,16100,0.365,0.161,1340,123,6.8,3670,289,2100,722.64
-370416,"EC 20 flat Ø20 mm, brushless, 5 Watt, with integrated electronics, with cover",24,13.2,7.48,2.62,5.1,18.1,0.313,6000,32.2,37,145.27
-370418,"EC 32 flat Ø32 mm, brushless, 15 Watt, with integrated electronics, with cover",24,35.8,1.34,1.61,35,22.4,0.678,6000,83.7,91,166.91
-370427,"EC 45 flat Ø45 mm, brushless, 50 Watt, with integrated electronics, with cover",24,157,0.264,0.413,181,35.7,2.85,4500,191,260,188.27
-393023,"EC 40 Ø40 mm, brushless, 170 Watt, with Hall sensors",24,2660,0.209,0.084,53.8,23.2,7.39,9840,385,580,501.91
-393025,"EC 40 Ø40 mm, brushless, 170 Watt, with Hall sensors",48,2760,0.806,0.337,53.8,46.4,3.69,9840,193,580,501.91
-397172,"EC 45 flat Ø42.8 mm, brushless, 70 Watt, with Hall sensors",24,1460,0.608,0.463,181,36.9,3.21,6110,234,140,116.73
-402687,"EC 45 flat Ø42.8 mm, brushless, 70 Watt, with Hall sensors",48,915,6.89,5.85,181,131,0.936,3440,48.1,140,116.73
-449464,"EC-i 40 Ø40 mm, brushless, 50 Watt, with Hall sensors",24,810,0.501,0.39,10.5,16.9,2.8,13200,285,170,184.73
-449470,"EC-i 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",36,1460,0.778,0.644,24.2,31.5,2.43,10700,192,240,196.18
-496651,"EC-i 40 Ø40 mm, brushless, 50 Watt, with Hall sensors",18,858,0.455,0.255,12.8,21.7,2.93,7790,289,180,210
-496652,"EC-i 40 Ø40 mm, brushless, 50 Watt, with Hall sensors",36,1150,1.44,1.15,12.8,46.1,1.61,7350,131,180,210
-496654,"EC-i 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",18,1960,0.199,0.113,23,21.7,4.87,7840,448,250,229.27
-496655,"EC-i 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",36,2800,0.591,0.512,23,46.1,2.73,7390,205,250,229.27
-496660,"EC-i 40 Ø40 mm, brushless, 100 Watt, with Hall sensors",18,2860,0.236,0.169,44,37.5,5.46,4540,352,390,244
-496661,"EC-i 40 Ø40 mm, brushless, 100 Watt, with Hall sensors",36,3160,0.853,0.675,44,74.9,2.72,4550,176,390,244
-500267,"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,13100,0.844,1.07,5060,231,4.06,1960,278,980,202.82
-500269,"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,14800,0.0983,0.133,5060,80.7,12.1,2110,830,980,202.82
-515458,"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,7910,0.216,0.232,3170,71.2,6.39,3170,658,630,167.18
-539473,"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,360,1.64,1.12,7.3,24.6,1.52,9190,103,150,159.91
-539477,"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,768,0.713,0.475,13.8,22.8,2.48,9960,169,240,183.64
-539482,"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,811,0.787,0.749,8.1,26.6,2.28,8520,143,150,183.18
-539487,"EC-i 30 Ø30 mm, brushless, 75 W, with Hall sensors",24,1800,0.38,0.39,15.5,28.6,3.64,7950,223,240,215.91
-574741,"EC-i 52 Ø52 mm, brushless, 180 W, with Hall sensors",24,12200,0.0948,0.123,170,48.1,8.96,4720,716,820,288.27
-578296,"RE 50 Ø50 mm, Graphite Brushes, 200 Watt",24,8920,0.103,0.072,536,38.5,10.8,5950,236,1100,428
-578298,"RE 50 Ø50 mm, Graphite Brushes, 200 Watt",48,7370,0.608,0.423,542,93.4,4.58,4900,88.4,1100,428
-579165,"EC-i 52 Ø52 mm, brushless, 180 W, with Hall sensors",48,15300,0.288,0.45,170,91.9,4.56,4950,384,820,288.27
-580047,"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,6410,2.03,2.15,3170,217,2.1,2600,197,630,167.18
-624163,"EC 9.2 flat Ø10 mm, brushless, 0.5 Watt, with Hall sensors",6,1.1,18.1,0.4,0.237,3.3,0.222,15600,31.1,3,106.36
-unknown_11,"DC-max 16 S Ø16 mm, CLL precious metal brushes, sintered bearings",6,10.5,4.1,0.14,1.12,7.19,0.577,7890,14.7,23,59.73
-unknown_12,"DC-max 16 S Ø16 mm, CLL precious metal brushes, sintered bearings",12,9.44,19.1,0.61,1.05,15,0.267,7560,6.9,23,59.73
-unknown_13,"DC-max 16 S Ø16 mm, CLL precious metal brushes, sintered bearings",24,8.75,83.2,2.49,0.994,30.3,0.128,7470,3.4,23,59.73
-unknown_14,"DC-max 16 S Ø16 mm, graphite brushes, sintered bearings",6,12.1,2.79,0.086,1,5.62,0.72,9870,67.3,23,61.64
-unknown_15,"DC-max 16 S Ø16 mm, graphite brushes, sintered bearings",12,11.9,11.4,0.343,0.993,11.2,0.413,9860,33.6,23,61.64
-unknown_16,"DC-max 16 S Ø16 mm, graphite brushes, sintered bearings",24,14.4,37.5,1.37,1.16,22.5,0.227,9920,16.8,23,61.64
-unknown_17,"DC-max 22 S Ø22 mm, CLL precious metal brushes, ball bearings",6,39,1.6,0.119,5.7,10.4,0.84,5490,18.9,53,68.18
-unknown_18,"DC-max 22 S Ø22 mm, CLL precious metal brushes, ball bearings",12,36.9,6.28,0.413,4.98,19.3,0.541,5890,10.5,53,68.18
-unknown_19,"DC-max 22 S Ø22 mm, CLL precious metal brushes, ball bearings",24,32.3,33.3,2.21,5.05,44.8,0.235,5090,4.22,53,68.18
-unknown_20,"DC-max 22 S Ø22 mm, CLL precious metal brushes, sintered bearings",6,39,1.6,0.119,5.7,10.4,0.84,5480,20.8,53,63.27
-unknown_21,"DC-max 22 S Ø22 mm, CLL precious metal brushes, sintered bearings",12,36.9,6.28,0.413,4.98,19.3,0.542,5890,11.7,53,63.27
-unknown_22,"DC-max 22 S Ø22 mm, CLL precious metal brushes, sintered bearings",24,32.3,33.3,2.21,5.05,44.8,0.236,5090,4.62,53,63.27
-unknown_23,"DC-max 22 S Ø22 mm, graphite brushes, ball bearings",6,42.4,1.11,0.069,5.07,7.88,1.49,7040,56.4,53,70.09
-unknown_24,"DC-max 22 S Ø22 mm, graphite brushes, ball bearings",12,49.4,3.83,0.274,5.57,15.8,0.819,7140,28.3,53,70.09
-unknown_25,"DC-max 22 S Ø22 mm, graphite brushes, ball bearings",24,44.6,16.6,1.05,4.69,30.8,0.397,7340,14.5,53,70.09
-unknown_26,"DC-max 22 S Ø22 mm, graphite brushes, sintered bearings",6,42.4,1.11,0.069,5.07,7.88,1.49,7030,58.8,53,65.18
-unknown_27,"DC-max 22 S Ø22 mm, graphite brushes, sintered bearings",12,49.4,3.83,0.274,5.57,15.8,0.818,7140,29.5,53,65.18
-unknown_28,"DC-max 22 S Ø22 mm, graphite brushes, sintered bearings",24,44.6,16.6,1.05,4.69,30.8,0.397,7330,15.1,53,65.18
-unknown_29,"DC-max 26 S Ø26 mm, CLL precious metal brushes, ball bearings",12,140,2.19,0.278,14.9,25.6,0.84,4460,22.2,120,107.91
-unknown_30,"DC-max 26 S Ø26 mm, CLL precious metal brushes, ball bearings",24,138,9.08,1.16,15.2,52.2,0.562,4370,10.8,120,107.91
-unknown_31,"DC-max 26 S Ø26 mm, CLL precious metal brushes, sintered bearings",12,140,2.19,0.278,14.9,25.6,0.84,4460,27.1,120,103
-unknown_32,"DC-max 26 S Ø26 mm, CLL precious metal brushes, sintered bearings",24,138,9.08,1.16,15.2,52.2,0.564,4370,13.2,120,103
-unknown_33,"DC-max 26 S Ø26 mm, graphite brushes, ball bearings",24,287,2.14,0.278,14.9,25.6,1.08,8930,39.8,120,109.82
-unknown_34,"DC-max 26 S Ø26 mm, graphite brushes, ball bearings",48,278,9.04,1.16,15.2,52.2,0.582,8740,19.3,120,109.82
-unknown_35,"DC-max 26 S Ø26 mm, graphite brushes, sintered bearings",24,287,2.14,0.278,14.9,25.6,1.08,8920,53,120,104.91
-unknown_36,"DC-max 26 S Ø26 mm, graphite brushes, sintered bearings",48,278,9.04,1.16,15.2,52.2,0.567,8730,25.7,120,104.91
-unknown_37,"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",1.5,0.453,2.58,0.008,0.0166,0.779,0.425,17200,36.2,2,80.64
-unknown_38,"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",3,0.524,8.92,0.032,0.0183,1.56,0.228,17400,18.2,2,80.64
-unknown_39,"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",4.5,0.507,20.8,0.071,0.0179,2.34,0.149,17400,12.1,2,80.64
-unknown_40,"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",6,0.503,37.2,0.126,0.0178,3.12,0.111,17400,9.07,2,80.64
-unknown_41,"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",1.5,0.453,2.58,0.008,0.0166,0.779,0.425,17500,28.9,2,62.09
-unknown_42,"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",3,0.524,8.92,0.032,0.0183,1.56,0.228,17600,14.5,2,62.09
-unknown_43,"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",4.5,0.507,20.8,0.071,0.0179,2.34,0.149,17600,9.63,2,62.09
-unknown_44,"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",6,0.503,37.2,0.126,0.0178,3.12,0.112,17600,7.22,2,62.09
-unknown_45,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",2.4,1.13,4.13,0.014,0.0384,1.95,0.344,11500,13.6,4,85
-unknown_46,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",4.2,1.14,12.3,0.041,0.0379,3.36,0.199,11600,10.1,4,85
-unknown_47,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",6,1.05,29,0.094,0.0372,5.08,0.13,11000,5.15,4,85
-unknown_48,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",7.2,1.06,38.5,0.117,0.0354,5.67,0.113,11800,4.7,4,85
-unknown_49,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",9,1.17,54.3,0.183,0.0383,7.07,0.0947,11900,3.77,4,85
-unknown_50,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",12,1.13,92.2,0.276,0.0351,8.71,0.0726,12800,3.12,4,85
-unknown_51,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",2.4,1.13,4.13,0.014,0.0384,1.95,0.345,11500,11.9,4,66.45
-unknown_52,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",4.2,1.14,12.3,0.041,0.0379,3.36,0.199,11700,6.93,4,66.45
-unknown_53,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",6,1.05,29,0.094,0.0372,5.08,0.13,11000,4.51,4,66.45
-unknown_54,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",7.2,1.06,38.5,0.117,0.0354,5.67,0.113,11900,4.12,4,66.45
-unknown_55,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",9,1.17,54.3,0.183,0.0383,7.07,0.0949,11900,3.3,4,66.45
-unknown_56,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",12,1.13,92.2,0.276,0.0351,8.71,0.0728,12900,2.74,4,66.45
-unknown_57,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",1.5,5.13,0.355,0.005,0.153,1.21,0.924,11500,97.6,11,95.73
-unknown_58,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",3,4.81,1.44,0.02,0.132,2.31,0.918,12100,52.8,11,95.73
-unknown_59,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",4.5,5.45,2.9,0.045,0.151,3.52,0.645,11900,34.3,11,95.73
-unknown_60,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",6,4.32,6.4,0.078,0.119,4.61,0.435,12100,26.3,11,95.73
-unknown_61,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",9,4.8,13.2,0.181,0.134,7.04,0.303,11900,17.1,11,95.73
-unknown_62,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",12,4.36,27.3,0.362,0.13,9.95,0.211,11200,11.7,11,95.73
-unknown_63,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",1.5,5.13,0.355,0.005,0.153,1.21,0.924,11600,83.6,11,77.18
-unknown_64,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",3,4.81,1.44,0.02,0.132,2.31,0.921,12200,44.7,11,77.18
-unknown_65,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",4.5,5.45,2.9,0.045,0.151,3.52,0.647,12000,29.1,11,77.18
-unknown_66,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sleeve bearings",6,4.32,6.4,0.078,0.119,4.61,0.436,12100,22.3,11,77.18
-unknown_67,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sleeve bearings",9,4.8,13.2,0.181,0.134,7.04,0.303,12000,14.6,11,77.18
-unknown_68,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sleeve bearings",12,4.36,27.3,0.362,0.13,9.95,0.211,11300,10.1,11,77.18
-unknown_69,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",1.5,1.49,1.08,0.014,0.0766,1.07,0.924,12600,88.1,6,93.27
-unknown_70,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",3,1.54,4.04,0.051,0.0766,2.07,0.49,13000,45.9,6,93.27
-unknown_71,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",4.5,1.48,9.72,0.122,0.076,3.2,0.316,12600,29.4,6,93.27
-unknown_72,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",6,1.46,19.5,0.268,0.081,4.74,0.223,11300,19,6,93.27
-unknown_73,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",9,1.38,41.8,0.488,0.0712,6.4,0.152,12500,14.7,6,93.27
-unknown_74,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",12,1.37,74.9,0.868,0.0706,8.53,0.114,12500,11,6,93.27
-unknown_75,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",1.5,1.49,1.08,0.014,0.0766,1.07,0.924,12600,84.1,6,74.73
-unknown_76,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",3,1.54,4.04,0.051,0.0766,2.07,0.49,13000,43.8,6,74.73
-unknown_77,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",4.5,1.48,9.72,0.122,0.076,3.2,0.316,12600,28,6,74.73
-unknown_78,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",6,1.46,19.5,0.268,0.081,4.74,0.223,11400,18.2,6,74.73
-unknown_79,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",9,1.38,41.8,0.488,0.0712,6.4,0.152,12600,14,6,74.73
-unknown_80,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",12,1.37,74.9,0.868,0.0706,8.53,0.114,12500,10.5,6,74.73
-unknown_81,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",3,9.91,0.975,0.031,0.484,3.22,0.924,8800,34.5,16,105.91
-unknown_82,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",4.5,11.2,1.94,0.071,0.533,4.83,0.849,8810,23,16,105.91
-unknown_83,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",6,10.5,3.68,0.125,0.496,6.44,0.615,8800,17.2,16,105.91
-unknown_84,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",9,11.9,7.29,0.282,0.559,9.66,0.436,8810,11.5,16,105.91
-unknown_85,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",12,10.6,14.6,0.502,0.498,12.9,0.308,8800,8.62,16,105.91
-unknown_86,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",18,10.5,33.1,1.13,0.495,19.3,0.204,8800,5.75,16,105.91
-unknown_87,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",3,9.91,0.975,0.031,0.484,3.22,0.924,8810,31.3,16,87.36
-unknown_88,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",4.5,11.2,1.94,0.071,0.533,4.83,0.851,8820,20.9,16,87.36
-unknown_89,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",6,10.5,3.68,0.125,0.496,6.44,0.616,8810,15.7,16,87.36
-unknown_90,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",9,11.9,7.29,0.282,0.559,9.66,0.437,8820,10.4,16,87.36
-unknown_91,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",12,10.6,14.6,0.502,0.498,12.9,0.309,8810,7.83,16,87.36
-unknown_92,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",18,10.5,33.1,1.13,0.495,19.3,0.205,8810,5.22,16,87.36
-unknown_93,"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",3,3.35,2.74,0.072,0.286,3.06,0.654,9100,30,11,99.18
-unknown_94,"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",4.5,3.25,6.42,0.166,0.278,4.63,0.427,9020,19.8,11,99.18
-unknown_95,"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",6,3.46,10.6,0.29,0.293,6.12,0.332,9110,15,11,99.18
-unknown_96,"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",9,3.33,25,0.664,0.286,9.26,0.216,9020,9.89,11,99.18
-unknown_97,"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",12,3.21,46,1.17,0.275,12.3,0.159,9030,7.43,11,99.18
-unknown_98,"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",3,3.35,2.74,0.072,0.286,3.06,0.655,9090,31.8,11,80.64
-unknown_99,"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",4.5,3.25,6.42,0.166,0.278,4.63,0.427,9000,20.9,11,80.64
-unknown_100,"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",6,3.46,10.6,0.29,0.293,6.12,0.332,9100,15.9,11,80.64
-unknown_101,"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",9,3.33,25,0.664,0.286,9.26,0.216,9010,10.5,11,80.64
-unknown_102,"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",12,3.21,46,1.17,0.275,12.3,0.159,9020,7.88,11,80.64
-unknown_103,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",3,16.5,0.664,0.025,0.831,3.65,1.2,7720,76.3,26,113
-unknown_104,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",4.5,19.1,1.29,0.057,0.942,5.47,1.19,7730,50.9,26,113
-unknown_105,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",6,18.8,2.33,0.101,0.926,7.3,0.884,7730,38.2,26,113
-unknown_106,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",9,19.6,5.02,0.227,0.966,10.9,0.602,7740,25.5,26,113
-unknown_107,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",12,19.7,8.9,0.403,0.97,14.6,0.452,7740,19.1,26,113
-unknown_108,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",18,17.5,22.5,0.908,0.872,21.9,0.284,7720,12.7,26,113
-unknown_109,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",24,18.9,37.1,1.61,0.939,29.2,0.221,7730,9.55,26,113
-unknown_110,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",3,16.5,0.664,0.025,0.831,3.65,1.2,7720,73.6,26,101.27
-unknown_111,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",4.5,19.1,1.29,0.057,0.942,5.47,1.2,7740,49.1,26,101.27
-unknown_112,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",6,18.8,2.33,0.101,0.926,7.3,0.889,7740,36.8,26,101.27
-unknown_113,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",9,19.6,5.02,0.227,0.966,10.9,0.605,7740,24.5,26,101.27
-unknown_114,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",12,19.7,8.9,0.403,0.97,14.6,0.454,7740,18.4,26,101.27
-unknown_115,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",18,17.5,22.5,0.908,0.872,21.9,0.286,7730,12.3,26,101.27
-unknown_116,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",24,18.9,37.1,1.61,0.939,29.2,0.223,7740,9.2,26,101.27
-unknown_117,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",4.5,23.5,0.698,0.025,0.831,3.65,1.8,11600,74.8,26,110.64
-unknown_118,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",6,24.8,1.33,0.057,0.942,5.47,1.31,10400,48,26,110.64
-unknown_119,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",9,27.8,2.37,0.101,0.926,7.3,0.972,11700,37.4,26,110.64
-unknown_120,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",12,24.7,5.31,0.227,0.966,10.9,0.649,10300,24,26,110.64
-unknown_121,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",18,28.5,9.21,0.403,0.97,14.6,0.491,11600,18.7,26,110.64
-unknown_122,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",24,22.9,22.9,0.908,0.872,21.9,0.313,10300,12,26,110.64
-unknown_123,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",4.5,23.5,0.698,0.025,0.831,3.65,1.81,11600,73.9,26,98.91
-unknown_124,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",6,24.8,1.33,0.057,0.942,5.47,1.31,10400,46.4,26,98.91
-unknown_125,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",9,27.8,2.37,0.101,0.926,7.3,0.974,11700,37,26,98.91
-unknown_126,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",12,24.7,5.31,0.227,0.966,10.9,0.651,10300,23.2,26,98.91
-unknown_127,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",18,28.5,9.21,0.403,0.97,14.6,0.492,11600,18.5,26,98.91
-unknown_128,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",24,22.9,22.9,0.908,0.872,21.9,0.314,10300,11.6,26,98.91
-unknown_129,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",3,34.4,0.388,0.026,2.18,4.44,1.2,6390,66.8,42,127.18
-unknown_130,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",6,39.3,1.31,0.096,2.36,8.59,1.2,6620,34.9,42,127.18
-unknown_131,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",9,41.8,2.87,0.231,2.59,13.3,0.887,6400,22.3,42,127.18
-unknown_132,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",12,36.6,5.82,0.411,2.28,17.8,0.622,6400,16.7,42,127.18
-unknown_133,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",18,37.3,12.9,0.925,2.33,26.7,0.419,6400,11.1,42,127.18
-unknown_134,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",24,36.6,22.7,1.56,2.23,34.7,0.315,6560,8.62,42,127.18
-unknown_135,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",3,34.4,0.388,0.026,2.18,4.44,1.2,6380,79.2,42,115.45
-unknown_136,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",6,39.3,1.31,0.096,2.36,8.59,1.2,6610,41.4,42,115.45
-unknown_137,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",9,41.8,2.87,0.231,2.59,13.3,0.888,6390,26.4,42,115.45
-unknown_138,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",12,36.6,5.82,0.411,2.28,17.8,0.623,6390,19.8,42,115.45
-unknown_139,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",18,37.3,12.9,0.925,2.33,26.7,0.419,6390,13.2,42,115.45
-unknown_140,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",24,36.6,22.7,1.56,2.23,34.7,0.315,6550,10.2,42,115.45
-unknown_141,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",6,61.9,0.43,0.026,2.18,4.44,2,12800,102,42,124.82
-unknown_142,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",9,74.3,0.79,0.055,2.4,6.52,1.85,13100,70.8,42,124.82
-unknown_143,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",12,63.3,1.63,0.096,2.36,8.59,1.28,13100,53.8,42,124.82
-unknown_144,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",18,74.5,3.22,0.231,2.59,13.3,0.906,12800,34,42,124.82
-unknown_145,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",24,68.5,6.22,0.411,2.28,17.8,0.652,12800,25.5,42,124.82
-unknown_146,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",36,72.1,13.3,0.925,2.33,26.7,0.445,12800,17,42,124.82
-unknown_147,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",6,61.8,0.431,0.026,2.18,4.44,2,12800,101,42,113.09
-unknown_148,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",9,74.2,0.791,0.055,2.4,6.52,1.85,13100,69.8,42,113.09
-unknown_149,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",12,63.3,1.63,0.096,2.36,8.59,1.28,13100,53.1,42,113.09
-unknown_150,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",18,74.5,3.22,0.231,2.59,13.3,0.906,12800,33.6,42,113.09
-unknown_151,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",24,68.5,6.23,0.411,2.28,17.8,0.652,12800,25.2,42,113.09
-unknown_152,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",36,72,13.3,0.925,2.33,26.7,0.445,12800,16.8,42,113.09
-unknown_153,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",3,11.1,1.2,0.036,1,4.45,1.2,6290,56,26,119.36
-unknown_154,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",4.5,10.7,2.8,0.08,0.97,6.67,0.782,6290,37.3,26,119.36
-unknown_155,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",6,12.6,4.06,0.131,1.08,8.53,0.648,6580,29.6,26,119.36
-unknown_156,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",9,10.6,11.4,0.32,0.959,13.3,0.388,6290,18.7,26,119.36
-unknown_157,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",12,11.2,19.2,0.581,1.03,18,0.298,6230,13.8,26,119.36
-unknown_158,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",18,12.5,38.6,1.28,1.12,26.7,0.21,6310,9.34,26,119.36
-unknown_159,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",24,10.4,83.1,2.32,0.96,36,0.143,6220,6.91,26,119.36
-unknown_160,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",3,11.1,1.2,0.036,1,4.45,1.2,6320,44.6,26,107.64
-unknown_161,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",4.5,10.7,2.8,0.08,0.97,6.67,0.784,6320,29.7,26,107.64
-unknown_162,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",6,12.6,4.06,0.131,1.08,8.53,0.65,6610,23.4,26,107.64
-unknown_163,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",9,10.6,11.4,0.32,0.959,13.3,0.389,6320,14.9,26,107.64
-unknown_164,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",12,11.2,19.2,0.581,1.03,18,0.299,6260,11,26,107.64
-unknown_165,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",18,12.5,38.6,1.28,1.12,26.7,0.211,6340,7.43,26,107.64
-unknown_166,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",24,10.4,83.1,2.32,0.96,36,0.144,6250,5.51,26,107.64
-unknown_167,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",6,21.3,1.25,0.036,1,4.45,1.28,12700,67.1,26,117
-unknown_168,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",9,21,2.85,0.08,0.97,6.67,0.845,12700,44.8,26,117
-unknown_169,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",12,22.6,4.53,0.131,1.08,8.53,0.662,13200,35.4,26,117
-unknown_170,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",18,20.1,12,0.32,0.959,13.3,0.411,12700,22.4,26,117
-unknown_171,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",24,21.7,19.7,0.569,1.02,17.8,0.321,12700,16.8,26,117
-unknown_172,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",48,20.6,83.9,2.32,0.96,36,0.156,12600,8.28,26,117
-unknown_173,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",6,21.3,1.25,0.036,1,4.45,1.28,12700,63.9,26,105.27
-unknown_174,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",9,21,2.85,0.08,0.97,6.67,0.847,12700,42.6,26,105.27
-unknown_175,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",12,22.6,4.53,0.131,1.08,8.53,0.663,13200,33.9,26,105.27
-unknown_176,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",18,20.1,12,0.32,0.959,13.3,0.412,12700,21.3,26,105.27
-unknown_177,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",24,21.7,19.7,0.569,1.02,17.8,0.321,12700,16,26,105.27
-unknown_178,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",48,20.6,83.9,2.32,0.96,36,0.156,12600,7.87,26,105.27
-unknown_179,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",4.5,35.7,0.831,0.045,2.67,6.58,1.2,6440,72,50,117.09
-unknown_180,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",6,36.3,1.47,0.082,2.68,8.91,1.2,6350,52.9,50,117.09
-unknown_181,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",9,35.9,3.4,0.191,2.65,13.6,0.829,6260,34.6,50,117.09
-unknown_182,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",12,38,5.63,0.329,2.75,17.8,0.644,6350,26.5,50,125.64
-unknown_183,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",18,37.8,12.7,0.74,2.74,26.7,0.428,6350,17.6,50,125.64
-unknown_184,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",24,37.5,22.8,1.32,2.72,35.6,0.319,6350,13.2,50,125.64
-unknown_185,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",4.5,35.7,0.831,0.045,2.67,6.58,1.2,6430,81.9,50,105.36
-unknown_186,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",6,36.3,1.47,0.082,2.68,8.91,1.2,6340,60.4,50,105.36
-unknown_187,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",9,35.9,3.4,0.191,2.65,13.6,0.83,6250,39.6,50,105.36
-unknown_188,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",12,38,5.63,0.329,2.75,17.8,0.644,6340,30.2,50,113.91
-unknown_189,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",18,37.8,12.7,0.74,2.74,26.7,0.428,6340,20.1,50,113.91
-unknown_190,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",24,37.5,22.8,1.32,2.72,35.6,0.32,6340,15.1,50,113.91
-unknown_191,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",9,73,0.812,0.045,2.67,6.58,1.81,12900,102,50,123.27
-unknown_192,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",12,73.5,1.45,0.082,2.68,8.91,1.35,12700,75,50,123.27
-unknown_193,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",18,72.1,3.38,0.191,2.65,13.6,0.886,12600,48.9,50,123.27
-unknown_194,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",24,74.6,5.73,0.329,2.75,17.8,0.675,12700,37.5,50,123.27
-unknown_195,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",36,74.9,12.9,0.74,2.74,26.7,0.452,12700,25,50,123.27
-unknown_196,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",48,74.5,23,1.32,2.72,35.6,0.338,12700,18.7,50,123.27
-unknown_197,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",9,73,0.812,0.045,2.67,6.58,1.8,12900,112,50,111.55
-unknown_198,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",12,73.5,1.45,0.082,2.68,8.91,1.34,12700,82.1,50,111.55
-unknown_199,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",18,72.1,3.38,0.191,2.65,13.6,0.879,12600,53.6,50,111.55
-unknown_200,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",24,74.6,5.73,0.329,2.75,17.8,0.671,12700,41,50,111.55
-unknown_201,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",36,74.9,12.9,0.74,2.74,26.7,0.449,12700,27.4,50,111.55
-unknown_202,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",48,74.5,23,1.32,2.72,35.6,0.336,12700,20.5,50,111.55
-unknown_203,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",6,170,0.343,0.035,9.06,9.73,1.5,5870,51,95,166.45
-unknown_204,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",9,191,0.687,0.078,9.82,14.6,1.5,5870,34,95,166.45
-unknown_205,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",12,150,1.84,0.192,9,22.9,1.3,4980,20,95,166.45
-unknown_206,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",18,178,3.01,0.326,9.26,29.9,1.01,5740,16.4,95,166.45
-unknown_207,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",24,150,7.25,0.746,8.85,45.2,0.655,5060,10.2,95,166.45
-unknown_208,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",36,180,11.4,1.19,8.94,57,0.52,6020,8.82,95,175
-unknown_209,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",48,140,29.9,2.8,8.12,87.6,0.322,5220,5.36,95,175
-unknown_210,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",6,170,0.343,0.035,9.06,9.73,1.5,5870,48.7,95,154.73
-unknown_211,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",9,191,0.687,0.078,9.82,14.6,1.5,5870,32.5,95,154.73
-unknown_212,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",12,150,1.84,0.192,9,22.9,1.31,4980,19.4,95,154.73
-unknown_213,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",18,178,3.01,0.326,9.26,29.9,1.02,5740,15.7,95,154.73
-unknown_214,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",24,150,7.25,0.746,8.85,45.2,0.658,5060,9.89,95,154.73
-unknown_215,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",36,180,11.4,1.19,8.94,57,0.522,6020,8.4,95,163.27
-unknown_216,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",48,140,29.9,2.8,8.12,87.6,0.323,5220,5.16,95,163.27
-unknown_217,"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",9,371,0.168,0.018,9.37,6.95,4,12300,118,95,172.64
-unknown_218,"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",12,348,0.335,0.035,9.06,9.73,3.21,11700,81.8,95,172.64
-unknown_219,"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",18,386,0.68,0.078,9.82,14.6,2.26,11800,54.6,95,172.64
-unknown_220,"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",36,346,3.11,0.326,9.26,29.9,1.03,11400,26.3,95,172.64
-unknown_221,"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",48,294,7.39,0.746,8.85,45.2,0.687,10100,16.2,95,172.64
-unknown_222,"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",9,371,0.168,0.018,9.37,6.95,4,12300,196,95,160.91
-unknown_223,"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",12,348,0.335,0.035,9.06,9.73,3.06,11700,136,95,160.91
-unknown_224,"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",18,386,0.68,0.078,9.82,14.6,2.15,11700,90.5,95,160.91
-unknown_225,"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",36,346,3.11,0.326,9.26,29.9,0.982,11400,43.5,95,160.91
-unknown_226,"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",48,294,7.39,0.746,8.85,45.2,0.664,10100,26.7,95,160.91
-unknown_227,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",6,53.7,1.02,0.058,5.05,9.18,1.2,6200,39.2,66,120.82
-unknown_228,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",12,59.7,3.69,0.231,5.55,18.4,0.817,6200,19.6,66,120.82
-unknown_229,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",18,57.5,8.75,0.535,5.44,28,0.531,6110,12.8,66,120.82
-unknown_230,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",24,52.7,16.3,0.881,4.67,35.9,0.388,6340,10.1,66,129.36
-unknown_231,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",36,56.5,33.3,1.86,5.03,52.2,0.272,6550,7.09,66,129.36
-unknown_232,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",48,48.6,76.2,4.08,4.84,77.2,0.18,5890,4.55,66,129.36
-unknown_233,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",6,53.7,1.02,0.058,5.05,9.18,1.2,6190,44.8,66,109.09
-unknown_234,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",12,59.7,3.69,0.231,5.55,18.4,0.818,6200,22.4,66,109.09
-unknown_235,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",18,57.5,8.75,0.535,5.44,28,0.531,6100,14.6,66,109.09
-unknown_236,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",24,52.7,16.3,0.881,4.67,35.9,0.388,6340,11.6,66,117.64
-unknown_237,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",36,56.5,33.3,1.86,5.03,52.2,0.272,6540,8.05,66,117.64
-unknown_238,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",48,48.6,76.2,4.08,4.84,77.2,0.18,5890,5.22,66,117.64
-unknown_239,"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",6,101,0.297,0.017,5.27,5.01,3,11400,126,66,127
-unknown_240,"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",12,108,1.02,0.058,5.05,9.18,1.65,12400,71.7,66,127
-unknown_241,"DCX 22 Ø22 mm, Graphite Brushes, ball bearings",18,112,2.21,0.13,5.22,13.8,1.12,12400,47.8,66,127
-unknown_242,"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",24,120,3.69,0.231,5.55,18.4,0.869,12400,35.9,66,127
-unknown_243,"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",36,113,8.94,0.535,5.44,28,0.552,12200,23.4,66,127
-unknown_244,"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",48,104,16.6,0.881,4.67,35.9,0.406,12700,18.5,66,127
-unknown_245,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",6,101,0.297,0.017,5.27,5.01,3,11300,159,66,115.27
-unknown_246,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",12,108,1.02,0.058,5.05,9.18,1.63,12400,90.8,66,115.27
-unknown_247,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",18,112,2.21,0.13,5.22,13.8,1.1,12400,60.5,66,115.27
-unknown_248,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",24,120,3.69,0.231,5.55,18.4,0.855,12400,45.4,66,115.27
-unknown_249,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",36,113,8.94,0.535,5.44,28,0.543,12200,29.5,66,115.27
-unknown_250,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",48,104,16.6,0.881,4.67,35.9,0.399,12600,23.5,66,115.27
-unknown_251,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",9,384,0.363,0.067,21.3,15.5,2.2,5530,80.5,170,202.27
-unknown_252,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",12,384,0.671,0.129,21.4,21.4,2.2,5330,56.8,170,202.27
-unknown_253,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",18,362,1.54,0.268,19.4,31,1.64,5530,40.2,170,202.27
-unknown_254,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",24,384,2.68,0.514,21.2,42.9,1.25,5330,28.4,170,202.27
-unknown_255,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",36,370,6.15,1.11,20.1,63.2,0.822,5430,19.5,170,202.27
-unknown_256,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",48,355,11.6,2.06,19.7,85.8,0.599,5320,14.2,170,202.27
-unknown_257,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",9,384,0.363,0.067,21.3,15.5,2.2,5530,96.1,170,190.55
-unknown_258,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",12,384,0.671,0.129,21.4,21.4,2.2,5320,68.3,170,190.55
-unknown_259,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",18,362,1.54,0.268,19.4,31,1.65,5530,48,170,190.55
-unknown_260,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",24,384,2.68,0.514,21.2,42.9,1.25,5320,34.2,170,190.55
-unknown_261,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",36,370,6.15,1.11,20.1,63.2,0.823,5420,23.4,170,190.55
-unknown_262,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",48,355,11.6,2.06,19.7,85.8,0.599,5320,17.1,170,190.55
-unknown_263,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",12,532,0.242,0.032,21.4,10.7,4.5,10600,131,170,199.91
-unknown_264,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",18,653,0.427,0.067,21.3,15.5,3.59,11100,93,170,199.91
-unknown_265,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",24,695,0.74,0.129,21.4,21.4,2.76,10700,65.7,170,199.91
-unknown_266,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",36,639,1.75,0.268,19.4,31,1.79,11100,46.5,170,199.91
-unknown_267,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",48,697,2.95,0.514,21.2,42.9,1.41,10700,32.9,170,199.91
-unknown_268,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",60,750,4.19,0.768,20.7,52.4,1.17,10900,27.3,170,199.91
-unknown_269,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",12,532,0.242,0.032,21.4,10.7,4,10600,194,170,188.18
-unknown_270,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",18,653,0.427,0.067,21.3,15.5,3.02,11000,138,170,188.18
-unknown_271,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",24,695,0.74,0.129,21.4,21.4,2.35,10600,97.1,170,188.18
-unknown_272,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",36,618,1.8,0.268,19.4,31,1.53,11100,69,170,188.18
-unknown_273,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",48,697,2.95,0.514,21.2,42.9,1.2,10700,48.6,170,188.18
-unknown_274,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",60,718,4.38,0.768,20.7,52.4,0.982,10900,40.4,170,188.18
-unknown_275,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",12,1730,0.108,0.034,77.6,15.6,6,7120,274,320,237
-unknown_276,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",18,2120,0.165,0.052,75.9,19.5,5.42,8630,234,320,237
-unknown_277,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",24,1980,0.331,0.103,72.8,27.3,4.12,8270,164,320,237
-unknown_278,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",36,2020,0.764,0.254,76.8,42.9,2.87,7940,103,320,237
-unknown_279,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",48,2000,1.4,0.473,75.9,58.5,2.17,7780,75.2,320,237
-unknown_280,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",60,1420,4.12,1.31,71.7,97.5,1.35,5840,41.6,320,237
-unknown_281,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",12,2080,0.0788,0.026,99.5,13.7,6,8130,320,380,261.27
-unknown_282,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",18,1980,0.212,0.077,102,23.4,5.32,7200,177,380,261.27
-unknown_283,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",24,2030,0.346,0.121,96.6,29.3,4.26,7720,146,380,261.27
-unknown_284,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",36,2160,0.716,0.26,98.7,42.9,3.07,7940,101,380,261.27
-unknown_285,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",48,1860,1.76,0.658,99.5,68.3,2.08,6670,58.6,380,261.27
-unknown_286,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",60,2050,2.16,0.776,95.2,74.1,1.84,7690,57.5,380,261.27
-unknown_287,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",6,5.18,1.8,0.026,0.0249,1.55,0.902,35500,128,6,262.45
-unknown_288,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",6,5.18,1.8,0.026,0.0249,1.55,0.902,35500,128,6,227.45
-unknown_289,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",9,4.83,5.3,0.089,0.0249,2.84,0.497,29100,63.4,6,262.45
-unknown_290,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",9,4.83,5.3,0.089,0.0249,2.84,0.497,29100,63.4,6,227.45
-unknown_291,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",12,5.18,8.38,0.144,0.0249,3.62,0.391,30500,50.9,6,262.45
-unknown_292,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",12,5.18,8.38,0.144,0.0249,3.62,0.391,30500,50.9,6,227.45
-unknown_293,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",6,3.04,3.02,0.039,0.0249,1.53,0.687,35400,105,6,219.73
-unknown_294,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",6,3.04,3.02,0.039,0.0249,1.53,0.687,35400,105,6,187.09
-unknown_295,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",12,3.88,7.8,0.106,0.0249,2.52,0.406,43300,69,6,219.73
-unknown_296,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",12,3.88,7.8,0.106,0.0249,2.52,0.406,43300,69,6,187.09
-unknown_297,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",24,3.92,31.8,0.447,0.0249,5.19,0.198,42200,33.2,6,219.73
-unknown_298,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",24,3.92,31.8,0.447,0.0249,5.19,0.198,42200,33.2,6,187.09
-unknown_299,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,149,0.304,0.012,0.349,2.52,2.93,67900,223,33,239.82
-unknown_300,"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,149,0.304,0.012,0.349,2.52,2.93,67900,223,33,208
-unknown_301,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,161,0.512,0.022,0.349,3.44,2.22,66400,161,33,239.82
-unknown_302,"ECX SPEED 13L Ø13 mm, brushless, sensorless",24,161,0.512,0.022,0.349,3.44,2.22,66400,161,33,208
-unknown_303,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",36,161,1.13,0.048,0.349,5.04,1.46,67900,112,33,239.82
-unknown_304,"ECX SPEED 13L Ø13 mm, brushless, sensorless",36,161,1.13,0.048,0.349,5.04,1.46,67900,112,33,208
-unknown_305,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",48,151,2.34,0.101,0.349,7.33,1.03,62300,72.1,33,239.82
-unknown_306,"ECX SPEED 13L Ø13 mm, brushless, sensorless",48,151,2.34,0.101,0.349,7.33,1.03,62300,72.1,33,208
-unknown_307,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,50.9,1.42,0.044,0.374,4.01,1.35,42300,165,33,217.64
-unknown_308,"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,50.9,1.42,0.044,0.374,4.01,1.35,42300,165,33,182
-unknown_309,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,58.5,2.16,0.076,0.374,5.25,1.08,43100,128,33,217.64
-unknown_310,"ECX SPEED 13L Ø13 mm, brushless, sensorless",24,58.5,2.16,0.076,0.374,5.25,1.08,43100,128,33,182
-unknown_311,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",36,59.9,4.82,0.178,0.374,8.02,0.724,42300,82.5,33,217.64
-unknown_312,"ECX SPEED 13L Ø13 mm, brushless, sensorless",36,59.9,4.82,0.178,0.374,8.02,0.724,42300,82.5,33,182
-unknown_313,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",48,58.9,8.64,0.31,0.374,10.6,0.539,42700,62.8,33,217.64
-unknown_314,"ECX SPEED 13L Ø13 mm, brushless, sensorless",48,58.9,8.64,0.31,0.374,10.6,0.539,42700,62.8,33,182
-unknown_315,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",18,124,0.344,0.007,0.315,2.37,3.41,72200,203,40,421.55
-unknown_316,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",18,124,0.344,0.007,0.315,2.37,3.41,72200,203,40,383
-unknown_317,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",24,140,0.552,0.014,0.315,3.23,2.58,70700,147,40,421.55
-unknown_318,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",24,140,0.552,0.014,0.315,3.23,2.58,70700,147,40,383
-unknown_319,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",36,146,1.17,0.03,0.315,4.74,1.7,72300,101,40,421.55
-unknown_320,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",36,146,1.17,0.03,0.315,4.74,1.7,72300,101,40,383
-unknown_321,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",48,139,2.38,0.063,0.315,6.89,1.19,66200,66,40,421.55
-unknown_322,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",48,139,2.38,0.063,0.315,6.89,1.19,66200,66,40,383
-unknown_323,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,124,0.344,0.007,0.315,2.37,3.39,72200,234,40,411.55
-unknown_324,"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,124,0.344,0.007,0.315,2.37,3.39,72200,234,40,371.36
-unknown_325,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,140,0.552,0.014,0.315,3.23,2.57,70600,170,40,411.55
-unknown_326,"ECX SPEED 13L Ø13 mm, brushless, sensorless",24,140,0.552,0.014,0.315,3.23,2.57,70600,170,40,371.36
-unknown_327,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",36,146,1.17,0.03,0.315,4.74,1.69,72200,117,40,411.55
-unknown_328,"ECX SPEED 13L Ø13 mm, brushless, sensorless",36,146,1.17,0.03,0.315,4.74,1.69,72200,117,40,371.36
-unknown_329,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",48,139,2.38,0.063,0.315,6.89,1.18,66200,76.5,40,411.55
-unknown_330,"ECX SPEED 13L Ø13 mm, brushless, sensorless",48,139,2.38,0.063,0.315,6.89,1.18,66200,76.5,40,371.36
-unknown_331,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",18,28,2.4,0.065,0.244,3.74,0.916,44700,206,24,206.55
-unknown_332,"ECX SPEED 13M Ø13 mm, brushless, sensorless",18,28,2.4,0.065,0.244,3.74,0.916,44700,206,24,172.18
-unknown_333,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",24,28.4,4.22,0.117,0.244,5,0.687,44500,154,24,206.55
-unknown_334,"ECX SPEED 13M Ø13 mm, brushless, sensorless",24,28.4,4.22,0.117,0.244,5,0.687,44500,154,24,172.18
-unknown_335,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",36,25.5,10.9,0.276,0.244,7.69,0.431,43300,98.1,24,206.55
-unknown_336,"ECX SPEED 13M Ø13 mm, brushless, sensorless",36,25.5,10.9,0.276,0.244,7.69,0.431,43300,98.1,24,172.18
-unknown_337,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",48,25.2,19.3,0.483,0.244,10.2,0.321,43700,74.7,24,206.55
-unknown_338,"ECX SPEED 13M Ø13 mm, brushless, sensorless",48,25.2,19.3,0.483,0.244,10.2,0.321,43700,74.7,24,172.18
-unknown_339,"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",18,79.8,0.576,0.018,0.244,2.55,1.95,66700,273,37,225.91
-unknown_340,"ECX SPEED 13 M Ø13 mm, brushless, sensorless",18,79.8,0.576,0.018,0.244,2.55,1.95,66700,273,37,193.27
-unknown_341,"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",24,83.9,0.973,0.032,0.244,3.4,1.45,66700,205,37,225.91
-unknown_342,"ECX SPEED 13 M Ø13 mm, brushless, sensorless",24,83.9,0.973,0.032,0.244,3.4,1.45,66700,205,37,193.27
-unknown_343,"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",36,79,2.33,0.071,0.244,5.11,0.917,66700,137,37,225.91
-unknown_344,"ECX SPEED 13 M Ø13 mm, brushless, sensorless",36,79,2.33,0.071,0.244,5.11,0.917,66700,137,37,193.27
-unknown_345,"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",48,80.3,4.24,0.137,0.244,7.09,0.682,64000,95.6,37,225.91
-unknown_346,"ECX SPEED 13 M Ø13 mm, brushless, sensorless",48,80.3,4.24,0.137,0.244,7.09,0.682,64000,95.6,37,193.27
-unknown_347,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",18,68.8,0.576,0.014,0.13,2.2,1.55,77600,186,32,409.18
-unknown_348,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",18,68.8,0.576,0.014,0.13,2.2,1.55,77600,186,32,370.73
-unknown_349,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",24,72.3,0.973,0.024,0.13,2.93,1.15,77600,140,32,409.18
-unknown_350,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",24,72.3,0.973,0.024,0.13,2.93,1.15,77600,140,32,370.73
-unknown_351,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",36,68.1,2.33,0.054,0.13,4.4,0.724,77600,93.3,32,409.18
-unknown_352,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",36,68.1,2.33,0.054,0.13,4.4,0.724,77600,93.3,32,370.73
-unknown_353,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",48,69.2,4.24,0.104,0.13,6.11,0.557,74500,65.7,32,409.18
-unknown_354,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",48,69.2,4.24,0.104,0.13,6.11,0.557,74500,65.7,32,370.73
-unknown_355,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",18,68.8,0.576,0.014,0.13,2.2,1.41,77600,208,32,391.82
-unknown_356,"ECX SPEED 13M Ø13 mm, brushless, sensorless",18,68.8,0.576,0.014,0.13,2.2,1.41,77600,208,32,352.27
-unknown_357,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",24,72.3,0.973,0.024,0.13,2.93,1.05,77600,156,32,391.82
-unknown_358,"ECX SPEED 13M Ø13 mm, brushless, sensorless",24,72.3,0.973,0.024,0.13,2.93,1.05,77600,156,32,352.27
-unknown_359,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",36,68.1,2.33,0.054,0.13,4.4,0.663,77600,104,32,391.82
-unknown_360,"ECX SPEED 13M Ø13 mm, brushless, sensorless",36,68.1,2.33,0.054,0.13,4.4,0.663,77600,104,32,352.27
-unknown_361,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",48,69.2,4.24,0.104,0.13,6.11,0.517,74500,72.9,32,391.82
-unknown_362,"ECX SPEED 13M Ø13 mm, brushless, sensorless",48,69.2,4.24,0.104,0.13,6.11,0.517,74500,72.9,32,352.27
-unknown_363,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",18,346,0.138,0.008,1.2,2.65,6.2,64600,459,72,207.64
-unknown_364,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",18,346,0.138,0.008,1.2,2.65,6.2,64600,459,72,189.27
-unknown_365,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",24,407,0.208,0.014,1.2,3.53,4.82,64600,344,72,207.64
-unknown_366,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",24,407,0.208,0.014,1.2,3.53,4.82,64600,344,72,189.27
-unknown_367,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",36,414,0.461,0.032,1.2,5.3,3.1,64600,230,72,207.64
-unknown_368,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",36,414,0.461,0.032,1.2,5.3,3.1,64600,230,72,189.27
-unknown_369,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",48,396,0.858,0.056,1.2,7.07,2.24,64600,172,72,207.64
-unknown_370,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",48,396,0.858,0.056,1.2,7.07,2.24,64600,172,72,189.27
-unknown_371,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",18,341,0.138,0.01,0.952,2.61,6.12,65700,383,72,385
-unknown_372,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",18,341,0.138,0.01,0.952,2.61,6.12,65700,383,72,364.82
-unknown_373,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",24,401,0.208,0.018,0.952,3.48,4.75,65700,287,72,385
-unknown_374,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",24,401,0.208,0.018,0.952,3.48,4.75,65700,287,72,364.82
-unknown_375,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",36,407,0.461,0.04,0.952,5.21,3.05,65700,192,72,385
-unknown_376,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",36,407,0.461,0.04,0.952,5.21,3.05,65700,192,72,364.82
-unknown_377,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",48,389,0.858,0.071,0.952,6.95,2.2,65700,144,72,385
-unknown_378,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",48,389,0.858,0.071,0.952,6.95,2.2,65700,144,72,364.82
-unknown_379,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",18,341,0.138,0.01,0.952,2.61,6.28,65700,333,72,368.82
-unknown_380,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",18,341,0.138,0.01,0.952,2.61,6.28,65700,333,72,348.45
-unknown_381,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",24,401,0.208,0.018,0.952,3.48,4.87,65800,250,72,368.82
-unknown_382,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",24,401,0.208,0.018,0.952,3.48,4.87,65800,250,72,348.45
-unknown_383,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",36,407,0.461,0.04,0.952,5.21,3.13,65800,167,72,368.82
-unknown_384,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",36,407,0.461,0.04,0.952,5.21,3.13,65800,167,72,348.45
-unknown_385,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",48,389,0.858,0.071,0.952,6.95,2.26,65800,125,72,368.82
-unknown_386,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",48,389,0.858,0.071,0.952,6.95,2.26,65800,125,72,348.45
-unknown_387,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",18,142,0.453,0.022,0.997,3.58,3.02,47500,342,72,183.91
-unknown_388,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",18,142,0.453,0.022,0.997,3.58,3.02,47500,342,72,162.91
-unknown_389,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",24,150,0.765,0.039,0.997,4.78,2.29,47500,256,72,183.91
-unknown_390,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",24,150,0.765,0.039,0.997,4.78,2.29,47500,256,72,162.91
-unknown_391,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",36,170,1.49,0.085,0.997,7.04,1.61,48400,176,72,183.91
-unknown_392,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",36,170,1.49,0.085,0.997,7.04,1.61,48400,176,72,162.91
-unknown_393,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",48,182,2.45,0.149,0.997,9.31,1.25,48800,134,72,183.91
-unknown_394,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",48,182,2.45,0.149,0.997,9.31,1.25,48800,134,72,162.91
-unknown_395,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",18,109,0.512,0.03,0.812,3.09,2.67,55100,276,50,192
-unknown_396,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",18,109,0.512,0.03,0.812,3.09,2.67,55100,276,50,172.73
-unknown_397,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",24,111,0.841,0.047,0.812,3.9,2.05,58300,227,50,192
-unknown_398,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",24,111,0.841,0.047,0.812,3.9,2.05,58300,227,50,172.73
-unknown_399,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",36,113,1.92,0.113,0.812,6.04,1.35,56400,143,50,192
-unknown_400,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",36,113,1.92,0.113,0.812,6.04,1.35,56400,143,50,172.73
-unknown_401,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",48,115,3.35,0.201,0.812,8.06,1.01,56400,107,50,192
-unknown_402,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",48,115,3.35,0.201,0.812,8.06,1.01,56400,107,50,172.73
-unknown_403,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",18,97.3,0.512,0.034,0.589,2.77,2.67,61400,328,50,366.55
-unknown_404,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",18,97.3,0.512,0.034,0.589,2.77,2.67,61400,328,50,345.64
-unknown_405,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",24,99.6,0.841,0.054,0.589,3.49,2.04,64900,271,50,366.55
-unknown_406,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",24,99.6,0.841,0.054,0.589,3.49,2.04,64900,271,50,345.64
-unknown_407,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",36,87.2,2.43,0.155,0.589,5.9,1.2,57600,147,50,366.55
-unknown_408,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",36,87.2,2.43,0.155,0.589,5.9,1.2,57600,147,50,345.64
-unknown_409,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",48,91,4.06,0.264,0.589,7.7,0.927,58800,114,50,366.55
-unknown_410,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",48,91,4.06,0.264,0.589,7.7,0.927,58800,114,50,345.64
-unknown_411,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",18,97.3,0.512,0.034,0.589,2.77,2.69,61500,275,50,350.09
-unknown_412,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",18,97.3,0.512,0.034,0.589,2.77,2.69,61500,275,50,329.09
-unknown_413,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",24,99.6,0.841,0.054,0.589,3.49,2.07,65000,227,50,350.09
-unknown_414,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",24,99.6,0.841,0.054,0.589,3.49,2.07,65000,227,50,329.09
-unknown_415,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",36,87.2,2.43,0.155,0.589,5.9,1.21,57700,124,50,350.09
-unknown_416,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",36,87.2,2.43,0.155,0.589,5.9,1.21,57700,124,50,329.09
-unknown_417,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",48,91,4.06,0.264,0.589,7.7,0.935,58900,96.2,50,350.09
-unknown_418,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",48,91,4.06,0.264,0.589,7.7,0.935,58900,96.2,50,329.09
-unknown_419,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",18,57.3,1.07,0.05,0.806,3.41,1.59,49600,236,50,177.36
-unknown_420,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",18,57.3,1.07,0.05,0.806,3.41,1.59,49600,236,50,156.18
-unknown_421,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",24,63.2,1.73,0.089,0.806,4.55,1.24,49600,177,50,177.36
-unknown_422,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",24,63.2,1.73,0.089,0.806,4.55,1.24,49600,177,50,156.18
-unknown_423,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",36,67.8,3.62,0.201,0.806,6.83,0.852,49700,118,50,177.36
-unknown_424,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",36,67.8,3.62,0.201,0.806,6.83,0.852,49700,118,50,156.18
-unknown_425,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",48,59.9,7.29,0.357,0.806,9.1,0.601,49600,88.7,50,177.36
-unknown_426,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",48,59.9,7.29,0.357,0.806,9.1,0.601,49600,88.7,50,156.18
-unknown_427,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",18,503,0.101,0.01,1.79,2.82,8.71,60800,376,100,399.36
-unknown_428,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",18,503,0.101,0.01,1.79,2.82,8.71,60800,376,100,379.64
-unknown_429,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",24,561,0.161,0.017,1.79,3.76,6.45,60800,282,100,399.36
-unknown_430,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",24,561,0.161,0.017,1.79,3.76,6.45,60800,282,100,379.64
-unknown_431,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",36,613,0.35,0.043,1.79,5.95,4.16,57600,172,100,399.36
-unknown_432,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",36,613,0.35,0.043,1.79,5.95,4.16,57600,172,100,379.64
-unknown_433,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",48,655,0.528,0.063,1.79,7.21,3.32,63400,152,100,399.36
-unknown_434,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",48,655,0.528,0.063,1.79,7.21,3.32,63400,152,100,379.64
-unknown_435,"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",18,503,0.101,0.01,1.79,2.82,8.68,60800,426,100,383
-unknown_436,"ECX SPEED 19 L Ø19 mm, brushless, sensorless",18,503,0.101,0.01,1.79,2.82,8.68,60800,426,100,363.45
-unknown_437,"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",24,561,0.161,0.017,1.79,3.76,6.43,60800,319,100,383
-unknown_438,"ECX SPEED 19 L Ø19 mm, brushless, sensorless",24,561,0.161,0.017,1.79,3.76,6.43,60800,319,100,363.45
-unknown_439,"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",36,613,0.35,0.043,1.79,5.95,4.14,57600,194,100,383
-unknown_440,"ECX SPEED 19 L Ø19 mm, brushless, sensorless",36,613,0.35,0.043,1.79,5.95,4.14,57600,194,100,363.45
-unknown_441,"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",48,655,0.528,0.063,1.79,7.21,3.31,63400,172,100,383
-unknown_442,"ECX SPEED 19 L Ø19 mm, brushless, sensorless",48,655,0.528,0.063,1.79,7.21,3.31,63400,172,100,363.45
-unknown_443,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",18,558,0.0908,0.008,1.64,2.82,8.38,60900,351,100,230.82
-unknown_444,"ECX SPEED 19L Ø19 mm, brushless, sensorless",18,558,0.0908,0.008,1.64,2.82,8.38,60900,351,100,214.18
-unknown_445,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",24,598,0.151,0.015,1.64,3.76,6.21,60900,263,100,230.82
-unknown_446,"ECX SPEED 19L Ø19 mm, brushless, sensorless",24,598,0.151,0.015,1.64,3.76,6.21,60900,263,100,214.18
-unknown_447,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",36,630,0.34,0.037,1.64,5.95,4.01,57700,160,100,230.82
-unknown_448,"ECX SPEED 19L Ø19 mm, brushless, sensorless",36,630,0.34,0.037,1.64,5.95,4.01,57700,160,100,214.18
-unknown_449,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",48,667,0.518,0.055,1.64,7.2,3.19,63500,142,100,230.82
-unknown_450,"ECX SPEED 19L Ø19 mm, brushless, sensorless",48,667,0.518,0.055,1.64,7.2,3.19,63500,142,100,214.18
-unknown_451,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",18,214,0.302,0.022,1.67,3.59,4.38,47600,233,100,192.18
-unknown_452,"ECX SPEED 19L Ø19 mm, brushless, sensorless",18,214,0.302,0.022,1.67,3.59,4.38,47600,233,100,172.09
-unknown_453,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",24,251,0.45,0.037,1.67,4.71,3.52,48500,180,100,192.18
-unknown_454,"ECX SPEED 19L Ø19 mm, brushless, sensorless",24,251,0.45,0.037,1.67,4.71,3.52,48500,180,100,172.09
-unknown_455,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",36,270,0.924,0.081,1.67,6.94,2.41,49300,124,100,192.18
-unknown_456,"ECX SPEED 19L Ø19 mm, brushless, sensorless",36,270,0.924,0.081,1.67,6.94,2.41,49300,124,100,172.09
-unknown_457,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",18,179,0.266,0.023,1.15,2.64,4.31,64700,247,78,381.45
-unknown_458,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",18,179,0.266,0.023,1.15,2.64,4.31,64700,247,78,362
-unknown_459,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",24,150,0.566,0.044,1.15,3.53,2.87,64600,185,78,381.45
-unknown_460,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",24,150,0.566,0.044,1.15,3.53,2.87,64600,185,78,362
-unknown_461,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",36,164,1.16,0.099,1.15,5.3,1.97,64600,123,78,381.45
-unknown_462,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",36,164,1.16,0.099,1.15,5.3,1.97,64600,123,78,362
-unknown_463,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",48,169,2.04,0.182,1.15,7.2,1.48,63400,90.1,78,381.45
-unknown_464,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",48,169,2.04,0.182,1.15,7.2,1.48,63400,90.1,78,362
-unknown_465,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",18,179,0.266,0.023,1.15,2.64,4.32,64800,207,78,365.18
-unknown_466,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",18,179,0.266,0.023,1.15,2.64,4.32,64800,207,78,345.09
-unknown_467,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",24,150,0.566,0.044,1.15,3.53,2.87,64600,155,78,365.18
-unknown_468,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",24,150,0.566,0.044,1.15,3.53,2.87,64600,155,78,345.09
-unknown_469,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",36,164,1.16,0.099,1.15,5.3,1.98,64600,103,78,365.18
-unknown_470,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",36,164,1.16,0.099,1.15,5.3,1.98,64600,103,78,345.09
-unknown_471,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",48,169,2.04,0.182,1.15,7.2,1.48,63400,75.3,78,365.18
-unknown_472,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",48,169,2.04,0.182,1.15,7.2,1.48,63400,75.3,78,345.09
-unknown_473,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",18,189,0.266,0.021,1.31,2.78,4.36,61300,408,78,209.09
-unknown_474,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",18,189,0.266,0.021,1.31,2.78,4.36,61300,408,78,191.64
-unknown_475,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",24,162,0.566,0.04,1.31,3.81,2.91,59600,293,78,209.09
-unknown_476,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",24,162,0.566,0.04,1.31,3.81,2.91,59600,293,78,191.64
-unknown_477,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",36,177,1.16,0.09,1.31,5.72,2,59700,195,78,209.09
-unknown_478,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",36,177,1.16,0.09,1.31,5.72,2,59700,195,78,191.64
-unknown_479,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",48,183,2.04,0.166,1.31,7.77,1.5,58600,142,78,209.09
-unknown_480,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",48,183,2.04,0.166,1.31,7.77,1.5,58600,142,78,191.64
-unknown_481,"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",18,94.8,0.715,0.055,1.15,3.76,2.23,45200,250,78,182.36
-unknown_482,"ECX SPEED 19M Ø19 mm, brushless, sensorless",18,94.8,0.715,0.055,1.15,3.76,2.23,45200,250,78,162.09
-unknown_483,"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",24,101,1.13,0.087,1.15,4.75,1.74,47700,205,78,182.36
-unknown_484,"ECX SPEED 19M Ø19 mm, brushless, sensorless",24,101,1.13,0.087,1.15,4.75,1.74,47700,205,78,162.09
-unknown_485,"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",36,96.7,2.8,0.219,1.15,7.53,1.11,45200,125,78,182.36
-unknown_486,"ECX SPEED 19M Ø19 mm, brushless, sensorless",36,96.7,2.8,0.219,1.15,7.53,1.11,45200,125,78,162.09
-unknown_487,"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",48,91.8,5.03,0.358,1.15,9.62,0.82,47100,100,78,182.36
-unknown_488,"ECX SPEED 19M Ø19 mm, brushless, sensorless",48,91.8,5.03,0.358,1.15,9.62,0.82,47100,100,78,162.09
-unknown_489,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, with Hall sensors",24,965,0.105,0.011,2.36,4.23,6.72,54100,477,140,445.36
-unknown_490,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, sensorless",24,965,0.105,0.011,2.36,4.23,6.72,54100,477,140,423.73
-unknown_491,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, with Hall sensors",36,1160,0.189,0.024,2.36,6.11,4.74,56200,339,140,445.36
-unknown_492,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, sensorless",36,1160,0.189,0.024,2.36,6.11,4.74,56200,339,140,423.73
-unknown_493,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, with Hall sensors",48,1120,0.343,0.041,2.36,7.99,3.42,57300,263,140,445.36
-unknown_494,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, sensorless",48,1120,0.343,0.041,2.36,7.99,3.42,57300,263,140,423.73
-unknown_495,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",24,965,0.105,0.011,2.36,4.23,6.92,54100,425,140,428.82
-unknown_496,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",24,965,0.105,0.011,2.36,4.23,6.92,54100,425,140,407
-unknown_497,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",36,1160,0.189,0.024,2.36,6.11,4.89,56200,303,140,428.82
-unknown_498,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",36,1160,0.189,0.024,2.36,6.11,4.89,56200,303,140,407
-unknown_499,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",48,1120,0.343,0.041,2.36,7.99,3.54,57300,235,140,428.82
-unknown_500,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",48,1120,0.343,0.041,2.36,7.99,3.54,57300,235,140,407
-unknown_501,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",24,1080,0.103,0.009,3.94,4.63,6.67,49400,432,140,260.09
-unknown_502,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",24,1080,0.103,0.009,3.94,4.63,6.67,49400,432,140,238.45
-unknown_503,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",36,1290,0.187,0.019,3.94,6.68,4.67,51400,307,140,260.09
-unknown_504,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",36,1290,0.187,0.019,3.94,6.68,4.67,51400,307,140,238.45
-unknown_505,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",48,1230,0.341,0.032,3.94,8.74,3.36,52400,238,140,260.09
-unknown_506,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",48,1230,0.341,0.032,3.94,8.74,3.36,52400,238,140,238.45
-unknown_507,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",24,383,0.375,0.023,3.89,5.99,3.35,38000,337,140,212.18
-unknown_508,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",24,383,0.375,0.023,3.89,5.99,3.35,38000,337,140,186.73
-unknown_509,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",36,407,0.823,0.056,3.89,9.29,2.27,36800,214,140,212.18
-unknown_510,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",36,407,0.823,0.056,3.89,9.29,2.27,36800,214,140,186.73
-unknown_511,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",48,461,1.27,0.097,3.89,12.2,1.8,37400,164,140,212.18
-unknown_512,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",48,461,1.27,0.097,3.89,12.2,1.8,37400,164,140,186.73
-unknown_513,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",18,340,0.172,0.009,1.91,3.24,5.56,52800,391,100,417
-unknown_514,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",18,340,0.172,0.009,1.91,3.24,5.56,52800,391,100,394.91
-unknown_515,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",24,365,0.274,0.015,1.91,4.17,4.32,54700,311,100,417
-unknown_516,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",24,365,0.274,0.015,1.91,4.17,4.32,54700,311,100,394.91
-unknown_517,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",36,362,0.599,0.032,1.91,6.02,2.87,56800,221,100,417
-unknown_518,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",36,362,0.599,0.032,1.91,6.02,2.87,56800,221,100,394.91
-unknown_519,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",48,361,1.11,0.062,1.91,8.34,2.11,54700,156,100,417
-unknown_520,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",48,361,1.11,0.062,1.91,8.34,2.11,54700,156,100,394.91
-unknown_521,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",18,340,0.172,0.009,1.91,3.24,5.65,52800,280,100,400
-unknown_522,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",18,340,0.172,0.009,1.91,3.24,5.65,52800,280,100,377.82
-unknown_523,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",24,365,0.274,0.015,1.91,4.17,4.4,54800,222,100,400
-unknown_524,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",24,365,0.274,0.015,1.91,4.17,4.4,54800,222,100,377.82
-unknown_525,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",36,362,0.599,0.032,1.91,6.02,2.93,56900,157,100,400
-unknown_526,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",36,362,0.599,0.032,1.91,6.02,2.93,56900,157,100,377.82
-unknown_527,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",48,361,1.11,0.062,1.91,8.34,2.15,54800,111,100,400
-unknown_528,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",48,361,1.11,0.062,1.91,8.34,2.15,54800,111,100,377.82
-unknown_529,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",18,454,0.133,0.01,2.15,3.37,6.28,50900,324,98,235.64
-unknown_530,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",18,454,0.133,0.01,2.15,3.37,6.28,50900,324,98,212.82
-unknown_531,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",24,549,0.172,0.013,2.15,3.93,5.36,58100,302,98,235.64
-unknown_532,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",24,549,0.172,0.013,2.15,3.93,5.36,58100,302,98,212.82
-unknown_533,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",36,537,0.414,0.033,2.15,6.18,3.4,55500,186,98,235.64
-unknown_534,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",36,537,0.414,0.033,2.15,6.18,3.4,55500,186,98,212.82
-unknown_535,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",48,425,0.983,0.065,2.15,8.7,2.2,52500,128,98,235.64
-unknown_536,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",48,425,0.983,0.065,2.15,8.7,2.2,52500,128,98,212.82
-unknown_537,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",18,154,0.493,0.027,2.13,4.2,2.89,40400,378,98,201.55
-unknown_538,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",18,154,0.493,0.027,2.13,4.2,2.89,40400,378,98,175.64
-unknown_539,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",24,175,0.779,0.05,2.13,5.67,2.28,40000,279,98,201.55
-unknown_540,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",24,175,0.779,0.05,2.13,5.67,2.28,40000,279,98,175.64
-unknown_541,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",36,196,1.54,0.109,2.13,8.4,1.61,40500,189,98,201.55
-unknown_542,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",36,196,1.54,0.109,2.13,8.4,1.61,40500,189,98,175.64
-unknown_543,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",48,189,2.86,0.194,2.13,11.2,1.18,40400,141,98,201.55
-unknown_544,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",48,189,2.86,0.194,2.13,11.2,1.18,40400,141,98,175.64
+Product_Number,Description,V,R,L,inertia,mass,k_t,k_e,I_nom,omega_nl,I_nl,R_wh,R_ha,omega_max,Stall_torque,Price
+597974,"EC 90 flat Ø90 mm, brushless, 600 W, with Hall sensors",30,0.28,0.000369,0.00051,0.98,0.136,0.136,10.5,217.817090648892,0.493,0.848,0.867,523.598775598299,14.6,218.82
+606793,"EC-i 52 Ø52 mm, brushless, 200 W, with Hall sensors",24,0.119,0.000149,2.64e-05,1.1,0.068,0.068,9.36,349.763982099664,0.657,0.53,4.02,523.598775598299,13.8,373.18
+607930,"EC 90 flat Ø90 mm, brushless, 400 W, with Hall sensors",30,0.28,0.000369,0.000476,0.96,0.136,0.136,8.73,217.817090648892,0.475,1.02,1.37,523.598775598299,14.6,212.73
+607942,"EC 90 flat Ø90 mm, brushless, 220 W, with Hall sensors",24,0.216,0.000232,0.000287,0.62,0.0712,0.0712,9.44,331.961623729321,0.658,1.13,1.37,523.598775598299,7.91,176.09
+607950,"EC 90 flat Ø90 mm, brushless, 360 W, with Hall sensors EC 90 flat Ø90 mm, brushless, 360 W, with Hall sensors",24,0.216,0.000232,0.000321,0.63,0.0701,0.0701,12,336.150413934108,0.696,0.923,0.675,523.598775598299,7.8,181
+614949,"EC 60 flat Ø60 mm, brushless, 200 W, with Hall sensors",24,0.293,0.000279,8.32e-05,0.36,0.0525,0.0525,9.28,450.294947014537,0.497,0.843,1.22,628.318530717959,4.3,114.36
+625855,"EC 60 flat Ø60 mm, brushless, 100 W, with Hall sensors",24,0.293,0.000279,8.35e-05,0.35,0.0525,0.0525,5.14,450.294947014537,0.493,3.8,2.5,628.318530717959,4.3,102.64
+625858,"EC 60 flat Ø60 mm, brushless, 150 W, with Hall sensors",24,0.293,0.000279,8.1e-05,0.35,0.0525,0.0525,7.25,450.294947014537,0.497,1.48,1.94,628.318530717959,4.3,107.82
+634043,"EC-i 52 Ø52 mm, brushless, 200 W, with Hall sensors",48,0.24,0.000424,2.64e-05,1.1,0.115,0.115,5.44,415.737427825049,0.419,0.53,4.02,523.598775598299,22.9,373.18
+642221,"EC 60 flat Ø60 mm, brushless, 200 W, with Hall sensors and cables",24,0.293,0.000279,8.32e-05,0.37,0.0525,0.0525,9.28,450.294947014537,0.497,0.843,1.22,628.318530717959,4.3,118
+unknown_1,"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",3,0.766,5e-06,7.03e-10,0.003,0.00037,0.00037,1.24,7791.14978090269,0.149,13.2,65.8,10471.975511966,0.00145,207.09
+unknown_2,"ECX SPEED 6 M Ø6 mm, brushless, sensorless",3,0.686,5e-06,7.03e-10,0.003,0.00037,0.00037,1.24,7822.56570743858,0.149,13.2,65.8,10471.975511966,0.00162,178.09
+unknown_3,"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",6,3.49,3e-05,7.03e-10,0.003,0.000882,0.000882,0.517,6565.92864600267,0.0588,13.2,65.8,10471.975511966,0.00152,207.09
+unknown_4,"ECX SPEED 6 M Ø6 mm, brushless, sensorless",6,3.41,3e-05,7.03e-10,0.003,0.000882,0.000882,0.517,6565.92864600267,0.0589,13.2,65.8,10471.975511966,0.00155,178.09
+unknown_5,"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",12,12.4,0.000118,7.03e-10,0.003,0.00175,0.00175,0.268,6639.23247458643,0.0298,13.2,65.8,10471.975511966,0.0017,207.09
+unknown_6,"ECX SPEED 6 M Ø6 mm, brushless, sensorless",12,12.3,0.000118,7.03e-10,0.003,0.00175,0.00175,0.268,6639.23247458643,0.0298,13.2,65.8,10471.975511966,0.00171,178.09
+unknown_7,"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",6,8.72,6.5e-05,7.03e-10,0.003,0.00121,0.00121,0.314,4628.61317628896,0.0465,16.8,67.1,10471.975511966,0.000832,178.36
+unknown_8,"ECX SPEED 6 M Ø6 mm, brushless, sensorless",6,8.64,6.5e-05,7.03e-10,0.003,0.00121,0.00121,0.314,4628.61317628896,0.0465,16.8,67.1,10471.975511966,0.000839,150.18
+unknown_9,"ECX SPEED 6 M Ø6 mm, brushless, with Hall sensors",12,63.8,0.000436,7.03e-10,0.003,0.00314,0.00314,0.116,3487.16784548467,0.0162,16.8,67.1,10471.975511966,0.00059,178.36
+unknown_10,"ECX SPEED 6 M Ø6 mm, brushless, sensorless",12,63.8,0.000436,7.03e-10,0.003,0.00312,0.00312,0.116,3508.1117965086,0.0163,16.8,67.1,10471.975511966,0.000588,150.18
+110045,"A-max 16 Ø16 mm, Precious Metal Brushes CLL, 2 Watt, with terminals",12,23.1,0.00083,8.49e-08,0.021,0.00917,0.00917,0.243,1288.05298797182,0.00954,5.5,29.8,1989.67534727354,0.00477,39.18
+110049,"A-max 16 Ø16 mm, Precious Metal Brushes CLL, 2 Watt, with terminals",24,76.2,0.00261,8.16e-08,0.021,0.0163,0.0163,0.134,1445.1326206513,0.00583,5.5,29.8,1989.67534727354,0.00512,39.18
+110056,"A-max 16 Ø16 mm, Precious Metal Brushes CLL, 1.2 Watt, with terminals",12,31.1,0.00113,8.59e-08,0.022,0.0107,0.0107,0.209,1078.6134777325,0.0154,5.5,29.8,1151.91730631626,0.00413,39.55
+110069,"A-max 16 Ø16 mm, Graphite Brushes, 2 Watt, with terminals",21,76.1,0.00261,8.16e-08,0.021,0.0163,0.0163,0.162,1183.33323285216,0.023,5.5,29.8,1246.16508592395,0.00449,42.45
+110089,"A-max 19 Ø19 mm, Precious Metal Brushes CLL, 2.5 Watt, with terminals",24,79.7,0.00387,1.99e-07,0.033,0.0254,0.0254,0.138,928.864227911382,0.00573,10.5,21.3,1675.51608191456,0.00763,42.27
+110095,"A-max 19 Ø19 mm, Precious Metal Brushes CLL, 1.5 Watt, with terminals",7.2,13.8,0.000719,2.09e-07,0.034,0.0109,0.0109,0.332,641.932098883514,0.014,10.5,21.3,1047.1975511966,0.00568,43.09
+110121,"A-max 22 Ø22 mm, Precious Metal Brushes CLL, 5 Watt, with terminals",12,5.39,0.000362,4.36e-07,0.054,0.0109,0.0109,0.586,1089.08545324446,0.0168,6,20,1675.51608191456,0.0243,45
+110125,"A-max 22 Ø22 mm, Precious Metal Brushes CLL, 5 Watt, with terminals",24,21.2,0.00137,4.2e-07,0.054,0.0212,0.0212,0.294,1120.50137978036,0.00881,6,20,1675.51608191456,0.024,45
+110128,"A-max 22 Ø22 mm, Precious Metal Brushes CLL, 5 Watt, with terminals",48,122,0.00729,3.97e-07,0.054,0.0489,0.0489,0.123,971.799327510443,0.00347,6,20,1675.51608191456,0.0193,45
+110147,"A-max 22 Ø22 mm, Graphite Brushes, 6 Watt, with terminals",12,5.53,0.000363,4.29e-07,0.054,0.0109,0.0109,0.681,1068.14150222053,0.0458,6,20,1026.25360017267,0.0237,47.18
+110151,"A-max 22 Ø22 mm, Graphite Brushes, 6 Watt, with terminals",24,21.5,0.00137,4.13e-07,0.054,0.0212,0.0212,0.347,1099.55742875643,0.0237,6,20,1026.25360017267,0.0237,47.18
+110164,"A-max 22 Ø22 mm, Graphite Brushes, 6 Watt, with terminals",24,21.5,0.00137,4.2e-07,0.054,0.0212,0.0212,0.347,1099.55742875643,0.0237,6,20,1026.25360017267,0.0237,48.09
+110212,"A-max 26 Ø26 mm, Precious Metal Brushes CLL, 4.5 Watt, with terminals",24,30.1,0.00299,1.25e-06,0.11,0.0503,0.0503,0.312,472.286095589666,0.00845,3.2,13.2,701.62235930172,0.0401,96.45
+110940,"A-max 26 Ø26 mm, Graphite Brushes, 11 Watt, with terminals",24,7.36,0.00077,1.31e-06,0.11,0.0255,0.0255,0.749,930.958623013775,0.0317,3.2,13.2,1089.08545324446,0.0833,114.18
+118889,"EC 32 Ø32 mm, brushless, 80 Watt, with Hall sensors",24,1.39,0.000226,2e-06,0.27,0.0205,0.0205,2.46,1151.91730631626,0.199,2.5,5.4,2617.99387799149,0.355,292.82
+118890,"EC 32 Ø32 mm, brushless, 80 Watt, with Hall sensors",48,5.43,0.000856,2e-06,0.27,0.04,0.04,1.23,1183.33323285216,0.104,2.5,5.4,2617.99387799149,0.353,292.82
+148867,"RE 40 Ø40 mm, Graphite Brushes, 150 Watt",24,0.299,8.2e-05,1.42e-05,0.48,0.0302,0.0302,6,793.775743807021,0.137,1.93,4.65,1256.63706143592,2.42,347.73
+148877,"RE 40 Ø40 mm, Graphite Brushes, 150 Watt",48,1.13,0.00033,1.37e-05,0.48,0.0603,0.0603,3.17,794.822941358218,0.0686,1.93,4.65,1256.63706143592,2.56,347.73
+200142,"EC 45 flat Ø42.9 mm, brushless, 30 Watt, with Hall sensors",12,1.24,0.00056,9.25e-06,0.075,0.0255,0.0255,2.02,456.578132321717,0.163,3.92,6.73,1047.1975511966,0.247,73
+236662,"A-max 32 Ø32 mm, Graphite Brushes, 20 Watt, with terminals",24,3.99,0.000556,4.53e-06,0.24,0.0352,0.0352,1.33,676.489618073002,0.0428,2.1,7.5,628.318530717959,0.212,158.64
+236670,"A-max 32 Ø32 mm, Graphite Brushes, 20 Watt, with terminals",30,7.02,0.000954,4.42e-06,0.24,0.0461,0.0461,1.01,645.073691537104,0.0323,2.1,7.5,628.318530717959,0.197,159.91
+236679,"EC 14 flat Ø13.6 mm, brushless, 1.5 Watt, sensorless",18,38,0.000962,1.1e-07,0.008,0.0076,0.0076,0.256,2083.92312688123,0.0517,11.3,11.6,2303.83461263252,0.0036,74.27
+249987,"A-max 19 Ø19 mm, Graphite Brushes, 2.5 Watt, with terminals",12,13.8,0.000719,2.12e-07,0.033,0.0109,0.0109,0.397,1039.86716833822,0.0446,10.5,21.3,1256.63706143592,0.00947,47.09
+251601,"EC 45 flat Ø42.8 mm, brushless, 50 Watt, with Hall sensors",24,1.03,0.000572,1.35e-05,0.11,0.0335,0.0335,2.33,702.669556852917,0.185,4.75,4.53,1047.1975511966,0.78,107
+265376,"A-max 12 Ø12 mm, Precious Metal Brushes CLL, 0.75 Watt, with cable",9,40.9,0.00101,2.38e-08,0.011,0.00692,0.00692,0.141,1267.10903694788,0.00587,15,44.5,1989.67534727354,0.00152,46.55
+265378,"A-max 12 Ø12 mm, Precious Metal Brushes CLL, 0.75 Watt, with cable",15,116,0.00213,1.83e-08,0.011,0.01,0.01,0.0836,1445.1326206513,0.0042,15,44.5,1989.67534727354,0.00129,46.55
+265392,"A-max 12 Ø12 mm, Precious Metal Brushes CLL, 0.5 Watt, with cable",12,71.6,0.00174,2.35e-08,0.012,0.00906,0.00906,0.106,1267.10903694788,0.00738,15,44.5,1466.07657167524,0.00152,47.09
+267121,"EC 32 flat Ø32 mm, brushless, 15 Watt, with Hall sensors",24,13.8,0.00772,3.5e-06,0.057,0.049,0.049,0.5,474.380490692059,0.0369,4.99,10.8,1047.1975511966,0.0853,71.36
+272763,"EC-max 30 Ø30 mm, brushless, 60 Watt, with Hall sensors",24,1.27,0.000143,2.19e-06,0.3,0.0243,0.0243,2.66,978.082512817622,0.231,0.5,7.4,1570.7963267949,0.458,236
+272765,"EC-max 30 Ø30 mm, brushless, 60 Watt, with Hall sensors",48,4.49,0.000573,2.19e-06,0.3,0.0486,0.0486,1.4,979.129710368819,0.0954,0.5,7.4,1570.7963267949,0.519,236
+272768,"EC-max 30 Ø30 mm, brushless, 40 Watt, with Hall sensors",24,3.65,0.00031,1.1e-06,0.19,0.0243,0.0243,1.49,968.657734856853,0.151,1,8.6,1570.7963267949,0.16,181.45
+272770,"EC-max 30 Ø30 mm, brushless, 40 Watt, with Hall sensors",48,14.8,0.00124,1.1e-06,0.19,0.0486,0.0486,0.738,968.657734856853,0.0613,1,8.6,1570.7963267949,0.157,181.45
+283828,"EC-max 16 Ø16 mm, brushless, 5 Watt, with Hall sensors",12,15.7,0.000254,4.28e-08,0.036,0.0078,0.0078,0.456,1413.71669411541,0.0602,2.57,23.5,2094.3951023932,0.00595,152.36
+283833,"EC-max 16 Ø16 mm, brushless, 8 Watt, with Hall sensors",12,5.3,0.00014,8.5e-08,0.052,0.00932,0.00932,0.909,1246.16508592395,0.0642,1.41,17.7,2094.3951023932,0.0211,180.09
+283835,"EC-max 16 Ø16 mm, brushless, 8 Watt, with Hall sensors",24,20.5,0.000566,8.5e-08,0.052,0.0187,0.0187,0.461,1246.16508592395,0.0319,1.41,17.7,2094.3951023932,0.022,180.09
+283838,"EC-max 22 Ø22 mm, brushless, 12 Watt, with Hall sensors",12,3.46,0.000121,2.25e-07,0.083,0.00902,0.00902,1.25,1267.10903694788,0.155,1.72,13.5,1884.95559215388,0.0313,152.73
+283840,"EC-max 22 Ø22 mm, brushless, 12 Watt, with Hall sensors",24,12.4,0.000488,2.25e-07,0.083,0.0181,0.0181,0.657,1267.10903694788,0.0773,1.72,13.5,1884.95559215388,0.0351,152.73
+283858,"EC-max 22 Ø22 mm, brushless, 25 Watt, with Hall sensors",24,3.44,0.000182,4.45e-07,0.12,0.0174,0.0174,1.4,1350.88484104361,0.121,1.02,10.2,1884.95559215388,0.121,188.45
+283860,"EC-max 22 Ø22 mm, brushless, 25 Watt, with Hall sensors",48,13.1,0.000729,4.45e-07,0.11,0.0348,0.0348,0.716,1350.88484104361,0.0604,1.02,10.2,1884.95559215388,0.127,188.45
+283867,"EC-max 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",24,1.35,0.000186,5.12e-06,0.46,0.028,0.028,3.44,841.946831162065,0.337,0.542,4.63,1256.63706143592,0.497,248.82
+283869,"EC-max 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",48,3.78,0.000592,5.12e-06,0.46,0.05,0.05,2.02,945.619388730528,0.173,0.542,4.63,1256.63706143592,0.636,248.82
+283873,"EC-max 40 Ø40 mm, brushless, 120 Watt, with Hall sensors",48,7.19,0.0016,1.01e-05,0.72,0.126,0.126,1.74,378.038315981972,0.0727,0.29,3.45,1256.63706143592,0.838,372.91
+305013,"EC-4pole 30 Ø30 mm, brushless, 200 Watt",24,0.102,1.6e-05,3.33e-06,0.3,0.0137,0.0137,7.61,1748.81991049832,0.723,0.209,7.4,2617.99387799149,3.24,645.09
+305015,"EC-4pole 30 Ø30 mm, brushless, 200 Watt",48,0.386,6.5e-05,3.33e-06,0.3,0.0276,0.0276,3.68,1727.87595947439,0.356,0.209,7.4,2617.99387799149,3.43,645.09
+309756,"EC-4pole 30 Ø30 mm, brushless, 100 Watt",24,0.248,3e-05,1.83e-06,0.21,0.0131,0.0131,5.56,1832.59571459405,0.379,0.74,8.96,2617.99387799149,1.27,561.27
+309758,"EC-4pole 30 Ø30 mm, brushless, 100 Watt",48,0.836,0.000118,1.83e-06,0.21,0.0261,0.0261,2.95,1832.59571459405,0.189,0.74,8.96,2617.99387799149,1.5,561.27
+311536,"EC-4pole 22 Ø22 mm, brushless, 120 Watt",24,0.341,3.1e-05,8.91e-07,0.17,0.0135,0.0135,4.2,1769.76386152225,0.223,0.7,10.7,2617.99387799149,0.954,525.82
+311538,"EC-4pole 22 Ø22 mm, brushless, 120 Watt",48,1.27,0.000123,8.91e-07,0.17,0.0271,0.0271,2.1,1769.76386152225,0.112,0.7,10.7,2617.99387799149,1.02,525.82
+315173,"EC 10 Ø10 mm, brushless, 8 Watt, with Hall sensors",18,3.42,6.7e-05,6.91e-09,0.013,0.00297,0.00297,0.6,5979.49801733257,0.0673,5.1,39.8,6806.78408277788,0.0156,226.82
+323218,"EC-4pole 22 Ø22 mm, brushless, 90 Watt",24,0.527,5e-05,5.54e-07,0.12,0.014,0.014,3.34,1706.93200845045,0.166,1.19,12.2,2617.99387799149,0.639,469.45
+323219,"EC-4pole 22 Ø22 mm, brushless, 90 Watt",36,1.24,0.000113,5.54e-07,0.12,0.0211,0.0211,2.16,1706.93200845045,0.11,1.19,12.2,2617.99387799149,0.612,469.45
+323220,"EC-4pole 22 Ø22 mm, brushless, 90 Watt",48,2.3,0.000201,5.54e-07,0.12,0.0281,0.0281,1.58,1706.93200845045,0.0828,1.19,12.2,2617.99387799149,0.586,469.45
+339281,"EC 45 flat Ø42.9 mm, brushless, 30 Watt, with Hall sensors",24,4.87,0.00224,9.25e-06,0.075,0.051,0.051,1.01,456.578132321717,0.0814,3.92,6.7,1047.1975511966,0.251,73
+339287,"EC 45 flat Ø42.8 mm, brushless, 50 Watt, with Hall sensors",36,7.48,0.00515,1.35e-05,0.11,0.101,0.101,0.828,351.858377202057,0.0423,4.25,6.23,1047.1975511966,0.484,107
+350909,"EC 45 flat Ø45 mm, brushless, 30 Watt, with integrated electronics",24,0.201,0.000322,1.35e-05,0.22,0.0251,0.0251,2.65,628.318530717959,0.209,7.68,5.6,678.584013175395,0.111,181.64
+351008,"EC 20 flat Ø20 mm, brushless, 5 Watt, with Hall sensors",24,28.6,0.00309,5.1e-07,0.022,0.0238,0.0238,0.329,973.893722612836,0.0251,2.66,16.6,1570.7963267949,0.0199,83.27
+353295,"RE 65 Ø65 mm, Graphite Brushes, 250 Watt",24,0.0821,3.1e-05,0.000129,2.1,0.0537,0.0537,10,428.303798439408,0.697,1.85,1.3,575.958653158129,15.7,722.64
+353297,"RE 65 Ø65 mm, Graphite Brushes, 250 Watt",48,0.365,0.000161,0.000134,2.1,0.123,0.123,6.8,384.321501289151,0.289,1.85,1.3,575.958653158129,16.1,722.64
+370416,"EC 20 flat Ø20 mm, brushless, 5 Watt, with integrated electronics, with cover",24,7.48,0.00262,5.1e-07,0.037,0.0181,0.0181,0.313,628.318530717959,0.0322,5.32,10.6,678.584013175395,0.0132,145.27
+370418,"EC 32 flat Ø32 mm, brushless, 15 Watt, with integrated electronics, with cover",24,1.34,0.00161,3.5e-06,0.091,0.0224,0.0224,0.678,628.318530717959,0.0837,5.92,7.55,678.584013175395,0.0358,166.91
+370427,"EC 45 flat Ø45 mm, brushless, 50 Watt, with integrated electronics, with cover",24,0.264,0.000413,1.81e-05,0.26,0.0357,0.0357,2.85,471.238898038469,0.191,6.7,4.79,1047.1975511966,0.157,188.27
+393023,"EC 40 Ø40 mm, brushless, 170 Watt, with Hall sensors",24,0.209,8.4e-05,5.38e-06,0.58,0.0232,0.0232,7.39,1030.44239037745,0.385,1.05,5.21,1884.95559215388,2.66,501.91
+393025,"EC 40 Ø40 mm, brushless, 170 Watt, with Hall sensors",48,0.806,0.000337,5.38e-06,0.58,0.0464,0.0464,3.69,1030.44239037745,0.193,1.05,5.21,1884.95559215388,2.76,501.91
+397172,"EC 45 flat Ø42.8 mm, brushless, 70 Watt, with Hall sensors",24,0.608,0.000463,1.81e-05,0.14,0.0369,0.0369,3.21,639.837703781121,0.234,4.1,3.56,1047.1975511966,1.46,116.73
+402687,"EC 45 flat Ø42.8 mm, brushless, 70 Watt, with Hall sensors",48,6.89,0.00585,1.81e-05,0.14,0.131,0.131,0.936,360.23595761163,0.0481,3.83,4.77,1047.1975511966,0.915,116.73
+449464,"EC-i 40 Ø40 mm, brushless, 50 Watt, with Hall sensors",24,0.501,0.00039,1.05e-06,0.17,0.0169,0.0169,2.8,1382.30076757951,0.285,2.57,9.66,1570.7963267949,0.81,184.73
+449470,"EC-i 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",36,0.778,0.000644,2.42e-06,0.24,0.0315,0.0315,2.43,1120.50137978036,0.192,2.6,7.8,1570.7963267949,1.46,196.18
+496651,"EC-i 40 Ø40 mm, brushless, 50 Watt, with Hall sensors",18,0.455,0.000255,1.28e-06,0.18,0.0217,0.0217,2.93,815.76689238215,0.289,3.77,9.91,1047.1975511966,0.858,210
+496652,"EC-i 40 Ø40 mm, brushless, 50 Watt, with Hall sensors",36,1.44,0.00115,1.28e-06,0.18,0.0461,0.0461,1.61,769.690200129499,0.131,3.77,9.91,1047.1975511966,1.15,210
+496654,"EC-i 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",18,0.199,0.000113,2.3e-06,0.25,0.0217,0.0217,4.87,821.002880138133,0.448,2.27,8.17,1047.1975511966,1.96,229.27
+496655,"EC-i 40 Ø40 mm, brushless, 70 Watt, with Hall sensors",36,0.591,0.000512,2.3e-06,0.25,0.0461,0.0461,2.73,773.878990334286,0.205,2.27,8.17,1047.1975511966,2.8,229.27
+496660,"EC-i 40 Ø40 mm, brushless, 100 Watt, with Hall sensors",18,0.236,0.000169,4.4e-06,0.39,0.0375,0.0375,5.46,475.427688243255,0.352,1.35,7.17,837.758040957278,2.86,244
+496661,"EC-i 40 Ø40 mm, brushless, 100 Watt, with Hall sensors",36,0.853,0.000675,4.4e-06,0.39,0.0749,0.0749,2.72,476.474885794452,0.176,1.35,7.17,837.758040957278,3.16,244
+500267,"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",48,0.844,0.00107,0.000506,0.98,0.231,0.231,4.06,205.250720034533,0.278,1.82,1.78,523.598775598299,13.1,202.82
+500269,"EC 90 flat Ø90 mm, brushless, 260 W, with Hall sensors",18,0.0983,0.000133,0.000506,0.98,0.0807,0.0807,12.1,220.958683302482,0.83,1.82,1.73,523.598775598299,14.8,202.82
+515458,"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",24,0.216,0.000232,0.000317,0.63,0.0712,0.0712,6.39,331.961623729321,0.658,3.71,1.75,523.598775598299,7.91,167.18
+539473,"EC-i 30 Ø30 mm, brushless, 30 W, with Hall sensors",24,1.64,0.00112,7.3e-07,0.15,0.0246,0.0246,1.52,962.374549549673,0.103,3.75,11.1,1570.7963267949,0.36,159.91
+539477,"EC-i 30 Ø30 mm, brushless, 50 W, with Hall sensors",24,0.713,0.000475,1.38e-06,0.24,0.0228,0.0228,2.48,1043.00876099181,0.169,2.46,9.01,1570.7963267949,0.768,183.64
+539482,"EC-i 30 Ø30 mm, brushless, 45 W, with Hall sensors",24,0.787,0.000749,8.1e-07,0.15,0.0266,0.0266,2.28,892.212313619501,0.143,3.75,11.1,1047.1975511966,0.811,183.18
+539487,"EC-i 30 Ø30 mm, brushless, 75 W, with Hall sensors",24,0.38,0.00039,1.55e-06,0.24,0.0286,0.0286,3.64,832.522053201295,0.223,2.46,9.01,1047.1975511966,1.8,215.91
+574741,"EC-i 52 Ø52 mm, brushless, 180 W, with Hall sensors",24,0.0948,0.000123,1.7e-05,0.82,0.0481,0.0481,8.96,494.277244164794,0.716,0.63,4.32,628.318530717959,12.2,288.27
+578296,"RE 50 Ø50 mm, Graphite Brushes, 200 Watt",24,0.103,7.2e-05,5.36e-05,1.1,0.0385,0.0385,10.8,623.082542961976,0.236,1.24,3.59,994.837673636768,8.92,428
+578298,"RE 50 Ø50 mm, Graphite Brushes, 200 Watt",48,0.608,0.000423,5.42e-05,1.1,0.0934,0.0934,4.58,513.126800086333,0.0884,1.24,3.59,994.837673636768,7.37,428
+579165,"EC-i 52 Ø52 mm, brushless, 180 W, with Hall sensors",48,0.288,0.00045,1.7e-05,0.82,0.0919,0.0919,4.56,518.362787842316,0.384,0.63,4.32,628.318530717959,15.3,288.27
+580047,"EC 90 flat Ø90 mm, brushless, 160 W, with Hall sensors",60,2.03,0.00215,0.000317,0.63,0.217,0.217,2.1,272.271363311115,0.197,3.62,1.95,523.598775598299,6.41,167.18
+624163,"EC 9.2 flat Ø10 mm, brushless, 0.5 Watt, with Hall sensors",6,18.1,0.0004,2.37e-08,0.003,0.0033,0.0033,0.222,1633.62817986669,0.0311,13.2,49.2,2617.99387799149,0.0011,106.36
+unknown_11,"DC-max 16 S Ø16 mm, CLL precious metal brushes, sintered bearings",6,4.1,0.00014,1.12e-07,0.023,0.00719,0.00719,0.577,826.238867894116,0.0147,5.5,29.8,1151.91730631626,0.0105,59.73
+unknown_12,"DC-max 16 S Ø16 mm, CLL precious metal brushes, sintered bearings",12,19.1,0.00061,1.05e-07,0.023,0.015,0.015,0.267,791.681348704628,0.0069,5.5,29.8,1151.91730631626,0.00944,59.73
+unknown_13,"DC-max 16 S Ø16 mm, CLL precious metal brushes, sintered bearings",24,83.2,0.00249,9.94e-08,0.023,0.0303,0.0303,0.128,782.256570743858,0.0034,5.5,29.8,1151.91730631626,0.00875,59.73
+unknown_14,"DC-max 16 S Ø16 mm, graphite brushes, sintered bearings",6,2.79,8.6e-05,1e-07,0.023,0.00562,0.00562,0.72,1033.58398303104,0.0673,5.5,29.8,1151.91730631626,0.0121,61.64
+unknown_15,"DC-max 16 S Ø16 mm, graphite brushes, sintered bearings",12,11.4,0.000343,9.93e-08,0.023,0.0112,0.0112,0.413,1032.53678547985,0.0336,5.5,29.8,1151.91730631626,0.0119,61.64
+unknown_16,"DC-max 16 S Ø16 mm, graphite brushes, sintered bearings",24,37.5,0.00137,1.16e-07,0.023,0.0225,0.0225,0.227,1038.81997078702,0.0168,5.5,29.8,1151.91730631626,0.0144,61.64
+unknown_17,"DC-max 22 S Ø22 mm, CLL precious metal brushes, ball bearings",6,1.6,0.000119,5.7e-07,0.053,0.0104,0.0104,0.84,574.911455606932,0.0189,6,20,942.477796076938,0.039,68.18
+unknown_18,"DC-max 22 S Ø22 mm, CLL precious metal brushes, ball bearings",12,6.28,0.000413,4.98e-07,0.053,0.0193,0.0193,0.541,616.799357654796,0.0105,6,20,942.477796076938,0.0369,68.18
+unknown_19,"DC-max 22 S Ø22 mm, CLL precious metal brushes, ball bearings",24,33.3,0.00221,5.05e-07,0.053,0.0448,0.0448,0.235,533.023553559068,0.00422,6,20,942.477796076938,0.0323,68.18
+unknown_20,"DC-max 22 S Ø22 mm, CLL precious metal brushes, sintered bearings",6,1.6,0.000119,5.7e-07,0.053,0.0104,0.0104,0.84,573.864258055735,0.0208,6,20,942.477796076938,0.039,63.27
+unknown_21,"DC-max 22 S Ø22 mm, CLL precious metal brushes, sintered bearings",12,6.28,0.000413,4.98e-07,0.053,0.0193,0.0193,0.542,616.799357654796,0.0117,6,20,942.477796076938,0.0369,63.27
+unknown_22,"DC-max 22 S Ø22 mm, CLL precious metal brushes, sintered bearings",24,33.3,0.00221,5.05e-07,0.053,0.0448,0.0448,0.236,533.023553559068,0.00462,6,20,942.477796076938,0.0323,63.27
+unknown_23,"DC-max 22 S Ø22 mm, graphite brushes, ball bearings",6,1.11,6.9e-05,5.07e-07,0.053,0.00788,0.00788,1.49,737.227076042405,0.0564,6,20,942.477796076938,0.0424,70.09
+unknown_24,"DC-max 22 S Ø22 mm, graphite brushes, ball bearings",12,3.83,0.000274,5.57e-07,0.053,0.0158,0.0158,0.819,747.699051554371,0.0283,6,20,942.477796076938,0.0494,70.09
+unknown_25,"DC-max 22 S Ø22 mm, graphite brushes, ball bearings",24,16.6,0.00105,4.69e-07,0.053,0.0308,0.0308,0.397,768.643002578303,0.0145,6,20,942.477796076938,0.0446,70.09
+unknown_26,"DC-max 22 S Ø22 mm, graphite brushes, sintered bearings",6,1.11,6.9e-05,5.07e-07,0.053,0.00788,0.00788,1.49,736.179878491208,0.0588,6,20,942.477796076938,0.0424,65.18
+unknown_27,"DC-max 22 S Ø22 mm, graphite brushes, sintered bearings",12,3.83,0.000274,5.57e-07,0.053,0.0158,0.0158,0.818,747.699051554371,0.0295,6,20,942.477796076938,0.0494,65.18
+unknown_28,"DC-max 22 S Ø22 mm, graphite brushes, sintered bearings",24,16.6,0.00105,4.69e-07,0.053,0.0308,0.0308,0.397,767.595805027106,0.0151,6,20,942.477796076938,0.0446,65.18
+unknown_29,"DC-max 26 S Ø26 mm, CLL precious metal brushes, ball bearings",12,2.19,0.000278,1.49e-06,0.12,0.0256,0.0256,0.84,467.050107833683,0.0222,3.2,13.2,701.62235930172,0.14,107.91
+unknown_30,"DC-max 26 S Ø26 mm, CLL precious metal brushes, ball bearings",24,9.08,0.00116,1.52e-06,0.12,0.0522,0.0522,0.562,457.625329872913,0.0108,3.2,13.2,701.62235930172,0.138,107.91
+unknown_31,"DC-max 26 S Ø26 mm, CLL precious metal brushes, sintered bearings",12,2.19,0.000278,1.49e-06,0.12,0.0256,0.0256,0.84,467.050107833683,0.0271,3.2,13.2,701.62235930172,0.14,103
+unknown_32,"DC-max 26 S Ø26 mm, CLL precious metal brushes, sintered bearings",24,9.08,0.00116,1.52e-06,0.12,0.0522,0.0522,0.564,457.625329872913,0.0132,3.2,13.2,701.62235930172,0.138,103
+unknown_33,"DC-max 26 S Ø26 mm, graphite brushes, ball bearings",24,2.14,0.000278,1.49e-06,0.12,0.0256,0.0256,1.08,935.147413218562,0.0398,3.2,13.2,1151.91730631626,0.287,109.82
+unknown_34,"DC-max 26 S Ø26 mm, graphite brushes, ball bearings",48,9.04,0.00116,1.52e-06,0.12,0.0522,0.0522,0.582,915.250659745826,0.0193,3.2,13.2,1151.91730631626,0.278,109.82
+unknown_35,"DC-max 26 S Ø26 mm, graphite brushes, sintered bearings",24,2.14,0.000278,1.49e-06,0.12,0.0256,0.0256,1.08,934.100215667365,0.053,3.2,13.2,1151.91730631626,0.287,104.91
+unknown_36,"DC-max 26 S Ø26 mm, graphite brushes, sintered bearings",48,9.04,0.00116,1.52e-06,0.12,0.0522,0.0522,0.567,914.20346219463,0.0257,3.2,13.2,1151.91730631626,0.278,104.91
+unknown_37,"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",1.5,2.58,8e-06,1.66e-09,0.002,0.000779,0.000779,0.425,1801.17978805815,0.0362,20,105,1811.65176357011,0.000453,80.64
+unknown_38,"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",3,8.92,3.2e-05,1.83e-09,0.002,0.00156,0.00156,0.228,1822.12373908208,0.0182,20,105,1811.65176357011,0.000524,80.64
+unknown_39,"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",4.5,20.8,7.1e-05,1.79e-09,0.002,0.00234,0.00234,0.149,1822.12373908208,0.0121,20,105,1811.65176357011,0.000507,80.64
+unknown_40,"DCX 6 M Ø6 mm, precious metal brushes, ball bearings",6,37.2,0.000126,1.78e-09,0.002,0.00312,0.00312,0.111,1822.12373908208,0.00907,20,105,1811.65176357011,0.000503,80.64
+unknown_41,"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",1.5,2.58,8e-06,1.66e-09,0.002,0.000779,0.000779,0.425,1832.59571459405,0.0289,20,105,1811.65176357011,0.000453,62.09
+unknown_42,"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",3,8.92,3.2e-05,1.83e-09,0.002,0.00156,0.00156,0.228,1843.06769010601,0.0145,20,105,1811.65176357011,0.000524,62.09
+unknown_43,"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",4.5,20.8,7.1e-05,1.79e-09,0.002,0.00234,0.00234,0.149,1843.06769010601,0.00963,20,105,1811.65176357011,0.000507,62.09
+unknown_44,"DCX 6 M Ø6 mm, precious metal brushes, sintered bearings",6,37.2,0.000126,1.78e-09,0.002,0.00312,0.00312,0.112,1843.06769010601,0.00722,20,105,1811.65176357011,0.000503,62.09
+unknown_45,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",2.4,4.13,1.4e-05,3.84e-09,0.004,0.00195,0.00195,0.344,1204.27718387609,0.0136,16.9,101,1811.65176357011,0.00113,85
+unknown_46,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",4.2,12.3,4.1e-05,3.79e-09,0.004,0.00336,0.00336,0.199,1214.74915938805,0.0101,16.9,101,1811.65176357011,0.00114,85
+unknown_47,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",6,29,9.4e-05,3.72e-09,0.004,0.00508,0.00508,0.13,1151.91730631626,0.00515,16.9,101,1811.65176357011,0.00105,85
+unknown_48,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",7.2,38.5,0.000117,3.54e-09,0.004,0.00567,0.00567,0.113,1235.69311041199,0.0047,16.9,101,1811.65176357011,0.00106,85
+unknown_49,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",9,54.3,0.000183,3.83e-09,0.004,0.00707,0.00707,0.0947,1246.16508592395,0.00377,16.9,101,1811.65176357011,0.00117,85
+unknown_50,"DCX 8 M Ø8 mm, precious metal brushes, ball bearings",12,92.2,0.000276,3.51e-09,0.004,0.00871,0.00871,0.0726,1340.41286553164,0.00312,16.9,101,1811.65176357011,0.00113,85
+unknown_51,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",2.4,4.13,1.4e-05,3.84e-09,0.004,0.00195,0.00195,0.345,1204.27718387609,0.0119,16.9,101,1811.65176357011,0.00113,66.45
+unknown_52,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",4.2,12.3,4.1e-05,3.79e-09,0.004,0.00336,0.00336,0.199,1225.22113490002,0.00693,16.9,101,1811.65176357011,0.00114,66.45
+unknown_53,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",6,29,9.4e-05,3.72e-09,0.004,0.00508,0.00508,0.13,1151.91730631626,0.00451,16.9,101,1811.65176357011,0.00105,66.45
+unknown_54,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",7.2,38.5,0.000117,3.54e-09,0.004,0.00567,0.00567,0.113,1246.16508592395,0.00412,16.9,101,1811.65176357011,0.00106,66.45
+unknown_55,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",9,54.3,0.000183,3.83e-09,0.004,0.00707,0.00707,0.0949,1246.16508592395,0.0033,16.9,101,1811.65176357011,0.00117,66.45
+unknown_56,"DCX 8 M Ø8 mm, precious metal brushes, sintered bearings",12,92.2,0.000276,3.51e-09,0.004,0.00871,0.00871,0.0728,1350.88484104361,0.00274,16.9,101,1811.65176357011,0.00113,66.45
+unknown_57,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",1.5,0.355,5e-06,1.53e-08,0.011,0.00121,0.00121,0.924,1204.27718387609,0.0976,10.6,36.5,1497.49249821113,0.00513,95.73
+unknown_58,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",3,1.44,2e-05,1.32e-08,0.011,0.00231,0.00231,0.918,1267.10903694788,0.0528,10.6,36.5,1497.49249821113,0.00481,95.73
+unknown_59,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",4.5,2.9,4.5e-05,1.51e-08,0.011,0.00352,0.00352,0.645,1246.16508592395,0.0343,10.6,36.5,1497.49249821113,0.00545,95.73
+unknown_60,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",6,6.4,7.8e-05,1.19e-08,0.011,0.00461,0.00461,0.435,1267.10903694788,0.0263,10.6,36.5,1497.49249821113,0.00432,95.73
+unknown_61,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",9,13.2,0.000181,1.34e-08,0.011,0.00704,0.00704,0.303,1246.16508592395,0.0171,10.6,36.5,1497.49249821113,0.0048,95.73
+unknown_62,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, ball bearings",12,27.3,0.000362,1.3e-08,0.011,0.00995,0.00995,0.211,1172.86125734019,0.0117,10.6,36.5,1497.49249821113,0.00436,95.73
+unknown_63,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",1.5,0.355,5e-06,1.53e-08,0.011,0.00121,0.00121,0.924,1214.74915938805,0.0836,10.6,36.5,1497.49249821113,0.00513,77.18
+unknown_64,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",3,1.44,2e-05,1.32e-08,0.011,0.00231,0.00231,0.921,1277.58101245985,0.0447,10.6,36.5,1497.49249821113,0.00481,77.18
+unknown_65,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",4.5,2.9,4.5e-05,1.51e-08,0.011,0.00352,0.00352,0.647,1256.63706143592,0.0291,10.6,36.5,1497.49249821113,0.00545,77.18
+unknown_66,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sleeve bearings",6,6.4,7.8e-05,1.19e-08,0.011,0.00461,0.00461,0.436,1267.10903694788,0.0223,10.6,36.5,1497.49249821113,0.00432,77.18
+unknown_67,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sleeve bearings",9,13.2,0.000181,1.34e-08,0.011,0.00704,0.00704,0.303,1256.63706143592,0.0146,10.6,36.5,1497.49249821113,0.0048,77.18
+unknown_68,"DCX 10 L Ø10 mm, Precious Metal Brushes CLL, sleeve bearings",12,27.3,0.000362,1.3e-08,0.011,0.00995,0.00995,0.211,1183.33323285216,0.0101,10.6,36.5,1497.49249821113,0.00436,77.18
+unknown_69,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",1.5,1.08,1.4e-05,7.66e-09,0.006,0.00107,0.00107,0.924,1319.46891450771,0.0881,22,37.6,1497.49249821113,0.00149,93.27
+unknown_70,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",3,4.04,5.1e-05,7.66e-09,0.006,0.00207,0.00207,0.49,1361.35681655558,0.0459,22,37.6,1497.49249821113,0.00154,93.27
+unknown_71,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",4.5,9.72,0.000122,7.6e-09,0.006,0.0032,0.0032,0.316,1319.46891450771,0.0294,22,37.6,1497.49249821113,0.00148,93.27
+unknown_72,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",6,19.5,0.000268,8.1e-09,0.006,0.00474,0.00474,0.223,1183.33323285216,0.019,22,37.6,1497.49249821113,0.00146,93.27
+unknown_73,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",9,41.8,0.000488,7.12e-09,0.006,0.0064,0.0064,0.152,1308.99693899575,0.0147,22,37.6,1497.49249821113,0.00138,93.27
+unknown_74,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, ball bearings",12,74.9,0.000868,7.06e-09,0.006,0.00853,0.00853,0.114,1308.99693899575,0.011,22,37.6,1497.49249821113,0.00137,93.27
+unknown_75,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",1.5,1.08,1.4e-05,7.66e-09,0.006,0.00107,0.00107,0.924,1319.46891450771,0.0841,22,37.6,1497.49249821113,0.00149,74.73
+unknown_76,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",3,4.04,5.1e-05,7.66e-09,0.006,0.00207,0.00207,0.49,1361.35681655558,0.0438,22,37.6,1497.49249821113,0.00154,74.73
+unknown_77,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",4.5,9.72,0.000122,7.6e-09,0.006,0.0032,0.0032,0.316,1319.46891450771,0.028,22,37.6,1497.49249821113,0.00148,74.73
+unknown_78,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",6,19.5,0.000268,8.1e-09,0.006,0.00474,0.00474,0.223,1193.80520836412,0.0182,22,37.6,1497.49249821113,0.00146,74.73
+unknown_79,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",9,41.8,0.000488,7.12e-09,0.006,0.0064,0.0064,0.152,1319.46891450771,0.014,22,37.6,1497.49249821113,0.00138,74.73
+unknown_80,"DCX 10 S Ø10 mm, Precious Metal Brushes CLL, sintered sleeve bearings",12,74.9,0.000868,7.06e-09,0.006,0.00853,0.00853,0.114,1308.99693899575,0.0105,22,37.6,1497.49249821113,0.00137,74.73
+unknown_81,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",3,0.975,3.1e-05,4.84e-08,0.016,0.00322,0.00322,0.924,921.533845053006,0.0345,10.3,31,1256.63706143592,0.00991,105.91
+unknown_82,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",4.5,1.94,7.1e-05,5.33e-08,0.016,0.00483,0.00483,0.849,922.581042604203,0.023,10.3,31,1256.63706143592,0.0112,105.91
+unknown_83,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",6,3.68,0.000125,4.96e-08,0.016,0.00644,0.00644,0.615,921.533845053006,0.0172,10.3,31,1256.63706143592,0.0105,105.91
+unknown_84,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",9,7.29,0.000282,5.59e-08,0.016,0.00966,0.00966,0.436,922.581042604203,0.0115,10.3,31,1256.63706143592,0.0119,105.91
+unknown_85,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",12,14.6,0.000502,4.98e-08,0.016,0.0129,0.0129,0.308,921.533845053006,0.00862,10.3,31,1256.63706143592,0.0106,105.91
+unknown_86,"DCX 12 L Ø12 mm, CLL precious metal brushes, ball bearings",18,33.1,0.00113,4.95e-08,0.016,0.0193,0.0193,0.204,921.533845053006,0.00575,10.3,31,1256.63706143592,0.0105,105.91
+unknown_87,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",3,0.975,3.1e-05,4.84e-08,0.016,0.00322,0.00322,0.924,922.581042604203,0.0313,10.3,31,1256.63706143592,0.00991,87.36
+unknown_88,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",4.5,1.94,7.1e-05,5.33e-08,0.016,0.00483,0.00483,0.851,923.628240155399,0.0209,10.3,31,1256.63706143592,0.0112,87.36
+unknown_89,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",6,3.68,0.000125,4.96e-08,0.016,0.00644,0.00644,0.616,922.581042604203,0.0157,10.3,31,1256.63706143592,0.0105,87.36
+unknown_90,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",9,7.29,0.000282,5.59e-08,0.016,0.00966,0.00966,0.437,923.628240155399,0.0104,10.3,31,1256.63706143592,0.0119,87.36
+unknown_91,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",12,14.6,0.000502,4.98e-08,0.016,0.0129,0.0129,0.309,922.581042604203,0.00783,10.3,31,1256.63706143592,0.0106,87.36
+unknown_92,"DCX 12 L Ø12 mm, CLL precious metal brushes, sintered bearings",18,33.1,0.00113,4.95e-08,0.016,0.0193,0.0193,0.205,922.581042604203,0.00522,10.3,31,1256.63706143592,0.0105,87.36
+unknown_93,"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",3,2.74,7.2e-05,2.86e-08,0.011,0.00306,0.00306,0.654,952.949771588904,0.03,14.4,35,1361.35681655558,0.00335,99.18
+unknown_94,"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",4.5,6.42,0.000166,2.78e-08,0.011,0.00463,0.00463,0.427,944.572191179331,0.0198,14.4,35,1361.35681655558,0.00325,99.18
+unknown_95,"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",6,10.6,0.00029,2.93e-08,0.011,0.00612,0.00612,0.332,953.9969691401,0.015,14.4,35,1361.35681655558,0.00346,99.18
+unknown_96,"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",9,25,0.000664,2.86e-08,0.011,0.00926,0.00926,0.216,944.572191179331,0.00989,14.4,35,1361.35681655558,0.00333,99.18
+unknown_97,"DCX 12 S Ø12 mm, CLL precious metal brushes, ball bearings",12,46,0.00117,2.75e-08,0.011,0.0123,0.0123,0.159,945.619388730528,0.00743,14.4,35,1361.35681655558,0.00321,99.18
+unknown_98,"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",3,2.74,7.2e-05,2.86e-08,0.011,0.00306,0.00306,0.655,951.902574037707,0.0318,14.4,35,1361.35681655558,0.00335,80.64
+unknown_99,"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",4.5,6.42,0.000166,2.78e-08,0.011,0.00463,0.00463,0.427,942.477796076938,0.0209,14.4,35,1361.35681655558,0.00325,80.64
+unknown_100,"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",6,10.6,0.00029,2.93e-08,0.011,0.00612,0.00612,0.332,952.949771588904,0.0159,14.4,35,1361.35681655558,0.00346,80.64
+unknown_101,"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",9,25,0.000664,2.86e-08,0.011,0.00926,0.00926,0.216,943.524993628134,0.0105,14.4,35,1361.35681655558,0.00333,80.64
+unknown_102,"DCX 12 S Ø12 mm, CLL precious metal brushes, sintered bearings",12,46,0.00117,2.75e-08,0.011,0.0123,0.0123,0.159,944.572191179331,0.00788,14.4,35,1361.35681655558,0.00321,80.64
+unknown_103,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",3,0.664,2.5e-05,8.31e-08,0.026,0.00365,0.00365,1.2,808.436509523773,0.0763,8.63,22.2,908.967474438647,0.0165,113
+unknown_104,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",4.5,1.29,5.7e-05,9.42e-08,0.026,0.00547,0.00547,1.19,809.48370707497,0.0509,8.63,22.2,908.967474438647,0.0191,113
+unknown_105,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",6,2.33,0.000101,9.26e-08,0.026,0.0073,0.0073,0.884,809.48370707497,0.0382,8.63,22.2,908.967474438647,0.0188,113
+unknown_106,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",9,5.02,0.000227,9.66e-08,0.026,0.0109,0.0109,0.602,810.530904626167,0.0255,8.63,22.2,908.967474438647,0.0196,113
+unknown_107,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",12,8.9,0.000403,9.7e-08,0.026,0.0146,0.0146,0.452,810.530904626167,0.0191,8.63,22.2,908.967474438647,0.0197,113
+unknown_108,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",18,22.5,0.000908,8.72e-08,0.026,0.0219,0.0219,0.284,808.436509523773,0.0127,8.63,22.2,908.967474438647,0.0175,113
+unknown_109,"DCX 14 L Ø14 mm, CLL precious metal brushes, ball bearings",24,37.1,0.00161,9.39e-08,0.026,0.0292,0.0292,0.221,809.48370707497,0.00955,8.63,22.2,908.967474438647,0.0189,113
+unknown_110,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",3,0.664,2.5e-05,8.31e-08,0.026,0.00365,0.00365,1.2,808.436509523773,0.0736,8.63,22.2,908.967474438647,0.0165,101.27
+unknown_111,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",4.5,1.29,5.7e-05,9.42e-08,0.026,0.00547,0.00547,1.2,810.530904626167,0.0491,8.63,22.2,908.967474438647,0.0191,101.27
+unknown_112,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",6,2.33,0.000101,9.26e-08,0.026,0.0073,0.0073,0.889,810.530904626167,0.0368,8.63,22.2,908.967474438647,0.0188,101.27
+unknown_113,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",9,5.02,0.000227,9.66e-08,0.026,0.0109,0.0109,0.605,810.530904626167,0.0245,8.63,22.2,908.967474438647,0.0196,101.27
+unknown_114,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",12,8.9,0.000403,9.7e-08,0.026,0.0146,0.0146,0.454,810.530904626167,0.0184,8.63,22.2,908.967474438647,0.0197,101.27
+unknown_115,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",18,22.5,0.000908,8.72e-08,0.026,0.0219,0.0219,0.286,809.48370707497,0.0123,8.63,22.2,908.967474438647,0.0175,101.27
+unknown_116,"DCX 14 L Ø14 mm, CLL precious metal brushes, sintered bearings",24,37.1,0.00161,9.39e-08,0.026,0.0292,0.0292,0.223,810.530904626167,0.0092,8.63,22.2,908.967474438647,0.0189,101.27
+unknown_117,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",4.5,0.698,2.5e-05,8.31e-08,0.026,0.00365,0.00365,1.8,1214.74915938805,0.0748,8.63,22.2,1780.23583703422,0.0235,110.64
+unknown_118,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",6,1.33,5.7e-05,9.42e-08,0.026,0.00547,0.00547,1.31,1089.08545324446,0.048,8.63,22.2,1780.23583703422,0.0248,110.64
+unknown_119,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",9,2.37,0.000101,9.26e-08,0.026,0.0073,0.0073,0.972,1225.22113490002,0.0374,8.63,22.2,1780.23583703422,0.0278,110.64
+unknown_120,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",12,5.31,0.000227,9.66e-08,0.026,0.0109,0.0109,0.649,1078.6134777325,0.024,8.63,22.2,1780.23583703422,0.0247,110.64
+unknown_121,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",18,9.21,0.000403,9.7e-08,0.026,0.0146,0.0146,0.491,1214.74915938805,0.0187,8.63,22.2,1780.23583703422,0.0285,110.64
+unknown_122,"DCX 14 L Ø14 mm, graphite brushes, ball bearings",24,22.9,0.000908,8.72e-08,0.026,0.0219,0.0219,0.313,1078.6134777325,0.012,8.63,22.2,1780.23583703422,0.0229,110.64
+unknown_123,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",4.5,0.698,2.5e-05,8.31e-08,0.026,0.00365,0.00365,1.81,1214.74915938805,0.0739,8.63,22.2,1570.7963267949,0.0235,98.91
+unknown_124,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",6,1.33,5.7e-05,9.42e-08,0.026,0.00547,0.00547,1.31,1089.08545324446,0.0464,8.63,22.2,1570.7963267949,0.0248,98.91
+unknown_125,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",9,2.37,0.000101,9.26e-08,0.026,0.0073,0.0073,0.974,1225.22113490002,0.037,8.63,22.2,1570.7963267949,0.0278,98.91
+unknown_126,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",12,5.31,0.000227,9.66e-08,0.026,0.0109,0.0109,0.651,1078.6134777325,0.0232,8.63,22.2,1570.7963267949,0.0247,98.91
+unknown_127,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",18,9.21,0.000403,9.7e-08,0.026,0.0146,0.0146,0.492,1214.74915938805,0.0185,8.63,22.2,1570.7963267949,0.0285,98.91
+unknown_128,"DCX 14 L Ø14 mm, graphite brushes, sintered bearings",24,22.9,0.000908,8.72e-08,0.026,0.0219,0.0219,0.314,1078.6134777325,0.0116,8.63,22.2,1570.7963267949,0.0229,98.91
+unknown_129,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",3,0.388,2.6e-05,2.18e-07,0.042,0.00444,0.00444,1.2,669.159235214626,0.0668,7.21,17.9,908.967474438647,0.0344,127.18
+unknown_130,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",6,1.31,9.6e-05,2.36e-07,0.042,0.00859,0.00859,1.2,693.244778892148,0.0349,7.21,17.9,908.967474438647,0.0393,127.18
+unknown_131,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",9,2.87,0.000231,2.59e-07,0.042,0.0133,0.0133,0.887,670.206432765822,0.0223,7.21,17.9,908.967474438647,0.0418,127.18
+unknown_132,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",12,5.82,0.000411,2.28e-07,0.042,0.0178,0.0178,0.622,670.206432765822,0.0167,7.21,17.9,908.967474438647,0.0366,127.18
+unknown_133,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",18,12.9,0.000925,2.33e-07,0.042,0.0267,0.0267,0.419,670.206432765822,0.0111,7.21,17.9,908.967474438647,0.0373,127.18
+unknown_134,"DCX 16 L Ø16 mm, CLL precious metal brushes, ball bearings",24,22.7,0.00156,2.23e-07,0.042,0.0347,0.0347,0.315,686.961593584968,0.00862,7.21,17.9,908.967474438647,0.0366,127.18
+unknown_135,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",3,0.388,2.6e-05,2.18e-07,0.042,0.00444,0.00444,1.2,668.112037663429,0.0792,7.21,17.9,908.967474438647,0.0344,115.45
+unknown_136,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",6,1.31,9.6e-05,2.36e-07,0.042,0.00859,0.00859,1.2,692.197581340951,0.0414,7.21,17.9,908.967474438647,0.0393,115.45
+unknown_137,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",9,2.87,0.000231,2.59e-07,0.042,0.0133,0.0133,0.888,669.159235214626,0.0264,7.21,17.9,908.967474438647,0.0418,115.45
+unknown_138,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",12,5.82,0.000411,2.28e-07,0.042,0.0178,0.0178,0.623,669.159235214626,0.0198,7.21,17.9,908.967474438647,0.0366,115.45
+unknown_139,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",18,12.9,0.000925,2.33e-07,0.042,0.0267,0.0267,0.419,669.159235214626,0.0132,7.21,17.9,908.967474438647,0.0373,115.45
+unknown_140,"DCX 16 L Ø16 mm, CLL precious metal brushes, sintered bearings",24,22.7,0.00156,2.23e-07,0.042,0.0347,0.0347,0.315,685.914396033771,0.0102,7.21,17.9,908.967474438647,0.0366,115.45
+unknown_141,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",6,0.43,2.6e-05,2.18e-07,0.042,0.00444,0.00444,2,1340.41286553164,0.102,7.21,17.9,1780.23583703422,0.0619,124.82
+unknown_142,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",9,0.79,5.5e-05,2.4e-07,0.042,0.00652,0.00652,1.85,1371.82879206754,0.0708,7.21,17.9,1780.23583703422,0.0743,124.82
+unknown_143,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",12,1.63,9.6e-05,2.36e-07,0.042,0.00859,0.00859,1.28,1371.82879206754,0.0538,7.21,17.9,1780.23583703422,0.0633,124.82
+unknown_144,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",18,3.22,0.000231,2.59e-07,0.042,0.0133,0.0133,0.906,1340.41286553164,0.034,7.21,17.9,1780.23583703422,0.0745,124.82
+unknown_145,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",24,6.22,0.000411,2.28e-07,0.042,0.0178,0.0178,0.652,1340.41286553164,0.0255,7.21,17.9,1780.23583703422,0.0685,124.82
+unknown_146,"DCX 16 L Ø16 mm, graphite brushes, ball bearings",36,13.3,0.000925,2.33e-07,0.042,0.0267,0.0267,0.445,1340.41286553164,0.017,7.21,17.9,1780.23583703422,0.0721,124.82
+unknown_147,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",6,0.431,2.6e-05,2.18e-07,0.042,0.00444,0.00444,2,1340.41286553164,0.101,7.21,17.9,1570.7963267949,0.0618,113.09
+unknown_148,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",9,0.791,5.5e-05,2.4e-07,0.042,0.00652,0.00652,1.85,1371.82879206754,0.0698,7.21,17.9,1570.7963267949,0.0742,113.09
+unknown_149,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",12,1.63,9.6e-05,2.36e-07,0.042,0.00859,0.00859,1.28,1371.82879206754,0.0531,7.21,17.9,1570.7963267949,0.0633,113.09
+unknown_150,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",18,3.22,0.000231,2.59e-07,0.042,0.0133,0.0133,0.906,1340.41286553164,0.0336,7.21,17.9,1570.7963267949,0.0745,113.09
+unknown_151,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",24,6.23,0.000411,2.28e-07,0.042,0.0178,0.0178,0.652,1340.41286553164,0.0252,7.21,17.9,1570.7963267949,0.0685,113.09
+unknown_152,"DCX 16 L Ø16 mm, graphite brushes, sintered bearings",36,13.3,0.000925,2.33e-07,0.042,0.0267,0.0267,0.445,1340.41286553164,0.0168,7.21,17.9,1570.7963267949,0.072,113.09
+unknown_153,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",3,1.2,3.6e-05,1e-07,0.026,0.00445,0.00445,1.2,658.68725970266,0.056,9.9,23.5,908.967474438647,0.0111,119.36
+unknown_154,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",4.5,2.8,8e-05,9.7e-08,0.026,0.00667,0.00667,0.782,658.68725970266,0.0373,9.9,23.5,908.967474438647,0.0107,119.36
+unknown_155,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",6,4.06,0.000131,1.08e-07,0.026,0.00853,0.00853,0.648,689.055988687361,0.0296,9.9,23.5,908.967474438647,0.0126,119.36
+unknown_156,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",9,11.4,0.00032,9.59e-08,0.026,0.0133,0.0133,0.388,658.68725970266,0.0187,9.9,23.5,908.967474438647,0.0106,119.36
+unknown_157,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",12,19.2,0.000581,1.03e-07,0.026,0.018,0.018,0.298,652.40407439548,0.0138,9.9,23.5,908.967474438647,0.0112,119.36
+unknown_158,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",18,38.6,0.00128,1.12e-07,0.026,0.0267,0.0267,0.21,660.781654805053,0.00934,9.9,23.5,908.967474438647,0.0125,119.36
+unknown_159,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, ball bearings",24,83.1,0.00232,9.6e-08,0.026,0.036,0.036,0.143,651.356876844284,0.00691,9.9,23.5,908.967474438647,0.0104,119.36
+unknown_160,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",3,1.2,3.6e-05,1e-07,0.026,0.00445,0.00445,1.2,661.82885235625,0.0446,9.9,23.5,908.967474438647,0.0111,107.64
+unknown_161,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",4.5,2.8,8e-05,9.7e-08,0.026,0.00667,0.00667,0.784,661.82885235625,0.0297,9.9,23.5,908.967474438647,0.0107,107.64
+unknown_162,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",6,4.06,0.000131,1.08e-07,0.026,0.00853,0.00853,0.65,692.197581340951,0.0234,9.9,23.5,908.967474438647,0.0126,107.64
+unknown_163,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",9,11.4,0.00032,9.59e-08,0.026,0.0133,0.0133,0.389,661.82885235625,0.0149,9.9,23.5,908.967474438647,0.0106,107.64
+unknown_164,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",12,19.2,0.000581,1.03e-07,0.026,0.018,0.018,0.299,655.54566704907,0.011,9.9,23.5,908.967474438647,0.0112,107.64
+unknown_165,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",18,38.6,0.00128,1.12e-07,0.026,0.0267,0.0267,0.211,663.923247458643,0.00743,9.9,23.5,908.967474438647,0.0125,107.64
+unknown_166,"DCX 16 S Ø16 mm, Precious Metal Brushes CLL, sintered sleeve bearings",24,83.1,0.00232,9.6e-08,0.026,0.036,0.036,0.144,654.498469497874,0.00551,9.9,23.5,908.967474438647,0.0104,107.64
+unknown_167,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",6,1.25,3.6e-05,1e-07,0.026,0.00445,0.00445,1.28,1329.94089001968,0.0671,9.9,23.5,1780.23583703422,0.0213,117
+unknown_168,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",9,2.85,8e-05,9.7e-08,0.026,0.00667,0.00667,0.845,1329.94089001968,0.0448,9.9,23.5,1780.23583703422,0.021,117
+unknown_169,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",12,4.53,0.000131,1.08e-07,0.026,0.00853,0.00853,0.662,1382.30076757951,0.0354,9.9,23.5,1780.23583703422,0.0226,117
+unknown_170,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",18,12,0.00032,9.59e-08,0.026,0.0133,0.0133,0.411,1329.94089001968,0.0224,9.9,23.5,1780.23583703422,0.0201,117
+unknown_171,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",24,19.7,0.000569,1.02e-07,0.026,0.0178,0.0178,0.321,1329.94089001968,0.0168,9.9,23.5,1780.23583703422,0.0217,117
+unknown_172,"DCX 16 S Ø16 mm, Graphite Brushes, ball bearings",48,83.9,0.00232,9.6e-08,0.026,0.036,0.036,0.156,1319.46891450771,0.00828,9.9,23.5,1780.23583703422,0.0206,117
+unknown_173,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",6,1.25,3.6e-05,1e-07,0.026,0.00445,0.00445,1.28,1329.94089001968,0.0639,9.9,23.5,1780.23583703422,0.0213,105.27
+unknown_174,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",9,2.85,8e-05,9.7e-08,0.026,0.00667,0.00667,0.847,1329.94089001968,0.0426,9.9,23.5,1780.23583703422,0.021,105.27
+unknown_175,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",12,4.53,0.000131,1.08e-07,0.026,0.00853,0.00853,0.663,1382.30076757951,0.0339,9.9,23.5,1780.23583703422,0.0226,105.27
+unknown_176,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",18,12,0.00032,9.59e-08,0.026,0.0133,0.0133,0.412,1329.94089001968,0.0213,9.9,23.5,1780.23583703422,0.0201,105.27
+unknown_177,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",24,19.7,0.000569,1.02e-07,0.026,0.0178,0.0178,0.321,1329.94089001968,0.016,9.9,23.5,1780.23583703422,0.0217,105.27
+unknown_178,"DCX 16 S Ø16 mm, Graphite Brushes, sintered sleeve bearings",48,83.9,0.00232,9.6e-08,0.026,0.036,0.036,0.156,1319.46891450771,0.00787,9.9,23.5,1780.23583703422,0.0206,105.27
+unknown_179,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",4.5,0.831,4.5e-05,2.67e-07,0.05,0.00658,0.00658,1.2,674.395222970609,0.072,6.5,17.6,785.398163397448,0.0357,117.09
+unknown_180,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",6,1.47,8.2e-05,2.68e-07,0.05,0.00891,0.00891,1.2,664.97044500984,0.0529,6.5,17.6,785.398163397448,0.0363,117.09
+unknown_181,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",9,3.4,0.000191,2.65e-07,0.05,0.0136,0.0136,0.829,655.54566704907,0.0346,6.5,17.6,785.398163397448,0.0359,117.09
+unknown_182,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",12,5.63,0.000329,2.75e-07,0.05,0.0178,0.0178,0.644,664.97044500984,0.0265,6.5,17.6,785.398163397448,0.038,125.64
+unknown_183,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",18,12.7,0.00074,2.74e-07,0.05,0.0267,0.0267,0.428,664.97044500984,0.0176,6.5,17.6,785.398163397448,0.0378,125.64
+unknown_184,"DCX 19 S Ø19 mm, precious metal brushes, ball bearings",24,22.8,0.00132,2.72e-07,0.05,0.0356,0.0356,0.319,664.97044500984,0.0132,6.5,17.6,785.398163397448,0.0375,125.64
+unknown_185,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",4.5,0.831,4.5e-05,2.67e-07,0.05,0.00658,0.00658,1.2,673.348025419412,0.0819,6.5,17.6,785.398163397448,0.0357,105.36
+unknown_186,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",6,1.47,8.2e-05,2.68e-07,0.05,0.00891,0.00891,1.2,663.923247458643,0.0604,6.5,17.6,785.398163397448,0.0363,105.36
+unknown_187,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",9,3.4,0.000191,2.65e-07,0.05,0.0136,0.0136,0.83,654.498469497874,0.0396,6.5,17.6,785.398163397448,0.0359,105.36
+unknown_188,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",12,5.63,0.000329,2.75e-07,0.05,0.0178,0.0178,0.644,663.923247458643,0.0302,6.5,17.6,785.398163397448,0.038,113.91
+unknown_189,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",18,12.7,0.00074,2.74e-07,0.05,0.0267,0.0267,0.428,663.923247458643,0.0201,6.5,17.6,785.398163397448,0.0378,113.91
+unknown_190,"DCX 19 S Ø19 mm, precious metal brushes, sintered bearings",24,22.8,0.00132,2.72e-07,0.05,0.0356,0.0356,0.32,663.923247458643,0.0151,6.5,17.6,785.398163397448,0.0375,113.91
+unknown_191,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",9,0.812,4.5e-05,2.67e-07,0.05,0.00658,0.00658,1.81,1350.88484104361,0.102,6.5,17.6,1675.51608191456,0.073,123.27
+unknown_192,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",12,1.45,8.2e-05,2.68e-07,0.05,0.00891,0.00891,1.35,1329.94089001968,0.075,6.5,17.6,1675.51608191456,0.0735,123.27
+unknown_193,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",18,3.38,0.000191,2.65e-07,0.05,0.0136,0.0136,0.886,1319.46891450771,0.0489,6.5,17.6,1675.51608191456,0.0721,123.27
+unknown_194,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",24,5.73,0.000329,2.75e-07,0.05,0.0178,0.0178,0.675,1329.94089001968,0.0375,6.5,17.6,1675.51608191456,0.0746,123.27
+unknown_195,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",36,12.9,0.00074,2.74e-07,0.05,0.0267,0.0267,0.452,1329.94089001968,0.025,6.5,17.6,1675.51608191456,0.0749,123.27
+unknown_196,"DCX 19 S Ø19 mm, graphite brushes, ball bearings",48,23,0.00132,2.72e-07,0.05,0.0356,0.0356,0.338,1329.94089001968,0.0187,6.5,17.6,1675.51608191456,0.0745,123.27
+unknown_197,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",9,0.812,4.5e-05,2.67e-07,0.05,0.00658,0.00658,1.8,1350.88484104361,0.112,6.5,17.6,1413.71669411541,0.073,111.55
+unknown_198,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",12,1.45,8.2e-05,2.68e-07,0.05,0.00891,0.00891,1.34,1329.94089001968,0.0821,6.5,17.6,1413.71669411541,0.0735,111.55
+unknown_199,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",18,3.38,0.000191,2.65e-07,0.05,0.0136,0.0136,0.879,1319.46891450771,0.0536,6.5,17.6,1413.71669411541,0.0721,111.55
+unknown_200,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",24,5.73,0.000329,2.75e-07,0.05,0.0178,0.0178,0.671,1329.94089001968,0.041,6.5,17.6,1413.71669411541,0.0746,111.55
+unknown_201,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",36,12.9,0.00074,2.74e-07,0.05,0.0267,0.0267,0.449,1329.94089001968,0.0274,6.5,17.6,1413.71669411541,0.0749,111.55
+unknown_202,"DCX 19 S Ø19 mm, graphite brushes, sintered bearings",48,23,0.00132,2.72e-07,0.05,0.0356,0.0356,0.336,1329.94089001968,0.0205,6.5,17.6,1413.71669411541,0.0745,111.55
+unknown_203,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",6,0.343,3.5e-05,9.06e-07,0.095,0.00973,0.00973,1.5,614.704962552403,0.051,4.57,13.6,749.793446656764,0.17,166.45
+unknown_204,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",9,0.687,7.8e-05,9.82e-07,0.095,0.0146,0.0146,1.5,614.704962552403,0.034,4.57,13.6,749.793446656764,0.191,166.45
+unknown_205,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",12,1.84,0.000192,9e-07,0.095,0.0229,0.0229,1.3,521.504380495906,0.02,4.57,13.6,749.793446656764,0.15,166.45
+unknown_206,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",18,3.01,0.000326,9.26e-07,0.095,0.0299,0.0299,1.01,601.091394386847,0.0164,4.57,13.6,749.793446656764,0.178,166.45
+unknown_207,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",24,7.25,0.000746,8.85e-07,0.095,0.0452,0.0452,0.655,529.881960905478,0.0102,4.57,13.6,749.793446656764,0.15,166.45
+unknown_208,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",36,11.4,0.00119,8.94e-07,0.095,0.057,0.057,0.52,630.412925820352,0.00882,4.57,13.6,749.793446656764,0.18,175
+unknown_209,"DCX 22 L Ø22 mm, Precious Metal Brushes CLL, ball bearings",48,29.9,0.0028,8.12e-07,0.095,0.0876,0.0876,0.322,546.637121724624,0.00536,4.57,13.6,749.793446656764,0.14,175
+unknown_210,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",6,0.343,3.5e-05,9.06e-07,0.095,0.00973,0.00973,1.5,614.704962552403,0.0487,4.57,13.6,749.793446656764,0.17,154.73
+unknown_211,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",9,0.687,7.8e-05,9.82e-07,0.095,0.0146,0.0146,1.5,614.704962552403,0.0325,4.57,13.6,749.793446656764,0.191,154.73
+unknown_212,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",12,1.84,0.000192,9e-07,0.095,0.0229,0.0229,1.31,521.504380495906,0.0194,4.57,13.6,749.793446656764,0.15,154.73
+unknown_213,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",18,3.01,0.000326,9.26e-07,0.095,0.0299,0.0299,1.02,601.091394386847,0.0157,4.57,13.6,749.793446656764,0.178,154.73
+unknown_214,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",24,7.25,0.000746,8.85e-07,0.095,0.0452,0.0452,0.658,529.881960905478,0.00989,4.57,13.6,749.793446656764,0.15,154.73
+unknown_215,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",36,11.4,0.00119,8.94e-07,0.095,0.057,0.057,0.522,630.412925820352,0.0084,4.57,13.6,749.793446656764,0.18,163.27
+unknown_216,"DCX 22 L Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",48,29.9,0.0028,8.12e-07,0.095,0.0876,0.0876,0.323,546.637121724624,0.00516,4.57,13.6,749.793446656764,0.14,163.27
+unknown_217,"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",9,0.168,1.8e-05,9.37e-07,0.095,0.00695,0.00695,4,1288.05298797182,0.118,4.57,13.6,1884.95559215388,0.371,172.64
+unknown_218,"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",12,0.335,3.5e-05,9.06e-07,0.095,0.00973,0.00973,3.21,1225.22113490002,0.0818,4.57,13.6,1884.95559215388,0.348,172.64
+unknown_219,"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",18,0.68,7.8e-05,9.82e-07,0.095,0.0146,0.0146,2.26,1235.69311041199,0.0546,4.57,13.6,1884.95559215388,0.386,172.64
+unknown_220,"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",36,3.11,0.000326,9.26e-07,0.095,0.0299,0.0299,1.03,1193.80520836412,0.0263,4.57,13.6,1884.95559215388,0.346,172.64
+unknown_221,"DCX 22 L Ø22 mm, Graphite Brushes, ball bearings",48,7.39,0.000746,8.85e-07,0.095,0.0452,0.0452,0.687,1057.66952670856,0.0162,4.57,13.6,1884.95559215388,0.294,172.64
+unknown_222,"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",9,0.168,1.8e-05,9.37e-07,0.095,0.00695,0.00695,4,1288.05298797182,0.196,4.57,13.6,1884.95559215388,0.371,160.91
+unknown_223,"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",12,0.335,3.5e-05,9.06e-07,0.095,0.00973,0.00973,3.06,1225.22113490002,0.136,4.57,13.6,1884.95559215388,0.348,160.91
+unknown_224,"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",18,0.68,7.8e-05,9.82e-07,0.095,0.0146,0.0146,2.15,1225.22113490002,0.0905,4.57,13.6,1884.95559215388,0.386,160.91
+unknown_225,"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",36,3.11,0.000326,9.26e-07,0.095,0.0299,0.0299,0.982,1193.80520836412,0.0435,4.57,13.6,1884.95559215388,0.346,160.91
+unknown_226,"DCX 22 L Ø22 mm, graphite brushes, sintered bearings",48,7.39,0.000746,8.85e-07,0.095,0.0452,0.0452,0.664,1057.66952670856,0.0267,4.57,13.6,1884.95559215388,0.294,160.91
+unknown_227,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",6,1.02,5.8e-05,5.05e-07,0.066,0.00918,0.00918,1.2,649.26248174189,0.0392,7,16,749.793446656764,0.0537,120.82
+unknown_228,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",12,3.69,0.000231,5.55e-07,0.066,0.0184,0.0184,0.817,649.26248174189,0.0196,7,16,749.793446656764,0.0597,120.82
+unknown_229,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",18,8.75,0.000535,5.44e-07,0.066,0.028,0.028,0.531,639.837703781121,0.0128,7,16,749.793446656764,0.0575,120.82
+unknown_230,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",24,16.3,0.000881,4.67e-07,0.066,0.0359,0.0359,0.388,663.923247458643,0.0101,7,16,749.793446656764,0.0527,129.36
+unknown_231,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",36,33.3,0.00186,5.03e-07,0.066,0.0522,0.0522,0.272,685.914396033771,0.00709,7,16,749.793446656764,0.0565,129.36
+unknown_232,"DCX 22 S Ø22 mm, Precious Metal Brushes, ball bearings",48,76.2,0.00408,4.84e-07,0.066,0.0772,0.0772,0.18,616.799357654796,0.00455,7,16,749.793446656764,0.0486,129.36
+unknown_233,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",6,1.02,5.8e-05,5.05e-07,0.066,0.00918,0.00918,1.2,648.215284190694,0.0448,7,16,749.793446656764,0.0537,109.09
+unknown_234,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",12,3.69,0.000231,5.55e-07,0.066,0.0184,0.0184,0.818,649.26248174189,0.0224,7,16,749.793446656764,0.0597,109.09
+unknown_235,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",18,8.75,0.000535,5.44e-07,0.066,0.028,0.028,0.531,638.790506229925,0.0146,7,16,749.793446656764,0.0575,109.09
+unknown_236,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",24,16.3,0.000881,4.67e-07,0.066,0.0359,0.0359,0.388,663.923247458643,0.0116,7,16,749.793446656764,0.0527,117.64
+unknown_237,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",36,33.3,0.00186,5.03e-07,0.066,0.0522,0.0522,0.272,684.867198482575,0.00805,7,16,749.793446656764,0.0565,117.64
+unknown_238,"DCX 22 S Ø22 mm, Precious Metal Brushes, sintered sleeve bearings",48,76.2,0.00408,4.84e-07,0.066,0.0772,0.0772,0.18,616.799357654796,0.00522,7,16,749.793446656764,0.0486,117.64
+unknown_239,"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",6,0.297,1.7e-05,5.27e-07,0.066,0.00501,0.00501,3,1193.80520836412,0.126,7,16,1884.95559215388,0.101,127
+unknown_240,"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",12,1.02,5.8e-05,5.05e-07,0.066,0.00918,0.00918,1.65,1298.52496348378,0.0717,7,16,1884.95559215388,0.108,127
+unknown_241,"DCX 22 Ø22 mm, Graphite Brushes, ball bearings",18,2.21,0.00013,5.22e-07,0.066,0.0138,0.0138,1.12,1298.52496348378,0.0478,7,16,1884.95559215388,0.112,127
+unknown_242,"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",24,3.69,0.000231,5.55e-07,0.066,0.0184,0.0184,0.869,1298.52496348378,0.0359,7,16,1884.95559215388,0.12,127
+unknown_243,"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",36,8.94,0.000535,5.44e-07,0.066,0.028,0.028,0.552,1277.58101245985,0.0234,7,16,1884.95559215388,0.113,127
+unknown_244,"DCX 22 S Ø22 mm, Graphite Brushes, ball bearings",48,16.6,0.000881,4.67e-07,0.066,0.0359,0.0359,0.406,1329.94089001968,0.0185,7,16,1884.95559215388,0.104,127
+unknown_245,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",6,0.297,1.7e-05,5.27e-07,0.066,0.00501,0.00501,3,1183.33323285216,0.159,7,16,1884.95559215388,0.101,115.27
+unknown_246,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",12,1.02,5.8e-05,5.05e-07,0.066,0.00918,0.00918,1.63,1298.52496348378,0.0908,7,16,1884.95559215388,0.108,115.27
+unknown_247,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",18,2.21,0.00013,5.22e-07,0.066,0.0138,0.0138,1.1,1298.52496348378,0.0605,7,16,1884.95559215388,0.112,115.27
+unknown_248,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",24,3.69,0.000231,5.55e-07,0.066,0.0184,0.0184,0.855,1298.52496348378,0.0454,7,16,1884.95559215388,0.12,115.27
+unknown_249,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",36,8.94,0.000535,5.44e-07,0.066,0.028,0.028,0.543,1277.58101245985,0.0295,7,16,1884.95559215388,0.113,115.27
+unknown_250,"DCX 22 S Ø22 mm, Graphite Brushes, sintered sleeve bearings",48,16.6,0.000881,4.67e-07,0.066,0.0359,0.0359,0.399,1319.46891450771,0.0235,7,16,1884.95559215388,0.104,115.27
+unknown_251,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",9,0.363,6.7e-05,2.13e-06,0.17,0.0155,0.0155,2.2,579.100245811719,0.0805,3.01,10.2,617.846555205993,0.384,202.27
+unknown_252,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",12,0.671,0.000129,2.14e-06,0.17,0.0214,0.0214,2.2,558.156294787787,0.0568,3.01,10.2,617.846555205993,0.384,202.27
+unknown_253,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",18,1.54,0.000268,1.94e-06,0.17,0.031,0.031,1.64,579.100245811719,0.0402,3.01,10.2,617.846555205993,0.362,202.27
+unknown_254,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",24,2.68,0.000514,2.12e-06,0.17,0.0429,0.0429,1.25,558.156294787787,0.0284,3.01,10.2,617.846555205993,0.384,202.27
+unknown_255,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",36,6.15,0.00111,2.01e-06,0.17,0.0632,0.0632,0.822,568.628270299753,0.0195,3.01,10.2,617.846555205993,0.37,202.27
+unknown_256,"DCX 26 L Ø 26mm, CLL precious metal brushes, ball bearings",48,11.6,0.00206,1.97e-06,0.17,0.0858,0.0858,0.599,557.10909723659,0.0142,3.01,10.2,617.846555205993,0.355,202.27
+unknown_257,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",9,0.363,6.7e-05,2.13e-06,0.17,0.0155,0.0155,2.2,579.100245811719,0.0961,3.01,10.2,617.846555205993,0.384,190.55
+unknown_258,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",12,0.671,0.000129,2.14e-06,0.17,0.0214,0.0214,2.2,557.10909723659,0.0683,3.01,10.2,617.846555205993,0.384,190.55
+unknown_259,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",18,1.54,0.000268,1.94e-06,0.17,0.031,0.031,1.65,579.100245811719,0.048,3.01,10.2,617.846555205993,0.362,190.55
+unknown_260,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",24,2.68,0.000514,2.12e-06,0.17,0.0429,0.0429,1.25,557.10909723659,0.0342,3.01,10.2,617.846555205993,0.384,190.55
+unknown_261,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",36,6.15,0.00111,2.01e-06,0.17,0.0632,0.0632,0.823,567.581072748556,0.0234,3.01,10.2,617.846555205993,0.37,190.55
+unknown_262,"DCX 26 L Ø 26mm, CLL precious metal brushes, sintered bearings",48,11.6,0.00206,1.97e-06,0.17,0.0858,0.0858,0.599,557.10909723659,0.0171,3.01,10.2,617.846555205993,0.355,190.55
+unknown_263,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",12,0.242,3.2e-05,2.14e-06,0.17,0.0107,0.0107,4.5,1110.02940426839,0.131,3.01,10.2,1507.9644737231,0.532,199.91
+unknown_264,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",18,0.427,6.7e-05,2.13e-06,0.17,0.0155,0.0155,3.59,1162.38928182822,0.093,3.01,10.2,1507.9644737231,0.653,199.91
+unknown_265,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",24,0.74,0.000129,2.14e-06,0.17,0.0214,0.0214,2.76,1120.50137978036,0.0657,3.01,10.2,1507.9644737231,0.695,199.91
+unknown_266,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",36,1.75,0.000268,1.94e-06,0.17,0.031,0.031,1.79,1162.38928182822,0.0465,3.01,10.2,1507.9644737231,0.639,199.91
+unknown_267,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",48,2.95,0.000514,2.12e-06,0.17,0.0429,0.0429,1.41,1120.50137978036,0.0329,3.01,10.2,1507.9644737231,0.697,199.91
+unknown_268,"DCX 26 L Ø 26mm, graphite brushes, ball bearings",60,4.19,0.000768,2.07e-06,0.17,0.0524,0.0524,1.17,1141.44533080429,0.0273,3.01,10.2,1507.9644737231,0.75,199.91
+unknown_269,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",12,0.242,3.2e-05,2.14e-06,0.17,0.0107,0.0107,4,1110.02940426839,0.194,3.01,10.2,900.589894029074,0.532,188.18
+unknown_270,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",18,0.427,6.7e-05,2.13e-06,0.17,0.0155,0.0155,3.02,1151.91730631626,0.138,3.01,10.2,900.589894029074,0.653,188.18
+unknown_271,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",24,0.74,0.000129,2.14e-06,0.17,0.0214,0.0214,2.35,1110.02940426839,0.0971,3.01,10.2,900.589894029074,0.695,188.18
+unknown_272,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",36,1.8,0.000268,1.94e-06,0.17,0.031,0.031,1.53,1162.38928182822,0.069,3.01,10.2,900.589894029074,0.618,188.18
+unknown_273,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",48,2.95,0.000514,2.12e-06,0.17,0.0429,0.0429,1.2,1120.50137978036,0.0486,3.01,10.2,900.589894029074,0.697,188.18
+unknown_274,"DCX 26 L Ø 26mm, graphite brushes, sintered bearings",60,4.38,0.000768,2.07e-06,0.17,0.0524,0.0524,0.982,1141.44533080429,0.0404,3.01,10.2,900.589894029074,0.718,188.18
+unknown_275,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",12,0.108,3.4e-05,7.76e-06,0.32,0.0156,0.0156,6,745.604656451978,0.274,2.3,7.28,1183.33323285216,1.73,237
+unknown_276,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",18,0.165,5.2e-05,7.59e-06,0.32,0.0195,0.0195,5.42,903.731486682664,0.234,2.3,7.28,1183.33323285216,2.12,237
+unknown_277,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",24,0.331,0.000103,7.28e-06,0.32,0.0273,0.0273,4.12,866.032374839586,0.164,2.3,7.28,1183.33323285216,1.98,237
+unknown_278,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",36,0.764,0.000254,7.68e-06,0.32,0.0429,0.0429,2.87,831.474855650099,0.103,2.3,7.28,1183.33323285216,2.02,237
+unknown_279,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",48,1.4,0.000473,7.59e-06,0.32,0.0585,0.0585,2.17,814.719694830953,0.0752,2.3,7.28,1183.33323285216,2,237
+unknown_280,"DCX 32 L Ø32 mm, Graphite Brushes, ball bearings",60,4.12,0.00131,7.17e-06,0.32,0.0975,0.0975,1.35,611.563369898813,0.0416,2.3,7.28,1183.33323285216,1.42,237
+unknown_281,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",12,0.0788,2.6e-05,9.95e-06,0.38,0.0137,0.0137,6,851.371609122834,0.32,2.1,6.98,1288.05298797182,2.08,261.27
+unknown_282,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",18,0.212,7.7e-05,1.02e-05,0.38,0.0234,0.0234,5.32,753.98223686155,0.177,2.1,6.98,1288.05298797182,1.98,261.27
+unknown_283,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",24,0.346,0.000121,9.66e-06,0.38,0.0293,0.0293,4.26,808.436509523773,0.146,2.1,6.98,1288.05298797182,2.03,261.27
+unknown_284,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",36,0.716,0.00026,9.87e-06,0.38,0.0429,0.0429,3.07,831.474855650099,0.101,2.1,6.98,1288.05298797182,2.16,261.27
+unknown_285,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",48,1.76,0.000658,9.95e-06,0.38,0.0683,0.0683,2.08,698.480766648131,0.0586,2.1,6.98,1288.05298797182,1.86,261.27
+unknown_286,"DCX 35 L Ø35 mm, Graphite Brushes, ball bearings",60,2.16,0.000776,9.52e-06,0.38,0.0741,0.0741,1.84,805.294916870184,0.0575,2.1,6.98,1288.05298797182,2.05,261.27
+unknown_287,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",6,1.8,2.6e-05,2.49e-09,0.006,0.00155,0.00155,0.902,3717.55130674792,0.128,4.11,51.2,5235.98775598299,0.00518,262.45
+unknown_288,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",6,1.8,2.6e-05,2.49e-09,0.006,0.00155,0.00155,0.902,3717.55130674792,0.128,4.11,51.2,5235.98775598299,0.00518,227.45
+unknown_289,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",9,5.3,8.9e-05,2.49e-09,0.006,0.00284,0.00284,0.497,3047.3448739821,0.0634,3.92,51.2,5235.98775598299,0.00483,262.45
+unknown_290,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",9,5.3,8.9e-05,2.49e-09,0.006,0.00284,0.00284,0.497,3047.3448739821,0.0634,3.92,51.2,5235.98775598299,0.00483,227.45
+unknown_291,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",12,8.38,0.000144,2.49e-09,0.006,0.00362,0.00362,0.391,3193.95253114962,0.0509,3.84,51.2,5235.98775598299,0.00518,262.45
+unknown_292,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",12,8.38,0.000144,2.49e-09,0.006,0.00362,0.00362,0.391,3193.95253114962,0.0509,3.84,51.2,5235.98775598299,0.00518,227.45
+unknown_293,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",6,3.02,3.9e-05,2.49e-09,0.006,0.00153,0.00153,0.687,3707.07933123596,0.105,3.5,51.2,5235.98775598299,0.00304,219.73
+unknown_294,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",6,3.02,3.9e-05,2.49e-09,0.006,0.00153,0.00153,0.687,3707.07933123596,0.105,3.5,51.2,5235.98775598299,0.00304,187.09
+unknown_295,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",12,7.8,0.000106,2.49e-09,0.006,0.00252,0.00252,0.406,4534.36539668127,0.069,3.5,51.2,5235.98775598299,0.00388,219.73
+unknown_296,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",12,7.8,0.000106,2.49e-09,0.006,0.00252,0.00252,0.406,4534.36539668127,0.069,3.5,51.2,5235.98775598299,0.00388,187.09
+unknown_297,"ECX SPEED 8 M Ø8 mm, brushless, with Hall sensors",24,31.8,0.000447,2.49e-09,0.006,0.00519,0.00519,0.198,4419.17366604964,0.0332,3.5,51.2,5235.98775598299,0.00392,219.73
+unknown_298,"ECX SPEED 8 M Ø8 mm, brushless, sensorless",24,31.8,0.000447,2.49e-09,0.006,0.00519,0.00519,0.198,4419.17366604964,0.0332,3.5,51.2,5235.98775598299,0.00392,187.09
+unknown_299,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,0.304,1.2e-05,3.49e-08,0.033,0.00252,0.00252,2.93,7110.4713726249,0.223,1.6,24.4,7330.38285837618,0.149,239.82
+unknown_300,"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,0.304,1.2e-05,3.49e-08,0.033,0.00252,0.00252,2.93,7110.4713726249,0.223,1.6,24.4,7330.38285837618,0.149,208
+unknown_301,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,0.512,2.2e-05,3.49e-08,0.033,0.00344,0.00344,2.22,6953.39173994541,0.161,1.6,24.4,7330.38285837618,0.161,239.82
+unknown_302,"ECX SPEED 13L Ø13 mm, brushless, sensorless",24,0.512,2.2e-05,3.49e-08,0.033,0.00344,0.00344,2.22,6953.39173994541,0.161,1.6,24.4,7330.38285837618,0.161,208
+unknown_303,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",36,1.13,4.8e-05,3.49e-08,0.033,0.00504,0.00504,1.46,7110.4713726249,0.112,1.6,24.4,7330.38285837618,0.161,239.82
+unknown_304,"ECX SPEED 13L Ø13 mm, brushless, sensorless",36,1.13,4.8e-05,3.49e-08,0.033,0.00504,0.00504,1.46,7110.4713726249,0.112,1.6,24.4,7330.38285837618,0.161,208
+unknown_305,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",48,2.34,0.000101,3.49e-08,0.033,0.00733,0.00733,1.03,6524.0407439548,0.0721,1.6,24.4,7330.38285837618,0.151,239.82
+unknown_306,"ECX SPEED 13L Ø13 mm, brushless, sensorless",48,2.34,0.000101,3.49e-08,0.033,0.00733,0.00733,1.03,6524.0407439548,0.0721,1.6,24.4,7330.38285837618,0.151,208
+unknown_307,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,1.42,4.4e-05,3.74e-08,0.033,0.00401,0.00401,1.35,4429.64564156161,0.165,2,23.7,5235.98775598299,0.0509,217.64
+unknown_308,"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,1.42,4.4e-05,3.74e-08,0.033,0.00401,0.00401,1.35,4429.64564156161,0.165,2,23.7,5235.98775598299,0.0509,182
+unknown_309,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,2.16,7.6e-05,3.74e-08,0.033,0.00525,0.00525,1.08,4513.42144565734,0.128,2,23.7,5235.98775598299,0.0585,217.64
+unknown_310,"ECX SPEED 13L Ø13 mm, brushless, sensorless",24,2.16,7.6e-05,3.74e-08,0.033,0.00525,0.00525,1.08,4513.42144565734,0.128,2,23.7,5235.98775598299,0.0585,182
+unknown_311,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",36,4.82,0.000178,3.74e-08,0.033,0.00802,0.00802,0.724,4429.64564156161,0.0825,2,23.7,5235.98775598299,0.0599,217.64
+unknown_312,"ECX SPEED 13L Ø13 mm, brushless, sensorless",36,4.82,0.000178,3.74e-08,0.033,0.00802,0.00802,0.724,4429.64564156161,0.0825,2,23.7,5235.98775598299,0.0599,182
+unknown_313,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",48,8.64,0.00031,3.74e-08,0.033,0.0106,0.0106,0.539,4471.53354360947,0.0628,2,23.7,5235.98775598299,0.0589,217.64
+unknown_314,"ECX SPEED 13L Ø13 mm, brushless, sensorless",48,8.64,0.00031,3.74e-08,0.033,0.0106,0.0106,0.539,4471.53354360947,0.0628,2,23.7,5235.98775598299,0.0589,182
+unknown_315,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",18,0.344,7e-06,3.15e-08,0.04,0.00237,0.00237,3.41,7560.76631963944,0.203,2.04,22,12566.3706143592,0.124,421.55
+unknown_316,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",18,0.344,7e-06,3.15e-08,0.04,0.00237,0.00237,3.41,7560.76631963944,0.203,2.04,22,12566.3706143592,0.124,383
+unknown_317,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",24,0.552,1.4e-05,3.15e-08,0.04,0.00323,0.00323,2.58,7403.68668695995,0.147,2.04,22,12566.3706143592,0.14,421.55
+unknown_318,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",24,0.552,1.4e-05,3.15e-08,0.04,0.00323,0.00323,2.58,7403.68668695995,0.147,2.04,22,12566.3706143592,0.14,383
+unknown_319,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",36,1.17,3e-05,3.15e-08,0.04,0.00474,0.00474,1.7,7571.2382951514,0.101,2.04,22,12566.3706143592,0.146,421.55
+unknown_320,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",36,1.17,3e-05,3.15e-08,0.04,0.00474,0.00474,1.7,7571.2382951514,0.101,2.04,22,12566.3706143592,0.146,383
+unknown_321,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, with Hall sensors",48,2.38,6.3e-05,3.15e-08,0.04,0.00689,0.00689,1.19,6932.44778892148,0.066,2.04,22,12566.3706143592,0.139,421.55
+unknown_322,"ECX SPEED 13L Ø13 mm, ceramic bearings, brushless, sensorless",48,2.38,6.3e-05,3.15e-08,0.04,0.00689,0.00689,1.19,6932.44778892148,0.066,2.04,22,12566.3706143592,0.139,383
+unknown_323,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",18,0.344,7e-06,3.15e-08,0.04,0.00237,0.00237,3.39,7560.76631963944,0.234,2.04,22,9424.77796076938,0.124,411.55
+unknown_324,"ECX SPEED 13L Ø13 mm, brushless, sensorless",18,0.344,7e-06,3.15e-08,0.04,0.00237,0.00237,3.39,7560.76631963944,0.234,2.04,22,9424.77796076938,0.124,371.36
+unknown_325,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",24,0.552,1.4e-05,3.15e-08,0.04,0.00323,0.00323,2.57,7393.21471144798,0.17,2.04,22,9424.77796076938,0.14,411.55
+unknown_326,"ECX SPEED 13L Ø13 mm, brushless, sensorless",24,0.552,1.4e-05,3.15e-08,0.04,0.00323,0.00323,2.57,7393.21471144798,0.17,2.04,22,9424.77796076938,0.14,371.36
+unknown_327,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",36,1.17,3e-05,3.15e-08,0.04,0.00474,0.00474,1.69,7560.76631963944,0.117,2.04,22,9424.77796076938,0.146,411.55
+unknown_328,"ECX SPEED 13L Ø13 mm, brushless, sensorless",36,1.17,3e-05,3.15e-08,0.04,0.00474,0.00474,1.69,7560.76631963944,0.117,2.04,22,9424.77796076938,0.146,371.36
+unknown_329,"ECX SPEED 13L Ø13 mm, brushless, with Hall sensors",48,2.38,6.3e-05,3.15e-08,0.04,0.00689,0.00689,1.18,6932.44778892148,0.0765,2.04,22,9424.77796076938,0.139,411.55
+unknown_330,"ECX SPEED 13L Ø13 mm, brushless, sensorless",48,2.38,6.3e-05,3.15e-08,0.04,0.00689,0.00689,1.18,6932.44778892148,0.0765,2.04,22,9424.77796076938,0.139,371.36
+unknown_331,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",18,2.4,6.5e-05,2.44e-08,0.024,0.00374,0.00374,0.916,4680.97305384879,0.206,2.21,29.5,5235.98775598299,0.028,206.55
+unknown_332,"ECX SPEED 13M Ø13 mm, brushless, sensorless",18,2.4,6.5e-05,2.44e-08,0.024,0.00374,0.00374,0.916,4680.97305384879,0.206,2.21,29.5,5235.98775598299,0.028,172.18
+unknown_333,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",24,4.22,0.000117,2.44e-08,0.024,0.005,0.005,0.687,4660.02910282486,0.154,2.21,29.5,5235.98775598299,0.0284,206.55
+unknown_334,"ECX SPEED 13M Ø13 mm, brushless, sensorless",24,4.22,0.000117,2.44e-08,0.024,0.005,0.005,0.687,4660.02910282486,0.154,2.21,29.5,5235.98775598299,0.0284,172.18
+unknown_335,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",36,10.9,0.000276,2.44e-08,0.024,0.00769,0.00769,0.431,4534.36539668127,0.0981,2.21,29.5,5235.98775598299,0.0255,206.55
+unknown_336,"ECX SPEED 13M Ø13 mm, brushless, sensorless",36,10.9,0.000276,2.44e-08,0.024,0.00769,0.00769,0.431,4534.36539668127,0.0981,2.21,29.5,5235.98775598299,0.0255,172.18
+unknown_337,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",48,19.3,0.000483,2.44e-08,0.024,0.0102,0.0102,0.321,4576.25329872913,0.0747,2.21,29.5,5235.98775598299,0.0252,206.55
+unknown_338,"ECX SPEED 13M Ø13 mm, brushless, sensorless",48,19.3,0.000483,2.44e-08,0.024,0.0102,0.0102,0.321,4576.25329872913,0.0747,2.21,29.5,5235.98775598299,0.0252,172.18
+unknown_339,"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",18,0.576,1.8e-05,2.44e-08,0.037,0.00255,0.00255,1.95,6984.80766648131,0.273,2.53,29.5,7330.38285837618,0.0798,225.91
+unknown_340,"ECX SPEED 13 M Ø13 mm, brushless, sensorless",18,0.576,1.8e-05,2.44e-08,0.037,0.00255,0.00255,1.95,6984.80766648131,0.273,2.53,29.5,7330.38285837618,0.0798,193.27
+unknown_341,"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",24,0.973,3.2e-05,2.44e-08,0.037,0.0034,0.0034,1.45,6984.80766648131,0.205,2.53,29.5,7330.38285837618,0.0839,225.91
+unknown_342,"ECX SPEED 13 M Ø13 mm, brushless, sensorless",24,0.973,3.2e-05,2.44e-08,0.037,0.0034,0.0034,1.45,6984.80766648131,0.205,2.53,29.5,7330.38285837618,0.0839,193.27
+unknown_343,"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",36,2.33,7.1e-05,2.44e-08,0.037,0.00511,0.00511,0.917,6984.80766648131,0.137,2.53,29.5,7330.38285837618,0.079,225.91
+unknown_344,"ECX SPEED 13 M Ø13 mm, brushless, sensorless",36,2.33,7.1e-05,2.44e-08,0.037,0.00511,0.00511,0.917,6984.80766648131,0.137,2.53,29.5,7330.38285837618,0.079,193.27
+unknown_345,"ECX SPEED 13 M Ø13 mm, brushless, with Hall sensors",48,4.24,0.000137,2.44e-08,0.037,0.00709,0.00709,0.682,6702.06432765823,0.0956,2.53,29.5,7330.38285837618,0.0803,225.91
+unknown_346,"ECX SPEED 13 M Ø13 mm, brushless, sensorless",48,4.24,0.000137,2.44e-08,0.037,0.00709,0.00709,0.682,6702.06432765823,0.0956,2.53,29.5,7330.38285837618,0.0803,193.27
+unknown_347,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",18,0.576,1.4e-05,1.3e-08,0.032,0.0022,0.0022,1.55,8126.2529972856,0.186,2.5,29.5,12566.3706143592,0.0688,409.18
+unknown_348,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",18,0.576,1.4e-05,1.3e-08,0.032,0.0022,0.0022,1.55,8126.2529972856,0.186,2.5,29.5,12566.3706143592,0.0688,370.73
+unknown_349,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",24,0.973,2.4e-05,1.3e-08,0.032,0.00293,0.00293,1.15,8126.2529972856,0.14,2.5,29.5,12566.3706143592,0.0723,409.18
+unknown_350,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",24,0.973,2.4e-05,1.3e-08,0.032,0.00293,0.00293,1.15,8126.2529972856,0.14,2.5,29.5,12566.3706143592,0.0723,370.73
+unknown_351,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",36,2.33,5.4e-05,1.3e-08,0.032,0.0044,0.0044,0.724,8126.2529972856,0.0933,2.5,29.5,12566.3706143592,0.0681,409.18
+unknown_352,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",36,2.33,5.4e-05,1.3e-08,0.032,0.0044,0.0044,0.724,8126.2529972856,0.0933,2.5,29.5,12566.3706143592,0.0681,370.73
+unknown_353,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, with Hall sensors",48,4.24,0.000104,1.3e-08,0.032,0.00611,0.00611,0.557,7801.62175641465,0.0657,2.5,29.5,12566.3706143592,0.0692,409.18
+unknown_354,"ECX SPEED 13M Ø13 mm, ceramic bearings, brushless, sensorless",48,4.24,0.000104,1.3e-08,0.032,0.00611,0.00611,0.557,7801.62175641465,0.0657,2.5,29.5,12566.3706143592,0.0692,370.73
+unknown_355,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",18,0.576,1.4e-05,1.3e-08,0.032,0.0022,0.0022,1.41,8126.2529972856,0.208,2.5,29.5,9424.77796076938,0.0688,391.82
+unknown_356,"ECX SPEED 13M Ø13 mm, brushless, sensorless",18,0.576,1.4e-05,1.3e-08,0.032,0.0022,0.0022,1.41,8126.2529972856,0.208,2.5,29.5,9424.77796076938,0.0688,352.27
+unknown_357,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",24,0.973,2.4e-05,1.3e-08,0.032,0.00293,0.00293,1.05,8126.2529972856,0.156,2.5,29.5,9424.77796076938,0.0723,391.82
+unknown_358,"ECX SPEED 13M Ø13 mm, brushless, sensorless",24,0.973,2.4e-05,1.3e-08,0.032,0.00293,0.00293,1.05,8126.2529972856,0.156,2.5,29.5,9424.77796076938,0.0723,352.27
+unknown_359,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",36,2.33,5.4e-05,1.3e-08,0.032,0.0044,0.0044,0.663,8126.2529972856,0.104,2.5,29.5,9424.77796076938,0.0681,391.82
+unknown_360,"ECX SPEED 13M Ø13 mm, brushless, sensorless",36,2.33,5.4e-05,1.3e-08,0.032,0.0044,0.0044,0.663,8126.2529972856,0.104,2.5,29.5,9424.77796076938,0.0681,352.27
+unknown_361,"ECX SPEED 13M Ø13 mm, brushless, with Hall sensors",48,4.24,0.000104,1.3e-08,0.032,0.00611,0.00611,0.517,7801.62175641465,0.0729,2.5,29.5,9424.77796076938,0.0692,391.82
+unknown_362,"ECX SPEED 13M Ø13 mm, brushless, sensorless",48,4.24,0.000104,1.3e-08,0.032,0.00611,0.00611,0.517,7801.62175641465,0.0729,2.5,29.5,9424.77796076938,0.0692,352.27
+unknown_363,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",18,0.138,8e-06,1.2e-07,0.072,0.00265,0.00265,6.2,6764.89618073002,0.459,0.58,16.2,7330.38285837618,0.346,207.64
+unknown_364,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",18,0.138,8e-06,1.2e-07,0.072,0.00265,0.00265,6.2,6764.89618073002,0.459,0.58,16.2,7330.38285837618,0.346,189.27
+unknown_365,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",24,0.208,1.4e-05,1.2e-07,0.072,0.00353,0.00353,4.82,6764.89618073002,0.344,0.58,16.2,7330.38285837618,0.407,207.64
+unknown_366,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",24,0.208,1.4e-05,1.2e-07,0.072,0.00353,0.00353,4.82,6764.89618073002,0.344,0.58,16.2,7330.38285837618,0.407,189.27
+unknown_367,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",36,0.461,3.2e-05,1.2e-07,0.072,0.0053,0.0053,3.1,6764.89618073002,0.23,0.58,16.2,7330.38285837618,0.414,207.64
+unknown_368,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",36,0.461,3.2e-05,1.2e-07,0.072,0.0053,0.0053,3.1,6764.89618073002,0.23,0.58,16.2,7330.38285837618,0.414,189.27
+unknown_369,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",48,0.858,5.6e-05,1.2e-07,0.072,0.00707,0.00707,2.24,6764.89618073002,0.172,0.58,16.2,7330.38285837618,0.396,207.64
+unknown_370,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",48,0.858,5.6e-05,1.2e-07,0.072,0.00707,0.00707,2.24,6764.89618073002,0.172,0.58,16.2,7330.38285837618,0.396,189.27
+unknown_371,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",18,0.138,1e-05,9.52e-08,0.072,0.00261,0.00261,6.12,6880.08791136165,0.383,0.58,16.2,12566.3706143592,0.341,385
+unknown_372,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",18,0.138,1e-05,9.52e-08,0.072,0.00261,0.00261,6.12,6880.08791136165,0.383,0.58,16.2,12566.3706143592,0.341,364.82
+unknown_373,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",24,0.208,1.8e-05,9.52e-08,0.072,0.00348,0.00348,4.75,6880.08791136165,0.287,0.58,16.2,12566.3706143592,0.401,385
+unknown_374,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",24,0.208,1.8e-05,9.52e-08,0.072,0.00348,0.00348,4.75,6880.08791136165,0.287,0.58,16.2,12566.3706143592,0.401,364.82
+unknown_375,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",36,0.461,4e-05,9.52e-08,0.072,0.00521,0.00521,3.05,6880.08791136165,0.192,0.58,16.2,12566.3706143592,0.407,385
+unknown_376,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",36,0.461,4e-05,9.52e-08,0.072,0.00521,0.00521,3.05,6880.08791136165,0.192,0.58,16.2,12566.3706143592,0.407,364.82
+unknown_377,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, with Hall sensors",48,0.858,7.1e-05,9.52e-08,0.072,0.00695,0.00695,2.2,6880.08791136165,0.144,0.58,16.2,12566.3706143592,0.389,385
+unknown_378,"ECX SPEED 16 L Ø16 mm, ceramic bearings, brushless, sensorless",48,0.858,7.1e-05,9.52e-08,0.072,0.00695,0.00695,2.2,6880.08791136165,0.144,0.58,16.2,12566.3706143592,0.389,364.82
+unknown_379,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",18,0.138,1e-05,9.52e-08,0.072,0.00261,0.00261,6.28,6880.08791136165,0.333,0.58,16.2,7330.38285837618,0.341,368.82
+unknown_380,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",18,0.138,1e-05,9.52e-08,0.072,0.00261,0.00261,6.28,6880.08791136165,0.333,0.58,16.2,7330.38285837618,0.341,348.45
+unknown_381,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",24,0.208,1.8e-05,9.52e-08,0.072,0.00348,0.00348,4.87,6890.55988687361,0.25,0.58,16.2,7330.38285837618,0.401,368.82
+unknown_382,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",24,0.208,1.8e-05,9.52e-08,0.072,0.00348,0.00348,4.87,6890.55988687361,0.25,0.58,16.2,7330.38285837618,0.401,348.45
+unknown_383,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",36,0.461,4e-05,9.52e-08,0.072,0.00521,0.00521,3.13,6890.55988687361,0.167,0.58,16.2,7330.38285837618,0.407,368.82
+unknown_384,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",36,0.461,4e-05,9.52e-08,0.072,0.00521,0.00521,3.13,6890.55988687361,0.167,0.58,16.2,7330.38285837618,0.407,348.45
+unknown_385,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",48,0.858,7.1e-05,9.52e-08,0.072,0.00695,0.00695,2.26,6890.55988687361,0.125,0.58,16.2,7330.38285837618,0.389,368.82
+unknown_386,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",48,0.858,7.1e-05,9.52e-08,0.072,0.00695,0.00695,2.26,6890.55988687361,0.125,0.58,16.2,7330.38285837618,0.389,348.45
+unknown_387,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",18,0.453,2.2e-05,9.97e-08,0.072,0.00358,0.00358,3.02,4974.18836818384,0.342,2.34,16.2,5235.98775598299,0.142,183.91
+unknown_388,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",18,0.453,2.2e-05,9.97e-08,0.072,0.00358,0.00358,3.02,4974.18836818384,0.342,2.34,16.2,5235.98775598299,0.142,162.91
+unknown_389,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",24,0.765,3.9e-05,9.97e-08,0.072,0.00478,0.00478,2.29,4974.18836818384,0.256,2.34,16.2,5235.98775598299,0.15,183.91
+unknown_390,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",24,0.765,3.9e-05,9.97e-08,0.072,0.00478,0.00478,2.29,4974.18836818384,0.256,2.34,16.2,5235.98775598299,0.15,162.91
+unknown_391,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",36,1.49,8.5e-05,9.97e-08,0.072,0.00704,0.00704,1.61,5068.43614779153,0.176,2.34,16.2,5235.98775598299,0.17,183.91
+unknown_392,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",36,1.49,8.5e-05,9.97e-08,0.072,0.00704,0.00704,1.61,5068.43614779153,0.176,2.34,16.2,5235.98775598299,0.17,162.91
+unknown_393,"ECX SPEED 16 L Ø16 mm, brushless, with Hall sensors",48,2.45,0.000149,9.97e-08,0.072,0.00931,0.00931,1.25,5110.3240498394,0.134,2.34,16.2,5235.98775598299,0.182,183.91
+unknown_394,"ECX SPEED 16 L Ø16 mm, brushless, sensorless",48,2.45,0.000149,9.97e-08,0.072,0.00931,0.00931,1.25,5110.3240498394,0.134,2.34,16.2,5235.98775598299,0.182,162.91
+unknown_395,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",18,0.512,3e-05,8.12e-08,0.05,0.00309,0.00309,2.67,5770.05850709325,0.276,1.8,20.3,7330.38285837618,0.109,192
+unknown_396,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",18,0.512,3e-05,8.12e-08,0.05,0.00309,0.00309,2.67,5770.05850709325,0.276,1.8,20.3,7330.38285837618,0.109,172.73
+unknown_397,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",24,0.841,4.7e-05,8.12e-08,0.05,0.0039,0.0039,2.05,6105.16172347616,0.227,1.8,20.3,7330.38285837618,0.111,192
+unknown_398,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",24,0.841,4.7e-05,8.12e-08,0.05,0.0039,0.0039,2.05,6105.16172347616,0.227,1.8,20.3,7330.38285837618,0.111,172.73
+unknown_399,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",36,1.92,0.000113,8.12e-08,0.05,0.00604,0.00604,1.35,5906.19418874881,0.143,1.8,20.3,7330.38285837618,0.113,192
+unknown_400,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",36,1.92,0.000113,8.12e-08,0.05,0.00604,0.00604,1.35,5906.19418874881,0.143,1.8,20.3,7330.38285837618,0.113,172.73
+unknown_401,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",48,3.35,0.000201,8.12e-08,0.05,0.00806,0.00806,1.01,5906.19418874881,0.107,1.8,20.3,7330.38285837618,0.115,192
+unknown_402,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",48,3.35,0.000201,8.12e-08,0.05,0.00806,0.00806,1.01,5906.19418874881,0.107,1.8,20.3,7330.38285837618,0.115,172.73
+unknown_403,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",18,0.512,3.4e-05,5.89e-08,0.05,0.00277,0.00277,2.67,6429.79296434711,0.328,1.8,20.3,12566.3706143592,0.0973,366.55
+unknown_404,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",18,0.512,3.4e-05,5.89e-08,0.05,0.00277,0.00277,2.67,6429.79296434711,0.328,1.8,20.3,12566.3706143592,0.0973,345.64
+unknown_405,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",24,0.841,5.4e-05,5.89e-08,0.05,0.00349,0.00349,2.04,6796.31210726592,0.271,1.8,20.3,12566.3706143592,0.0996,366.55
+unknown_406,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",24,0.841,5.4e-05,5.89e-08,0.05,0.00349,0.00349,2.04,6796.31210726592,0.271,1.8,20.3,12566.3706143592,0.0996,345.64
+unknown_407,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",36,2.43,0.000155,5.89e-08,0.05,0.0059,0.0059,1.2,6031.8578948924,0.147,1.8,20.3,12566.3706143592,0.0872,366.55
+unknown_408,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",36,2.43,0.000155,5.89e-08,0.05,0.0059,0.0059,1.2,6031.8578948924,0.147,1.8,20.3,12566.3706143592,0.0872,345.64
+unknown_409,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, with Hall sensors",48,4.06,0.000264,5.89e-08,0.05,0.0077,0.0077,0.927,6157.52160103599,0.114,1.8,20.3,12566.3706143592,0.091,366.55
+unknown_410,"ECX SPEED 16 M Ø16 mm, ceramic bearings, brushless, sensorless",48,4.06,0.000264,5.89e-08,0.05,0.0077,0.0077,0.927,6157.52160103599,0.114,1.8,20.3,12566.3706143592,0.091,345.64
+unknown_411,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",18,0.512,3.4e-05,5.89e-08,0.05,0.00277,0.00277,2.69,6440.26493985908,0.275,1.8,20.3,7330.38285837618,0.0973,350.09
+unknown_412,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",18,0.512,3.4e-05,5.89e-08,0.05,0.00277,0.00277,2.69,6440.26493985908,0.275,1.8,20.3,7330.38285837618,0.0973,329.09
+unknown_413,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",24,0.841,5.4e-05,5.89e-08,0.05,0.00349,0.00349,2.07,6806.78408277788,0.227,1.8,20.3,7330.38285837618,0.0996,350.09
+unknown_414,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",24,0.841,5.4e-05,5.89e-08,0.05,0.00349,0.00349,2.07,6806.78408277788,0.227,1.8,20.3,7330.38285837618,0.0996,329.09
+unknown_415,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",36,2.43,0.000155,5.89e-08,0.05,0.0059,0.0059,1.21,6042.32987040437,0.124,1.8,20.3,7330.38285837618,0.0872,350.09
+unknown_416,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",36,2.43,0.000155,5.89e-08,0.05,0.0059,0.0059,1.21,6042.32987040437,0.124,1.8,20.3,7330.38285837618,0.0872,329.09
+unknown_417,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",48,4.06,0.000264,5.89e-08,0.05,0.0077,0.0077,0.935,6167.99357654796,0.0962,1.8,20.3,7330.38285837618,0.091,350.09
+unknown_418,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",48,4.06,0.000264,5.89e-08,0.05,0.0077,0.0077,0.935,6167.99357654796,0.0962,1.8,20.3,7330.38285837618,0.091,329.09
+unknown_419,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",18,1.07,5e-05,8.06e-08,0.05,0.00341,0.00341,1.59,5194.09985393512,0.236,1.52,20.3,5759.58653158129,0.0573,177.36
+unknown_420,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",18,1.07,5e-05,8.06e-08,0.05,0.00341,0.00341,1.59,5194.09985393512,0.236,1.52,20.3,5759.58653158129,0.0573,156.18
+unknown_421,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",24,1.73,8.9e-05,8.06e-08,0.05,0.00455,0.00455,1.24,5194.09985393512,0.177,1.52,20.3,5759.58653158129,0.0632,177.36
+unknown_422,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",24,1.73,8.9e-05,8.06e-08,0.05,0.00455,0.00455,1.24,5194.09985393512,0.177,1.52,20.3,5759.58653158129,0.0632,156.18
+unknown_423,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",36,3.62,0.000201,8.06e-08,0.05,0.00683,0.00683,0.852,5204.57182944709,0.118,1.52,20.3,5759.58653158129,0.0678,177.36
+unknown_424,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",36,3.62,0.000201,8.06e-08,0.05,0.00683,0.00683,0.852,5204.57182944709,0.118,1.52,20.3,4712.38898038469,0.0678,156.18
+unknown_425,"ECX SPEED 16 M Ø16 mm, brushless, with Hall sensors",48,7.29,0.000357,8.06e-08,0.05,0.0091,0.0091,0.601,5194.09985393512,0.0887,1.52,20.3,5759.58653158129,0.0599,177.36
+unknown_426,"ECX SPEED 16 M Ø16 mm, brushless, sensorless",48,7.29,0.000357,8.06e-08,0.05,0.0091,0.0091,0.601,5194.09985393512,0.0887,1.52,20.3,5759.58653158129,0.0599,156.18
+unknown_427,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",18,0.101,1e-05,1.79e-07,0.1,0.00282,0.00282,8.71,6366.96111127531,0.376,0.9,13.6,10471.975511966,0.503,399.36
+unknown_428,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",18,0.101,1e-05,1.79e-07,0.1,0.00282,0.00282,8.71,6366.96111127531,0.376,0.9,13.6,10471.975511966,0.503,379.64
+unknown_429,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",24,0.161,1.7e-05,1.79e-07,0.1,0.00376,0.00376,6.45,6366.96111127531,0.282,0.9,13.6,10471.975511966,0.561,399.36
+unknown_430,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",24,0.161,1.7e-05,1.79e-07,0.1,0.00376,0.00376,6.45,6366.96111127531,0.282,0.9,13.6,10471.975511966,0.561,379.64
+unknown_431,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",36,0.35,4.3e-05,1.79e-07,0.1,0.00595,0.00595,4.16,6031.8578948924,0.172,0.9,13.6,10471.975511966,0.613,399.36
+unknown_432,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",36,0.35,4.3e-05,1.79e-07,0.1,0.00595,0.00595,4.16,6031.8578948924,0.172,0.9,13.6,10471.975511966,0.613,379.64
+unknown_433,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, with Hall sensors",48,0.528,6.3e-05,1.79e-07,0.1,0.00721,0.00721,3.32,6639.23247458643,0.152,0.9,13.6,10471.975511966,0.655,399.36
+unknown_434,"ECX SPEED 19 L Ø19 mm, ceramic bearings, brushless, sensorless",48,0.528,6.3e-05,1.79e-07,0.1,0.00721,0.00721,3.32,6639.23247458643,0.152,0.9,13.6,10471.975511966,0.655,379.64
+unknown_435,"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",18,0.101,1e-05,1.79e-07,0.1,0.00282,0.00282,8.68,6366.96111127531,0.426,0.9,13.6,7330.38285837618,0.503,383
+unknown_436,"ECX SPEED 19 L Ø19 mm, brushless, sensorless",18,0.101,1e-05,1.79e-07,0.1,0.00282,0.00282,8.68,6366.96111127531,0.426,0.9,13.6,7330.38285837618,0.503,363.45
+unknown_437,"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",24,0.161,1.7e-05,1.79e-07,0.1,0.00376,0.00376,6.43,6366.96111127531,0.319,0.9,13.6,7330.38285837618,0.561,383
+unknown_438,"ECX SPEED 19 L Ø19 mm, brushless, sensorless",24,0.161,1.7e-05,1.79e-07,0.1,0.00376,0.00376,6.43,6366.96111127531,0.319,0.9,13.6,7330.38285837618,0.561,363.45
+unknown_439,"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",36,0.35,4.3e-05,1.79e-07,0.1,0.00595,0.00595,4.14,6031.8578948924,0.194,0.9,13.6,7330.38285837618,0.613,383
+unknown_440,"ECX SPEED 19 L Ø19 mm, brushless, sensorless",36,0.35,4.3e-05,1.79e-07,0.1,0.00595,0.00595,4.14,6031.8578948924,0.194,0.9,13.6,7330.38285837618,0.613,363.45
+unknown_441,"ECX SPEED 19 L Ø19 mm, brushless, with Hall sensors",48,0.528,6.3e-05,1.79e-07,0.1,0.00721,0.00721,3.31,6639.23247458643,0.172,0.9,13.6,7330.38285837618,0.655,383
+unknown_442,"ECX SPEED 19 L Ø19 mm, brushless, sensorless",48,0.528,6.3e-05,1.79e-07,0.1,0.00721,0.00721,3.31,6639.23247458643,0.172,0.9,13.6,7330.38285837618,0.655,363.45
+unknown_443,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",18,0.0908,8e-06,1.64e-07,0.1,0.00282,0.00282,8.38,6377.43308678728,0.351,1.32,13.6,6806.78408277788,0.558,230.82
+unknown_444,"ECX SPEED 19L Ø19 mm, brushless, sensorless",18,0.0908,8e-06,1.64e-07,0.1,0.00282,0.00282,8.38,6377.43308678728,0.351,1.32,13.6,6806.78408277788,0.558,214.18
+unknown_445,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",24,0.151,1.5e-05,1.64e-07,0.1,0.00376,0.00376,6.21,6377.43308678728,0.263,1.32,13.6,6806.78408277788,0.598,230.82
+unknown_446,"ECX SPEED 19L Ø19 mm, brushless, sensorless",24,0.151,1.5e-05,1.64e-07,0.1,0.00376,0.00376,6.21,6377.43308678728,0.263,1.32,13.6,6806.78408277788,0.598,214.18
+unknown_447,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",36,0.34,3.7e-05,1.64e-07,0.1,0.00595,0.00595,4.01,6042.32987040437,0.16,1.32,13.6,6806.78408277788,0.63,230.82
+unknown_448,"ECX SPEED 19L Ø19 mm, brushless, sensorless",36,0.34,3.7e-05,1.64e-07,0.1,0.00595,0.00595,4.01,6042.32987040437,0.16,1.32,13.6,6806.78408277788,0.63,214.18
+unknown_449,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",48,0.518,5.5e-05,1.64e-07,0.1,0.0072,0.0072,3.19,6649.70445009839,0.142,1.32,13.6,6806.78408277788,0.667,230.82
+unknown_450,"ECX SPEED 19L Ø19 mm, brushless, sensorless",48,0.518,5.5e-05,1.64e-07,0.1,0.0072,0.0072,3.19,6649.70445009839,0.142,1.32,13.6,6806.78408277788,0.667,214.18
+unknown_451,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",18,0.302,2.2e-05,1.67e-07,0.1,0.00359,0.00359,4.38,4984.6603436958,0.233,1.2,13.6,5235.98775598299,0.214,192.18
+unknown_452,"ECX SPEED 19L Ø19 mm, brushless, sensorless",18,0.302,2.2e-05,1.67e-07,0.1,0.00359,0.00359,4.38,4984.6603436958,0.233,1.2,13.6,5235.98775598299,0.214,172.09
+unknown_453,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",24,0.45,3.7e-05,1.67e-07,0.1,0.00471,0.00471,3.52,5078.9081233035,0.18,1.2,13.6,5235.98775598299,0.251,192.18
+unknown_454,"ECX SPEED 19L Ø19 mm, brushless, sensorless",24,0.45,3.7e-05,1.67e-07,0.1,0.00471,0.00471,3.52,5078.9081233035,0.18,1.2,13.6,5235.98775598299,0.251,172.09
+unknown_455,"ECX SPEED 19L Ø19 mm, brushless, with Hall sensors",36,0.924,8.1e-05,1.67e-07,0.1,0.00694,0.00694,2.41,5162.68392739923,0.124,1.2,13.6,5235.98775598299,0.27,192.18
+unknown_456,"ECX SPEED 19L Ø19 mm, brushless, sensorless",36,0.924,8.1e-05,1.67e-07,0.1,0.00694,0.00694,2.41,5162.68392739923,0.124,1.2,13.6,5235.98775598299,0.27,172.09
+unknown_457,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",18,0.266,2.3e-05,1.15e-07,0.078,0.00264,0.00264,4.31,6775.36815624199,0.247,1.6,16.8,10471.975511966,0.179,381.45
+unknown_458,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",18,0.266,2.3e-05,1.15e-07,0.078,0.00264,0.00264,4.31,6775.36815624199,0.247,1.6,16.8,10471.975511966,0.179,362
+unknown_459,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",24,0.566,4.4e-05,1.15e-07,0.078,0.00353,0.00353,2.87,6764.89618073002,0.185,1.6,16.8,10471.975511966,0.15,381.45
+unknown_460,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",24,0.566,4.4e-05,1.15e-07,0.078,0.00353,0.00353,2.87,6764.89618073002,0.185,1.6,16.8,10471.975511966,0.15,362
+unknown_461,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",36,1.16,9.9e-05,1.15e-07,0.078,0.0053,0.0053,1.97,6764.89618073002,0.123,1.6,16.8,10471.975511966,0.164,381.45
+unknown_462,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",36,1.16,9.9e-05,1.15e-07,0.078,0.0053,0.0053,1.97,6764.89618073002,0.123,1.6,16.8,10471.975511966,0.164,362
+unknown_463,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, with Hall sensors",48,2.04,0.000182,1.15e-07,0.078,0.0072,0.0072,1.48,6639.23247458643,0.0901,1.6,16.8,10471.975511966,0.169,381.45
+unknown_464,"ECX SPEED 19 M Ø19 mm, ceramic bearings, brushless, sensorless",48,2.04,0.000182,1.15e-07,0.078,0.0072,0.0072,1.48,6639.23247458643,0.0901,1.6,16.8,10471.975511966,0.169,362
+unknown_465,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",18,0.266,2.3e-05,1.15e-07,0.078,0.00264,0.00264,4.32,6785.84013175395,0.207,1.6,16.8,7330.38285837618,0.179,365.18
+unknown_466,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",18,0.266,2.3e-05,1.15e-07,0.078,0.00264,0.00264,4.32,6785.84013175395,0.207,1.6,16.8,7330.38285837618,0.179,345.09
+unknown_467,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",24,0.566,4.4e-05,1.15e-07,0.078,0.00353,0.00353,2.87,6764.89618073002,0.155,1.6,16.8,7330.38285837618,0.15,365.18
+unknown_468,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",24,0.566,4.4e-05,1.15e-07,0.078,0.00353,0.00353,2.87,6764.89618073002,0.155,1.6,16.8,7330.38285837618,0.15,345.09
+unknown_469,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",36,1.16,9.9e-05,1.15e-07,0.078,0.0053,0.0053,1.98,6764.89618073002,0.103,1.6,16.8,7330.38285837618,0.164,365.18
+unknown_470,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",36,1.16,9.9e-05,1.15e-07,0.078,0.0053,0.0053,1.98,6764.89618073002,0.103,1.6,16.8,7330.38285837618,0.164,345.09
+unknown_471,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",48,2.04,0.000182,1.15e-07,0.078,0.0072,0.0072,1.48,6639.23247458643,0.0753,1.6,16.8,7330.38285837618,0.169,365.18
+unknown_472,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",48,2.04,0.000182,1.15e-07,0.078,0.0072,0.0072,1.48,6639.23247458643,0.0753,1.6,16.8,7330.38285837618,0.169,345.09
+unknown_473,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",18,0.266,2.1e-05,1.31e-07,0.078,0.00278,0.00278,4.36,6419.32098883514,0.408,0.75,16.8,6806.78408277788,0.189,209.09
+unknown_474,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",18,0.266,2.1e-05,1.31e-07,0.078,0.00278,0.00278,4.36,6419.32098883514,0.408,0.75,16.8,6806.78408277788,0.189,191.64
+unknown_475,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",24,0.566,4e-05,1.31e-07,0.078,0.00381,0.00381,2.91,6241.29740513172,0.293,0.75,16.8,6806.78408277788,0.162,209.09
+unknown_476,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",24,0.566,4e-05,1.31e-07,0.078,0.00381,0.00381,2.91,6241.29740513172,0.293,0.75,16.8,6806.78408277788,0.162,191.64
+unknown_477,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",36,1.16,9e-05,1.31e-07,0.078,0.00572,0.00572,2,6251.76938064369,0.195,0.75,16.8,6806.78408277788,0.177,209.09
+unknown_478,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",36,1.16,9e-05,1.31e-07,0.078,0.00572,0.00572,2,6251.76938064369,0.195,0.75,16.8,6806.78408277788,0.177,191.64
+unknown_479,"ECX SPEED 19 M Ø19 mm, brushless, with Hall sensors",48,2.04,0.000166,1.31e-07,0.078,0.00777,0.00777,1.5,6136.57765001206,0.142,0.75,16.8,6806.78408277788,0.183,209.09
+unknown_480,"ECX SPEED 19 M Ø19 mm, brushless, sensorless",48,2.04,0.000166,1.31e-07,0.078,0.00777,0.00777,1.5,6136.57765001206,0.142,0.75,16.8,6806.78408277788,0.183,191.64
+unknown_481,"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",18,0.715,5.5e-05,1.15e-07,0.078,0.00376,0.00376,2.23,4733.33293140862,0.25,2.77,16.8,5235.98775598299,0.0948,182.36
+unknown_482,"ECX SPEED 19M Ø19 mm, brushless, sensorless",18,0.715,5.5e-05,1.15e-07,0.078,0.00376,0.00376,2.23,4733.33293140862,0.25,2.77,16.8,5235.98775598299,0.0948,162.09
+unknown_483,"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",24,1.13,8.7e-05,1.15e-07,0.078,0.00475,0.00475,1.74,4995.13231920777,0.205,2.77,16.8,5235.98775598299,0.101,182.36
+unknown_484,"ECX SPEED 19M Ø19 mm, brushless, sensorless",24,1.13,8.7e-05,1.15e-07,0.078,0.00475,0.00475,1.74,4995.13231920777,0.205,2.77,16.8,5235.98775598299,0.101,162.09
+unknown_485,"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",36,2.8,0.000219,1.15e-07,0.078,0.00753,0.00753,1.11,4733.33293140862,0.125,2.77,16.8,5235.98775598299,0.0967,182.36
+unknown_486,"ECX SPEED 19M Ø19 mm, brushless, sensorless",36,2.8,0.000219,1.15e-07,0.078,0.00753,0.00753,1.11,4733.33293140862,0.125,2.77,16.8,5235.98775598299,0.0967,162.09
+unknown_487,"ECX SPEED 19M Ø19 mm, brushless, with Hall sensors",48,5.03,0.000358,1.15e-07,0.078,0.00962,0.00962,0.82,4932.30046613597,0.1,2.77,16.8,5235.98775598299,0.0918,182.36
+unknown_488,"ECX SPEED 19M Ø19 mm, brushless, sensorless",48,5.03,0.000358,1.15e-07,0.078,0.00962,0.00962,0.82,4932.30046613597,0.1,2.77,16.8,5235.98775598299,0.0918,162.09
+unknown_489,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, with Hall sensors",24,0.105,1.1e-05,2.36e-07,0.14,0.00423,0.00423,6.72,5665.33875197359,0.477,0.84,12.5,8901.17918517108,0.965,445.36
+unknown_490,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, sensorless",24,0.105,1.1e-05,2.36e-07,0.14,0.00423,0.00423,6.72,5665.33875197359,0.477,0.84,12.5,8901.17918517108,0.965,423.73
+unknown_491,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, with Hall sensors",36,0.189,2.4e-05,2.36e-07,0.14,0.00611,0.00611,4.74,5885.25023772488,0.339,0.84,12.5,8901.17918517108,1.16,445.36
+unknown_492,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, sensorless",36,0.189,2.4e-05,2.36e-07,0.14,0.00611,0.00611,4.74,5885.25023772488,0.339,0.84,12.5,8901.17918517108,1.16,423.73
+unknown_493,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, with Hall sensors",48,0.343,4.1e-05,2.36e-07,0.14,0.00799,0.00799,3.42,6000.4419683565,0.263,0.84,12.5,8901.17918517108,1.12,445.36
+unknown_494,"ECX SPEED 22 L Ø22 mm, ceramic bearings, brushless, sensorless",48,0.343,4.1e-05,2.36e-07,0.14,0.00799,0.00799,3.42,6000.4419683565,0.263,0.84,12.5,8901.17918517108,1.12,423.73
+unknown_495,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",24,0.105,1.1e-05,2.36e-07,0.14,0.00423,0.00423,6.92,5665.33875197359,0.425,0.84,12.5,6283.18530717959,0.965,428.82
+unknown_496,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",24,0.105,1.1e-05,2.36e-07,0.14,0.00423,0.00423,6.92,5665.33875197359,0.425,0.84,12.5,6283.18530717959,0.965,407
+unknown_497,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",36,0.189,2.4e-05,2.36e-07,0.14,0.00611,0.00611,4.89,5885.25023772488,0.303,0.84,12.5,6283.18530717959,1.16,428.82
+unknown_498,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",36,0.189,2.4e-05,2.36e-07,0.14,0.00611,0.00611,4.89,5885.25023772488,0.303,0.84,12.5,6283.18530717959,1.16,407
+unknown_499,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",48,0.343,4.1e-05,2.36e-07,0.14,0.00799,0.00799,3.54,6000.4419683565,0.235,0.84,12.5,6283.18530717959,1.12,428.82
+unknown_500,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",48,0.343,4.1e-05,2.36e-07,0.14,0.00799,0.00799,3.54,6000.4419683565,0.235,0.84,12.5,6283.18530717959,1.12,407
+unknown_501,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",24,0.103,9e-06,3.94e-07,0.14,0.00463,0.00463,6.67,5173.15590291119,0.432,0.841,12.2,6283.18530717959,1.08,260.09
+unknown_502,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",24,0.103,9e-06,3.94e-07,0.14,0.00463,0.00463,6.67,5173.15590291119,0.432,0.841,12.2,6283.18530717959,1.08,238.45
+unknown_503,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",36,0.187,1.9e-05,3.94e-07,0.14,0.00668,0.00668,4.67,5382.59541315051,0.307,0.841,12.2,6283.18530717959,1.29,260.09
+unknown_504,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",36,0.187,1.9e-05,3.94e-07,0.14,0.00668,0.00668,4.67,5382.59541315051,0.307,0.841,12.2,6283.18530717959,1.29,238.45
+unknown_505,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",48,0.341,3.2e-05,3.94e-07,0.14,0.00874,0.00874,3.36,5487.31516827017,0.238,0.841,12.2,6283.18530717959,1.23,260.09
+unknown_506,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",48,0.341,3.2e-05,3.94e-07,0.14,0.00874,0.00874,3.36,5487.31516827017,0.238,0.841,12.2,6283.18530717959,1.23,238.45
+unknown_507,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",24,0.375,2.3e-05,3.89e-07,0.14,0.00599,0.00599,3.35,3979.35069454707,0.337,0.62,12.7,4712.38898038469,0.383,212.18
+unknown_508,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",24,0.375,2.3e-05,3.89e-07,0.14,0.00599,0.00599,3.35,3979.35069454707,0.337,0.62,12.7,4712.38898038469,0.383,186.73
+unknown_509,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",36,0.823,5.6e-05,3.89e-07,0.14,0.00929,0.00929,2.27,3853.68698840348,0.214,0.62,12.7,4712.38898038469,0.407,212.18
+unknown_510,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",36,0.823,5.6e-05,3.89e-07,0.14,0.00929,0.00929,2.27,3853.68698840348,0.214,0.62,12.7,4712.38898038469,0.407,186.73
+unknown_511,"ECX SPEED 22 L Ø22 mm, brushless, with Hall sensors",48,1.27,9.7e-05,3.89e-07,0.14,0.0122,0.0122,1.8,3916.51884147528,0.164,0.62,12.7,4712.38898038469,0.461,212.18
+unknown_512,"ECX SPEED 22 L Ø22 mm, brushless, sensorless",48,1.27,9.7e-05,3.89e-07,0.14,0.0122,0.0122,1.8,3916.51884147528,0.164,0.62,12.7,4712.38898038469,0.461,186.73
+unknown_513,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",18,0.172,9e-06,1.91e-07,0.1,0.00324,0.00324,5.56,5529.20307031804,0.391,0.6,15,8901.17918517108,0.34,417
+unknown_514,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",18,0.172,9e-06,1.91e-07,0.1,0.00324,0.00324,5.56,5529.20307031804,0.391,0.6,15,8901.17918517108,0.34,394.91
+unknown_515,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",24,0.274,1.5e-05,1.91e-07,0.1,0.00417,0.00417,4.32,5728.17060504539,0.311,0.6,15,8901.17918517108,0.365,417
+unknown_516,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",24,0.274,1.5e-05,1.91e-07,0.1,0.00417,0.00417,4.32,5728.17060504539,0.311,0.6,15,8901.17918517108,0.365,394.91
+unknown_517,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",36,0.599,3.2e-05,1.91e-07,0.1,0.00602,0.00602,2.87,5948.08209079667,0.221,0.6,15,8901.17918517108,0.362,417
+unknown_518,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",36,0.599,3.2e-05,1.91e-07,0.1,0.00602,0.00602,2.87,5948.08209079667,0.221,0.6,15,8901.17918517108,0.362,394.91
+unknown_519,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, with Hall sensors",48,1.11,6.2e-05,1.91e-07,0.1,0.00834,0.00834,2.11,5728.17060504539,0.156,0.6,15,8901.17918517108,0.361,417
+unknown_520,"ECX SPEED 22M Ø22 mm, ceramic bearings, brushless, sensorless",48,1.11,6.2e-05,1.91e-07,0.1,0.00834,0.00834,2.11,5728.17060504539,0.156,0.6,15,8901.17918517108,0.361,394.91
+unknown_521,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",18,0.172,9e-06,1.91e-07,0.1,0.00324,0.00324,5.65,5529.20307031804,0.28,0.6,15,6283.18530717959,0.34,400
+unknown_522,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",18,0.172,9e-06,1.91e-07,0.1,0.00324,0.00324,5.65,5529.20307031804,0.28,0.6,15,6283.18530717959,0.34,377.82
+unknown_523,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",24,0.274,1.5e-05,1.91e-07,0.1,0.00417,0.00417,4.4,5738.64258055736,0.222,0.6,15,6283.18530717959,0.365,400
+unknown_524,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",24,0.274,1.5e-05,1.91e-07,0.1,0.00417,0.00417,4.4,5738.64258055736,0.222,0.6,15,6283.18530717959,0.365,377.82
+unknown_525,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",36,0.599,3.2e-05,1.91e-07,0.1,0.00602,0.00602,2.93,5958.55406630864,0.157,0.6,15,6283.18530717959,0.362,400
+unknown_526,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",36,0.599,3.2e-05,1.91e-07,0.1,0.00602,0.00602,2.93,5958.55406630864,0.157,0.6,15,6283.18530717959,0.362,377.82
+unknown_527,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",48,1.11,6.2e-05,1.91e-07,0.1,0.00834,0.00834,2.15,5738.64258055736,0.111,0.6,15,6283.18530717959,0.361,400
+unknown_528,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",48,1.11,6.2e-05,1.91e-07,0.1,0.00834,0.00834,2.15,5738.64258055736,0.111,0.6,15,6283.18530717959,0.361,377.82
+unknown_529,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",18,0.133,1e-05,2.15e-07,0.098,0.00337,0.00337,6.28,5330.23553559068,0.324,0.6,15,6283.18530717959,0.454,235.64
+unknown_530,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",18,0.133,1e-05,2.15e-07,0.098,0.00337,0.00337,6.28,5330.23553559068,0.324,0.6,15,6283.18530717959,0.454,212.82
+unknown_531,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",24,0.172,1.3e-05,2.15e-07,0.098,0.00393,0.00393,5.36,6084.21777245223,0.302,0.6,15,6283.18530717959,0.549,235.64
+unknown_532,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",24,0.172,1.3e-05,2.15e-07,0.098,0.00393,0.00393,5.36,6084.21777245223,0.302,0.6,15,6283.18530717959,0.549,212.82
+unknown_533,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",36,0.414,3.3e-05,2.15e-07,0.098,0.00618,0.00618,3.4,5811.94640914112,0.186,0.6,15,6283.18530717959,0.537,235.64
+unknown_534,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",36,0.414,3.3e-05,2.15e-07,0.098,0.00618,0.00618,3.4,5811.94640914112,0.186,0.6,15,6283.18530717959,0.537,212.82
+unknown_535,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",48,0.983,6.5e-05,2.15e-07,0.098,0.0087,0.0087,2.2,5497.78714378214,0.128,0.6,15,6283.18530717959,0.425,235.64
+unknown_536,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",48,0.983,6.5e-05,2.15e-07,0.098,0.0087,0.0087,2.2,5497.78714378214,0.128,0.6,15,6283.18530717959,0.425,212.82
+unknown_537,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",18,0.493,2.7e-05,2.13e-07,0.098,0.0042,0.0042,2.89,4230.67810683425,0.378,1.34,15,4712.38898038469,0.154,201.55
+unknown_538,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",18,0.493,2.7e-05,2.13e-07,0.098,0.0042,0.0042,2.89,4230.67810683425,0.378,1.34,15,4712.38898038469,0.154,175.64
+unknown_539,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",24,0.779,5e-05,2.13e-07,0.098,0.00567,0.00567,2.28,4188.79020478639,0.279,1.34,15,4712.38898038469,0.175,201.55
+unknown_540,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",24,0.779,5e-05,2.13e-07,0.098,0.00567,0.00567,2.28,4188.79020478639,0.279,1.34,15,4712.38898038469,0.175,175.64
+unknown_541,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",36,1.54,0.000109,2.13e-07,0.098,0.0084,0.0084,1.61,4241.15008234622,0.189,1.34,15,4712.38898038469,0.196,201.55
+unknown_542,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",36,1.54,0.000109,2.13e-07,0.098,0.0084,0.0084,1.61,4241.15008234622,0.189,1.34,15,4712.38898038469,0.196,175.64
+unknown_543,"ECX SPEED 22M Ø22 mm, brushless, with Hall sensors",48,2.86,0.000194,2.13e-07,0.098,0.0112,0.0112,1.18,4230.67810683425,0.141,1.34,15,4712.38898038469,0.189,201.55
+unknown_544,"ECX SPEED 22 M Ø22 mm, brushless, sensorless",48,2.86,0.000194,2.13e-07,0.098,0.0112,0.0112,1.18,4230.67810683425,0.141,1.34,15,4712.38898038469,0.189,175.64

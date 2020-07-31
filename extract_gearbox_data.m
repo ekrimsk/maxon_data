@@ -30,8 +30,12 @@ Direction = strings(num_gears, 1);
 Price = nan(num_gears, 1);
 Recommended = zeros(num_gears, 1);  % 1 = rec, 0 = no rec 
 
+fprintf('Gearbox: '); 
+disp_txt = [];
 for i = 1:num_gears
-    fprintf('Gearbox %d of %d.....\n', i, num_gears); 
+    fprintf(repmat('\b', 1, length(disp_txt))); 
+    disp_txt = sprintf('%d of %d', i, num_gears);
+    fprintf(disp_txt); 
 
     gear_text = fileread(fullfile(gears(i).folder, gears(i).name)); 
 
@@ -93,8 +97,6 @@ for i = 1:num_gears
             switch txt
                 case 'Gearhead type'
                     Gearhead_type(i) = val; 
-                %case 'Reduction'    % may want "absolute reduction" instead 
-                %    Reduction(i) = val; 
                 case 'Absolute reduction'
                      tmp = get_num(val); % 2x1 - [numerator, denominator]
                      alpha(i) = tmp(1)/tmp(2);
@@ -105,7 +107,7 @@ for i = 1:num_gears
                 case 'Max. intermittent torque'
                     Max_int_torque(i) = get_num(val); 
                 case 'Max. efficiency'
-                    eta(i) = get_num(val); 
+                    eta(i) = get_num(val)/100; 
                 case 'Mass inertia'
                     inertia(i) = get_num(val) * 1e-7;  % kg m^2 
                 case 'Direction of rotation, drive to output'
@@ -122,10 +124,21 @@ for i = 1:num_gears
 end 
 
 
-T = table(Product_Number, Description, Gearhead_type, alpha, eta,...
+T_all = table(Product_Number, Description, Gearhead_type, alpha, eta,...
                      inertia, Stages, Max_cont_torque, Max_int_torque,...
                      Direction, mass, Recommended, Price); 
-writetable(T,'gears.csv','WriteRowNames',true);  
+
+% Split into screw drive and regular 
+
+screw_idxs = contains(Description, "Screw"); 
+other_idxs = not(screw_idxs); 
+
+T_screw = T_all(screw_idxs, :); 
+T_other = T_all(other_idxs, :); 
+
+fprintf('\n'); 
+writetable(T_other,'gears.csv','WriteRowNames',true);  
+writetable(T_screw,'screw_gears.csv','WriteRowNames',true);  
 
 
 function num = get_num(str)

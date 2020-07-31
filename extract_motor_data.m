@@ -46,7 +46,7 @@ fprintf('\nMotor: ');
 disp_txt = []; 
 for i = 1:num_motors % num_motors
     fprintf(repmat('\b', 1, length(disp_txt))); 
-    disp_txt = sprintf('%d of %d...... \n', i, num_motors); 
+    disp_txt = sprintf('%d of %d', i, num_motors); 
     fprintf(disp_txt); 
     
     motor_text = fileread(fullfile(motors(i).folder, motors(i).name)); 
